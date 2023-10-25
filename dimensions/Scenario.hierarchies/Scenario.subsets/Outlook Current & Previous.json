@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"Outlook Current & Previous",
+	"Alias":"Other Name",
+	"Expression":"{TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"Outlook -*\")}"
+}

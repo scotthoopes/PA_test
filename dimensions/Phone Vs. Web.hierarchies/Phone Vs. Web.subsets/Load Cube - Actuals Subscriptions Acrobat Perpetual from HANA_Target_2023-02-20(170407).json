@@ -1,0 +1,13 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2023-02-20(170407)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Phone Vs. Web')/Hierarchies('Phone Vs. Web')/Elements('N/A')"
+		},
+		{
+			"@id":"Dimensions('Phone Vs. Web')/Hierarchies('Phone Vs. Web')/Elements('Web')"
+		}
+	]
+}

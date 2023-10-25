@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Quarters - Leaves",
+	"Expression":"{TM1FILTERBYLEVEL( {TM1SUBSETALL( [Fiscal Quarter] )}, 0)}"
+}

@@ -1,0 +1,34 @@
+{
+	"@type":"Chore",
+	"Name":"Load Cube - planning PRO - Billable Hours",
+	"StartTime":"2020-11-25T14:00Z",
+	"DSTSensitive":true,
+	"Active":false,
+	"ExecutionMode":"MultipleCommit",
+	"Frequency":"P1DT00H00M00S",
+	"Tasks":
+	[
+		{
+			"Step":0,
+			"Parameters":[],
+			"Process":
+			{
+				"@id":"Processes('SYS_Clear Error Parameters')"
+			}
+		},
+		{
+			"Step":1,
+			"Parameters":
+			[
+				{
+					"Name":"pQuarter",
+					"Value":"2022-Q1"
+				}
+			],
+			"Process":
+			{
+				"@id":"Processes('Load Cube - Planning PRO - Billable Hours')"
+			}
+		}
+	]
+}

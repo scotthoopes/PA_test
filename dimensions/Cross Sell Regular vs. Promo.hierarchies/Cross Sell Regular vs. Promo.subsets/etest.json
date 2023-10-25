@@ -1,0 +1,16 @@
+{
+	"@type":"Subset",
+	"Name":"etest",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Cross Sell Regular vs. Promo')/Hierarchies('Cross Sell Regular vs. Promo')/Elements('None')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Regular vs. Promo')/Hierarchies('Cross Sell Regular vs. Promo')/Elements('Promo')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Regular vs. Promo')/Hierarchies('Cross Sell Regular vs. Promo')/Elements('Regular')"
+		}
+	]
+}

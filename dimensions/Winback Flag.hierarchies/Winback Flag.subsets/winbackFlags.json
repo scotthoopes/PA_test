@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"winbackFlags",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Winback Flag')/Hierarchies('Winback Flag')/Elements('All Winback Flags')"
+		}
+	]
+}

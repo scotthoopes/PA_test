@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Actuals CSMB ARR Load Sign_2022-11-27(170925) view",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Fiscal Day')/Hierarchies('Fiscal Day')/Elements('Q4 2022')"
+		}
+	]
+}

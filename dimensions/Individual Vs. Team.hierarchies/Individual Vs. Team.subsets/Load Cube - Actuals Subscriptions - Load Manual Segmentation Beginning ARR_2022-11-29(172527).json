@@ -1,0 +1,16 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-29(172527)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Individual Vs. Team')/Hierarchies('Individual Vs. Team')/Elements('Not Assigned')"
+		},
+		{
+			"@id":"Dimensions('Individual Vs. Team')/Hierarchies('Individual Vs. Team')/Elements('Team')"
+		},
+		{
+			"@id":"Dimensions('Individual Vs. Team')/Hierarchies('Individual Vs. Team')/Elements('Individual')"
+		}
+	]
+}

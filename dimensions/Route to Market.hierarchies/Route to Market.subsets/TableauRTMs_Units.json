@@ -1,0 +1,16 @@
+{
+	"@type":"Subset",
+	"Name":"TableauRTMs_Units",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('Perpetual')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('Adobe.com Product')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('Etail/Retail')"
+		}
+	]
+}

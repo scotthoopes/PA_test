@@ -1,0 +1,16 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-08(171542)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Regular vs. Promo')/Hierarchies('Regular vs. Promo')/Elements('NOT ASSIGNED')"
+		},
+		{
+			"@id":"Dimensions('Regular vs. Promo')/Hierarchies('Regular vs. Promo')/Elements('REGULAR')"
+		},
+		{
+			"@id":"Dimensions('Regular vs. Promo')/Hierarchies('Regular vs. Promo')/Elements('PROMO')"
+		}
+	]
+}

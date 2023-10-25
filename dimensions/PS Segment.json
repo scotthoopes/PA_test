@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"PS Segment",
+	"Hierarchies@Code.links":
+	[
+		"PS Segment.hierarchies/PS Segment.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('PS Segment')/Hierarchies('PS Segment')"
+	}
+}

@@ -1,0 +1,13 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2023-02-20(170407)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Actuals Subscriptions_m')/Hierarchies('Actuals Subscriptions_m')/Elements('Gross Units')"
+		},
+		{
+			"@id":"Dimensions('Actuals Subscriptions_m')/Hierarchies('Actuals Subscriptions_m')/Elements('Gross New (Sell Thru)')"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"@type":"Subset",
+	"Name":"eeee",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('#')"
+		},
+		{
+			"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('COMMERCIAL')"
+		},
+		{
+			"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('EDUCATION')"
+		},
+		{
+			"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('GOVERNMENT')"
+		},
+		{
+			"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('NON-PROFIT')"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"segments",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Segments')/Hierarchies('Segments')/Elements('All Segments')"
+		}
+	]
+}

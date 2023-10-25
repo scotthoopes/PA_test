@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"2022.07.26 - FX Allocation Auto Calc Testing DME CSMB (RCE)_Source_2022-07-26(122821)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('All Cross Sell Product Names')"
+		}
+	]
+}

@@ -1,0 +1,275 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Segments",
+	"Elements":
+	[
+		{
+			"Name":"All Segments",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"ACROBAT CC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ACROBAT DC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HED",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"INDIVIDUAL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K12+EEA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PDF SERVICES",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PHOTOGRAPHY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SIGN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"STOCK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"STUDENT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TEAM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB ETLA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Alternate Segment Consolidations",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Institutions",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Sign & PDF",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"FRAME IO",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"All Segments",
+			"ComponentName":"ACROBAT CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Segments",
+			"ComponentName":"ACROBAT DC",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Segments",
+			"ComponentName":"FRAME IO",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Segments",
+			"ComponentName":"HED",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Segments",
+			"ComponentName":"INDIVIDUAL",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Segments",
+			"ComponentName":"K12+EEA",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Segments",
+			"ComponentName":"NA",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Segments",
+			"ComponentName":"PDF SERVICES",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Segments",
+			"ComponentName":"PHOTOGRAPHY",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Segments",
+			"ComponentName":"SIGN",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Segments",
+			"ComponentName":"STOCK",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Segments",
+			"ComponentName":"STUDENT",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Segments",
+			"ComponentName":"TEAM",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Segments",
+			"ComponentName":"CSMB ETLA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Segment Consolidations",
+			"ComponentName":"Institutions",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Segment Consolidations",
+			"ComponentName":"Sign & PDF",
+			"Weight":0
+		},
+		{
+			"ParentName":"Institutions",
+			"ComponentName":"HED",
+			"Weight":1
+		},
+		{
+			"ParentName":"Institutions",
+			"ComponentName":"K12+EEA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sign & PDF",
+			"ComponentName":"PDF SERVICES",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sign & PDF",
+			"ComponentName":"SIGN",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"Segments.subsets/2022.07.26 - FX Allocation Auto Calc Testing DME CSMB (RCE)_Source_2022-07-26(122821).json",
+		"Segments.subsets/actuals.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-13(184104).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-13(184104)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-13(190754).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-13(190754)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-14(192924).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-14(192924)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-14(225205).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-14(225205)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-17(174643).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-17(174643)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-17(181205).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-17(181205)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-24(193351).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-24(193351)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-28(203253).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-28(203253)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-31(191202).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-31(191202)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-01(160815).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-01(160815)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-03(220243).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-03(220243)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-03(221328).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-03(221328)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-04(170615).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-04(170615)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-06(171120).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-06(171120)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-07(171210).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-07(171210)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-08(171542).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-08(171542)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-09(170932).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-09(170932)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-10(170558).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-10(170558)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-11(171222).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-11(171222)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-13(170731).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-13(170731)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-14(170806).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-14(170806)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-15(170757).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-15(170757)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-16(170903).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-16(170903)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-17(170900).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-17(170900)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-18(170459).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-18(170459)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-20(170738).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-20(170738)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-21(170414).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-21(170414)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-22(170808).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-22(170808)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-23(170837).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-23(170837)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-24(170938).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-24(170938)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-25(170956).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-25(170956)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-27(172039).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-27(172039)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-28(171955).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-28(171955)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-29(172527).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-29(172527)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-30(172404).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-30(172404)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-01(172606).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-01(172606)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-02(173745).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-02(173745)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-04(182332).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-04(182332)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-05(182757).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-05(182757)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-06(172110).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-06(172110)_Units.json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2022-12-02(174155).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2022-12-05(183214).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2023-02-20(170407).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2023-03-27(182736).json",
+		"Segments.subsets/Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2023-04-10(165426).json",
+		"Segments.subsets/segments.json",
+		"Segments.subsets/W-ARR&Units WtD.json",
+		"Segments.subsets/zTest.json"
+	]
+}

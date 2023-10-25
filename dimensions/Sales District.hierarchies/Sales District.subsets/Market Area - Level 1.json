@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Market Area - Level 1",
+	"Expression":"{TM1SORT( {TM1FILTERBYLEVEL( { HIERARCHIZE( {TM1SUBSETALL( [Sales District] )} ) }, 1)}, ASC)}"
+}

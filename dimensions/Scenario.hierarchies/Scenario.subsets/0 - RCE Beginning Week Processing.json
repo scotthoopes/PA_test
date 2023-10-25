@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"0 - RCE Beginning Week Processing",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Rocke Backup')"
+		}
+	]
+}

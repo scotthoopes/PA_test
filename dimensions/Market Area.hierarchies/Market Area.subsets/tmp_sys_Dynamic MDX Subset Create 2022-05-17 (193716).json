@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"tmp_sys_Dynamic MDX Subset Create 2022-05-17 (193716)",
+	"Expression":"{TM1FILTERBYPATTERN( {TM1SUBSETALL( [Market Area] )}, \"*#*\")}"
+}

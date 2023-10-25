@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"Acrobat Members",
+	"Alias":"Key - Name",
+	"Expression":"{TM1DRILLDOWNMEMBER( {[Product Name].[10800]}, ALL, RECURSIVE )}"
+}

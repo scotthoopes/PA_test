@@ -1,0 +1,112 @@
+{
+	"@type":"Subset",
+	"Name":"TEST_2022-11-06(165947)planning_subs view",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('#')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Acrobat CC')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Acrobat DC Perpetual')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Acrobat DC Subscription')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('CCE')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('CCM')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('CCM PP')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('CCP Classic')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('CCP New')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('CCT')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('CSMB ETLA')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('EEA')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Enterprise')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Frame IO')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('HED')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('K12')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Lightroom CC')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Lightroom CC IAP')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Lightroom CC Low Tier')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Lightroom CC Mid Tier')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Lightroom CC Mobile')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('PDF Services')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Sign')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Stock Bundle CC')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Stock Bundle CCP')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Stock Bundle CCT')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Stock Large')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Stock Medium')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Stock Mezzanine')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Stock Micro')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Stock Mini')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Stock Perpetual')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Stock Small')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Students')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('SUBD')"
+		}
+	]
+}

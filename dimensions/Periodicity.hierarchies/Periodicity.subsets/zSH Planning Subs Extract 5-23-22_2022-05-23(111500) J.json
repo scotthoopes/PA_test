@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"zSH Planning Subs Extract 5-23-22_2022-05-23(111500) J",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Periodicity')/Hierarchies('Periodicity')/Elements('Value')"
+		}
+	]
+}

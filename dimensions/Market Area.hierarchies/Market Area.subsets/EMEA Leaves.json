@@ -1,0 +1,55 @@
+{
+	"@type":"Subset",
+	"Name":"EMEA Leaves",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('EMEA (G)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('CEEU (R)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('GER (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('SWI (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('EE (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('MED (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('FEUR (R)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('XE (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('NEUR (R)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('NORD (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('UK (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('SWEU (R)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('BEN (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('FRA (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('IBE (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('ITA (MA)')"
+		}
+	]
+}

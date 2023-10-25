@@ -1,0 +1,52 @@
+{
+	"@type":"Subset",
+	"Name":"Default",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('All Offerings')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Acrobat CC')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Acrobat DC')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Commercial Individual')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Commercial Team')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Institutions')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Students')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Photography')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('CSMB ETLA')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Stock')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('PDF Services')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Sign')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Enterprise')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Other Perpetual')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Alternate Hierarchies')"
+		}
+	]
+}

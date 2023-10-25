@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"MA Leaves - Name",
+	"Alias":"Name",
+	"Expression":"{TM1FILTERBYLEVEL( {TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [Market Area] )}, \"All Market Areas\")}, ALL, RECURSIVE )}, 0)}"
+}

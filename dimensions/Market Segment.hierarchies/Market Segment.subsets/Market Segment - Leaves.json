@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Market Segment - Leaves",
+	"Expression":"{TM1SORT( {TM1FILTERBYLEVEL( {TM1SUBSETALL( [Market Segment] )}, 0)}, ASC)}"
+}

@@ -1,0 +1,55 @@
+{
+	"@type":"Subset",
+	"Name":"planning - OBU",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1703')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1708')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1709')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1710')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1730')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1711')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1712')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1713')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1714')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1715')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1716')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1727')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1717')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1718')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1719')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1720')"
+		}
+	]
+}

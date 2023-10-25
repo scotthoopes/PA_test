@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"All Scenarios",
+	"Expression":"{ HIERARCHIZE( {TM1SUBSETALL( [Scenario] )} ) }"
+}

@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Entitlement Period - Leaves",
+	"Expression":"{TM1FILTERBYLEVEL( { HIERARCHIZE( {TM1SUBSETALL( [Entitlement Period] )} ) }, 0)}"
+}

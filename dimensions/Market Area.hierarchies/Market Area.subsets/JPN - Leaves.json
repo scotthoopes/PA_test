@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"JPN - Leaves",
+	"Expression":"{DISTINCT(DESCENDANTS([Market Area].[Market Area].[All Market Areas^JPN (G)] , 99 , LEAVES))}"
+}

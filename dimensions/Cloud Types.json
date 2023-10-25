@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"Cloud Types",
+	"Hierarchies@Code.links":
+	[
+		"Cloud Types.hierarchies/Cloud Types.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Cloud Types')/Hierarchies('Cloud Types')"
+	}
+}

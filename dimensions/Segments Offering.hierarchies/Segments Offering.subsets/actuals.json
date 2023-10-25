@@ -1,0 +1,121 @@
+{
+	"@type":"Subset",
+	"Name":"actuals",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('Acrobat CC')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('Com Acrobat DC')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('Com CCI Complete')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('Com CCI Single App')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('Com CCP Classic')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('Com CCP New')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('Com Lightroom CC')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('Com Lightroom CC Mobile')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('Com PDF Services')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('Com Sign')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('Edu Acrobat DC')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('Edu CCP Classic')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('Edu CCP New')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('Edu Lightroom CC')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('EEA')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('Gov Acrobat DC')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('HED CCDA Complete')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('HED CCDA Single App')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('HED CCE Complete')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('HED CCE Single App')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('HED CCT Complete')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('HED CCT Single App')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('HED CCTR')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('K12 Complete')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('NA')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('SMB CCE Complete')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('SMB CCE Single App')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('SMB CCT Complete')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('SMB CCT Single App')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('SMB CCTR')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('STE CCI Complete')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('STE CCI Single App')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('Stock Large')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('Stock Medium')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('Stock Mezzanine')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('Stock Micro')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('Stock Mini')"
+		},
+		{
+			"@id":"Dimensions('Segments Offering')/Hierarchies('Segments Offering')/Elements('Stock Small')"
+		}
+	]
+}

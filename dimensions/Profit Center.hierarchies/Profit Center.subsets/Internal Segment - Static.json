@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Internal Segment - Static",
+	"Expression":"{FILTER( {TM1SUBSETALL( [Profit Center] )}, [Profit Center].[2013 Plan Hierarchy] <> \"\")}"
+}

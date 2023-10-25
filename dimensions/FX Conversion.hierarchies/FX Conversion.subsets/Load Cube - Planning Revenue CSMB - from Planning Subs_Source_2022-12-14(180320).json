@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Planning Revenue CSMB - from Planning Subs_Source_2022-12-14(180320)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD Current QRF Rate')"
+		}
+	]
+}

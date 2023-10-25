@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"Default",
+	"Alias":"Key - Name",
+	"Expression":"TM1SubsetAll([Sales District])"
+}

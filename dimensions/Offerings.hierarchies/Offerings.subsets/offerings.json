@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"offerings",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('All Offerings')"
+		}
+	]
+}

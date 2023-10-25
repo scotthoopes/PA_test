@@ -1,0 +1,4492 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Scenario",
+	"Elements":
+	[
+		{
+			"Name":"Common Scenarios",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Actuals",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals - FY22 Segmentation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals – FY21 Segmentation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Outlook - Current",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Outlooks - Recent",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2023 Q1 - Outlook Week 2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2023 Q1 - Outlook Week 3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2023 Q1 - Outlook Week 4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2023 Q1 - Outlook Week 5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2023 Q1 - Outlook Week 6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2023 Q1 - Outlook Week 7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2023 Q1 - Outlook Week 8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2023 Q1 - Outlook Week 9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2023 Q1 - Outlook Week 10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2023 Q1 - Outlook Week 11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2023 Q1 - Outlook Week 12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2023 Q1 - Outlook Week 13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2023 Q2 - Outlook Week 1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2023 Q2 - Outlook Week 2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2023 Q2 - Outlook Week 3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2023 Q2 - Outlook Week 4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2023 Q2 - Outlook Week 5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QRF Scenarios",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Forecast1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Forecast10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Forecast11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Forecast3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Forecast5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Forecast6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Forecast7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Forecast8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Forecast9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Forecast Combined",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Plan Scenarios - Locked",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2019 Plan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020 H2 Forecast",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020 Plan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020 Re-Plan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Baseline",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Plan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"20220728 Actuals - FY22 Segmentation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Plan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Plan at FY21 Rates",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2023 Plan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"6.4 Post Shantanu review CSMB Snapshot",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals at FY22 Plan Rates",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Q1 2021 - Post Mortem",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Q1 2022 - Post Mortem",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Q2 2020 - Post Mortem",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Q2 2021 - Post Mortem",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Q2 2022 - Post Mortem",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Q3 2020 - Post Mortem",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Q3 2021 - Post Mortem",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Q3 2022 - Post Mortem",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Q4 2020 - Post Mortem",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Q4 2021 - Post Mortem",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Q4 2022 - Post Mortem",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"C&B Q420 FY21 1st Pass_Mid Case July 28",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Corp FPA Forecast",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB 1st Pass Q3 QRF 2021",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB_Q4 QRF Pass 2_Snapshot_0810",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB Gross New Pass 1.5 Q4 QRF 2022 Snapshot 8.9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB Gross Pass 1 Q4 QRF 2022 Snapshot 7.28",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB Net New Pass 1 Q4 QRF 2022 Snapshot 8.3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB Net New Pass 2 Q4 QRF 2022 Snapshot 8.24",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB Q3 QRF 2020 1st Pass",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB Q3 QRF 2021 v1.5 5.10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB Q3 QRF 2021 v1.5 5.7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB Q3 QRF 2022 1st Pass Net New",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DME Ops plan pass 2.5 pre segmentation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DMe Q2 2021 QRF - High Case (3/15)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DMe Q2 2021 QRF - Mid Case (3/15)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DME Q2 QRF 2022 Net New Pass 2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DME Q3 QRF 2022 Net New Pass 2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DX Prelim Q2 QRF 2021",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY20 Actuals at FY20 FX Rates",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY21 11.19 v3 Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY21 DX Bookings v2 Prelim",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY22-23 Strat Plan – 6/13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY22-23 Strat Plan – 6/13 v2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY22/23 Strat Plan 6-28",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY22 09.23 v1 Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY22 11.03 v2 Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY22 11.23 Pass 3.0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY22 Rolling Plan June High",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY22 Strat Plan Pass 2.0 10.08",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY23 Gross Plan Pass 2.5 11.02.2022",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY23 High Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY23 Mid Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY23 Plan ARR – 1130 Rate – FY23 End-year",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY23 Plan ARR – 1130 Rate – FY23 Mid-year",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY23 Plan ARR – 1130 Rate – FY23 Start-year",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY23 Plan at FY22 Plan and FY23 Plan Rate",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY23 Plan for QBR Meeting",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY23 Plan Pass 2.0 10.20.2022",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY23 Plan v2 submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY23 to FY25 - 3 Year Aspiration",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q121 v4 High Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q121 v4 Mid Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q122 Actuals FY22 Segmentation Snapshot",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q122 High Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q122 Mid Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q221 Revenue Bridge High",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q221 Revenue Bridge Mid",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q222 High Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q222 Mid Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 QRF 2019",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 QRF 2021",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 QRF 2022",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 QRF 2022 Pass 1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 QRF 2022 Pass 2.0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3 2020 Layer Performance",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q320 High Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q320 Mid Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q320 Mid Submission_DX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q321 High Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q321 Mid Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q322 High Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q322 Mid Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3 QRF 2019",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3 QRF 2020",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3 QRF 2022",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q420 High Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q420 Mid Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q421 High Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q421 Mid Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q421 Mid Submission v2 9.21",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q421 Mid Submission v3 9.27",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q422 High Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q422 Mid Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4 QRF 2020",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4 QRF 2021",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4 QRF 2021 Pass 1.0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4 QRF 2021 Pass 2.0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4 QRF 2022",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4RF FY22 Plan Gross P1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rocke Backup",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Strat Plan – 1st Pass Baseline Net New ARR 5.18",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zTest Migration Entry 20210414",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Outlooks - Historical",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2019 Q4 - Outlook Week 10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2019 Q4 - Outlook Week 11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2019 Q4 - Outlook Week 12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2019 Q4 - Outlook Week 13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2019 Q4 - Outlook Week 3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2019 Q4 - Outlook Week 4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2019 Q4 - Outlook Week 5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2019 Q4 - Outlook Week 6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2019 Q4 - Outlook Week 7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2019 Q4 - Outlook Week 8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2019 Q4 - Outlook Week 9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020 Q1 - Outlook Week 12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020 Q1 - Outlook Week 5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020 Q2 - Outlook Week 12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020 Q2 - Outlook Week 5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020 Q3 - Outlook Week 12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020 Q3 - Outlook Week 5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020 Q4 - Outlook Week 12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020 Q4 - Outlook Week 5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q1 - Outlook Week 2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q1 - Outlook Week 3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q1 - Outlook Week 4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q1 - Outlook Week 5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q1 - Outlook Week 6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q1 - Outlook Week 7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q1 - Outlook Week 8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q1 - Outlook Week 9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q2 - Outlook Week 10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q2 - Outlook Week 11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q2 - Outlook Week 12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q2 - Outlook Week 13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q2 - Outlook Week 2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q2 - Outlook Week 3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q2 - Outlook Week 4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q2 - Outlook Week 5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q2 - Outlook Week 6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q2 - Outlook Week 7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q2 - Outlook Week 8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q2 - Outlook Week 9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q3 - Outlook Week 10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q3 - Outlook Week 11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q3 - Outlook Week 12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q3 - Outlook Week 13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q3 - Outlook Week 2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q3 - Outlook Week 3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q3 - Outlook Week 4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q3 - Outlook Week 5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q3 - Outlook Week 6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q3 - Outlook Week 7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q3 - Outlook Week 8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q3 - Outlook Week 9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q4 - Outlook Week 10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q4 - Outlook Week 11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q4 - Outlook Week 12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q4 - Outlook Week 13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q4 - Outlook Week 2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q4 - Outlook Week 3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q4 - Outlook Week 4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q4 - Outlook Week 5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q4 - Outlook Week 6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q4 - Outlook Week 7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q4 - Outlook Week 8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q1 - Outlook Week 1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q1 - Outlook Week 10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q1 - Outlook Week 11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q1 - Outlook Week 12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q1 - Outlook Week 13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q1 - Outlook Week 2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q1 - Outlook Week 3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q1 - Outlook Week 4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q1 - Outlook Week 5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q1 - Outlook Week 6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q1 - Outlook Week 7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q1 - Outlook Week 8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q1 - Outlook Week 9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q2 - Outlook Week 1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q2 - Outlook Week 10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q2 - Outlook Week 11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q2 - Outlook Week 12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q2 - Outlook Week 13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q2 - Outlook Week 2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q2 - Outlook Week 3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q2 - Outlook Week 4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q2 - Outlook Week 5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q2 - Outlook Week 6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q2 - Outlook Week 7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q2 - Outlook Week 8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q2 - Outlook Week 9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q3 - Outlook Week 1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q3 - Outlook Week 10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q3 - Outlook Week 11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q3 - Outlook Week 12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q3 - Outlook Week 13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q3 - Outlook Week 2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q3 - Outlook Week 3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q3 - Outlook Week 4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q3 - Outlook Week 5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q3 - Outlook Week 6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q3 - Outlook Week 7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q3 - Outlook Week 8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q3 - Outlook Week 9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q4 - Outlook Week 1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q4 - Outlook Week 10",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q4 - Outlook Week 11",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q4 - Outlook Week 12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q4 - Outlook Week 13",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q4 - Outlook Week 2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q4 - Outlook Week 3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q4 - Outlook Week 4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q4 - Outlook Week 5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q4 - Outlook Week 6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q4 - Outlook Week 7",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q4 - Outlook Week 8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022 Q4 - Outlook Week 9",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Misc Admin Reports",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Actuals Q1 2022 - SFDC Prelim Bookings",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Q1 2023 - SFDC Prelim Bookings",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Q2 2022 - SFDC Prelim Bookings",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Q2 2023 - SFDC Prelim Bookings",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Q3 2022 - SFDC Prelim Bookings",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Q3 2023 - SFDC Prelim Bookings",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Q4 2022 - SFDC Prelim Bookings",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Q4 2023 - SFDC Prelim Bookings",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals – Saturday Regional Submissions",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sales Finance QA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"tmp_SubscriptionTesting",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QRF Mid (DMe)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Forecast2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Forecast4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Locked Reporting Plans",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2017 Plan Fx",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2019 Plan 605",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020 Plan - DME",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Acrobat Snapshot 01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Act Trials Breakout",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actual Backup DDOM 20200308",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals 2019 Backup",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals 605",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals at FY17 FX rates",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals at FY18 FX rates",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals at FY21 FX Rates",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals from GTM App Store",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Product",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Q1 2020 - Post Mortem",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Reported",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Actuals Adjustment",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Calculated",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals RTB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Adobe Express Snapshot 01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AEM Profit Center Breakout – Bookings",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Allocations",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AMER Test01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AMER Test02",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AMER Test03",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ASC606",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ASIA Test01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ASIA Test02",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ASIA Test03",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Attrition Reseller Entry",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CC DME Layer Tracking",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CC Snapshot 01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CC Snapshot 02",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CC Strat Plan 2020 06-12-2019",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DME Test01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DME Test02",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DX Q2QRF 2021 Post Close",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DX Test01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DX Test02",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EMEA Test01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EMEA Test02",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EMEA Test03",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Forecast Plan 01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Forecast Plan 02",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY19-21 CC Strat Plan (12-10-2018)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY19-21 CC Strat Plan (FX Adj)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY19 Actuals at FY19 FX Rates",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY20 Plan (2019-12-04)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY20 Rolling Plan July High",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY20 Rolling Plan July Mid",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY20 Rolling Plan October High",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY20 Rolling Plan October Mid",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY21 Forecast4 Backup 3-25-2020",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JPN Test01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JPN Test02",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JPN Test03",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Layers BU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Layers Consolidated",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Layer Tracking BU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Layer Tracking Consolidated",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Layer Tracking OL12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Layer Tracking OL4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Layer Tracking OL6",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Layer Tracking OL8",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Load Attrition A.Com PUF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Load Attrition App Store",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Load Attrition Reseller",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Mid Case Backup",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Migrations Pass 1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Multivariate Actuals",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Multivariate Forecast",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Outlook-Current - Outlook-Previous",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Outlook - Current Q2 2020 Backup",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Outlook - Current Spread",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Outlook-Input - OL-Previous",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2023 Q1 - Outlook Week 1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Outlook-Input - QRF-Previous",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Outlook - Input",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3 QRF 2021",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Outlook Split",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q12020 Rev Bridge High",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q1’20 Revenue Bridge High",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q1’20 Revenue Bridge Low",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q1’20 Revenue Bridge Mid",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 QRF 2020",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 QRF Mid 03.23.20",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2’19 QRF_Geo Input",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3QRF_DME_Prelim_High",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3QRF_DME_Prelim_Mid",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4 QRF 2019",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rev_Bridge_Q220_High",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RevBridge Current",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rolling Forecast",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Seg Snapshot 01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sign Snapshot 01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Strat Plan Pass 1 7.21",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Temp Load",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Topline FY20-FY21 Topline (2019.10.10) High",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Topline FY20-FY21 Topline (2019.10.10) Mid",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Training",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"WH Forecast",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zAMER Backup 01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zAMER Backup 02",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zAMER Backup 03",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zASIA Backup 01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zASIA Backup 02",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zASIA Backup 03",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zEMEA Backup 01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zEMEA Backup 02",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zEMEA Backup 03",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zJPN Backup 01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zJPN Backup 02",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zJPN Backup 03",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zKline Backup 04",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zKline Backup 05",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zSCB Test01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zSCB Test02",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zSCB Test03",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zSCB Test Snapshot 01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zTest Actuals Layered",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zTest Migration Entry",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DME Revenue01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DME Revenue02",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021 Q1 - Outlook Week 12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AMO Scenarios",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"QE Prelim Estimate Scenarios",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"QE Prelim Estimates - ACS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QE Prelim Estimates - Americas",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QE Prelim Estimates - Asia",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QE Prelim Estimates - Consolidated View",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QE Prelim Estimates - DME Attr & Retention",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QE Prelim Estimates - DX Attr & Retention",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QE Prelim Estimates - EMEA C&B",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QE Prelim Estimates - EMEA Central",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QE Prelim Estimates - EMEA North",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QE Prelim Estimates - EMEA Southwest",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QE Prelim Estimates - Japan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QE Prelim Estimates - WW Commercial",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Top Line Scenarios - Locked",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CSMB Scenarios",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CSMB 2021 Plan Gross New 2020-09-03",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB 3rd Pass Offering Targets",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB Finalized Q2’20 Gross",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB FY20 Plan Pre-FX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB FY20 Strat Plan Alignment 1st Pass",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB Geo 1st Pass FY20 Plan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB Q2 2020 Final Pass",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB Q2 2020 QRF 2nd Pass",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB Q3 QRF 2020 5.11.2020",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB Q3 QRF 2021 Pass 2 5.28 Pre Exec Review",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB Topline 5.13.2020 W11 Snapshot",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB WW Consol Target Q2 2020 QRF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY20-22 CSMB Strat Plan (2019-10-07) FINAL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Calc ARPU",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2016 Plan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2017 Plan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2018 Plan",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 QRF 2016",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 QRF 2017",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 QRF 2018",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3 QRF 2016",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3 QRF 2017",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3 QRF 2018",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4 QRF 2016",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4 QRF 2017",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4 QRF 2018",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Tableau Export",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Actuals External",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q22020 Rev Bridge Mid",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Q22020 Mid DME CSMB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q22020 Mid DME Excluding CSMB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rev Bridge Mid Q220",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Rev_Bridge_Q220_Mid_2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rev_Bridge_Q220_Mid_4",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"etest",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Rolling forecast Week17",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020 Q4 – Outlook Week 6 WW Risk Adjusted",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KTest",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zKline Backup 01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zKline Backup 02",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zKline Backup 03",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zAH Backup01",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zAH Backup02",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zAH Backup03",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zAH Backup04",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zAH Backup05",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Outlook - Automated",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"zSYS Temp Allocate Holder",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals R360 by Transaction Date",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY22 Strat Plan Pass 1 9.29",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ScenarioVarianceConsolidation",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Q422 Midcase final 9.16.2022",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY23 to FY25 - Internal view",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY23 to FY27 - External view",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FY23 NNARR Q422CP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals (Var)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Forecast1 (Var)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Forecast2 (Var)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Forecast4 (Var)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Forecast6 (Var)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Outlook - Current (Var)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Actuals - Segmentation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022-52 Actuals - FY22 Segmentation",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals - FY23 Segmentation Reval for FY21-FY22",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 QRF 2023 Net New Pass 1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 QRF 2023 Net New Pass 2",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 QRF 2023 Net New Pass 2.5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CAM_Snapshot",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 QRF 2023 Net New Pass 3",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 QRF 2023 Net New Pass 3.5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals - Pre Stock Bundle Change - 2023-03-06",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Q1 2023 - Post Mortem",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q223 High Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q223 Mid Submission",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 QRF 2023",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals FX Neutral",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Actuals Calculated FX Neutral",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Common Scenarios",
+			"ComponentName":"2023 Plan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Common Scenarios",
+			"ComponentName":"Actuals",
+			"Weight":1
+		},
+		{
+			"ParentName":"Common Scenarios",
+			"ComponentName":"Actuals - FY22 Segmentation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Common Scenarios",
+			"ComponentName":"Actuals - Segmentation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Common Scenarios",
+			"ComponentName":"Actuals – FY21 Segmentation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Common Scenarios",
+			"ComponentName":"Corp FPA Forecast",
+			"Weight":1
+		},
+		{
+			"ParentName":"Common Scenarios",
+			"ComponentName":"Forecast1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Common Scenarios",
+			"ComponentName":"Forecast Plan 01",
+			"Weight":1
+		},
+		{
+			"ParentName":"Common Scenarios",
+			"ComponentName":"Outlook - Current",
+			"Weight":1
+		},
+		{
+			"ParentName":"Common Scenarios",
+			"ComponentName":"Outlook - Input",
+			"Weight":1
+		},
+		{
+			"ParentName":"Common Scenarios",
+			"ComponentName":"Q2 QRF 2023",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Recent",
+			"ComponentName":"2023 Q2 - Outlook Week 1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Recent",
+			"ComponentName":"2023 Q2 - Outlook Week 2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Recent",
+			"ComponentName":"2023 Q2 - Outlook Week 3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Recent",
+			"ComponentName":"2023 Q2 - Outlook Week 4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Recent",
+			"ComponentName":"2023 Q2 - Outlook Week 5",
+			"Weight":1
+		},
+		{
+			"ParentName":"QRF Scenarios",
+			"ComponentName":"Forecast1",
+			"Weight":0
+		},
+		{
+			"ParentName":"QRF Scenarios",
+			"ComponentName":"Forecast10",
+			"Weight":0
+		},
+		{
+			"ParentName":"QRF Scenarios",
+			"ComponentName":"Forecast11",
+			"Weight":0
+		},
+		{
+			"ParentName":"QRF Scenarios",
+			"ComponentName":"Forecast2",
+			"Weight":0
+		},
+		{
+			"ParentName":"QRF Scenarios",
+			"ComponentName":"Forecast3",
+			"Weight":0
+		},
+		{
+			"ParentName":"QRF Scenarios",
+			"ComponentName":"Forecast4",
+			"Weight":0
+		},
+		{
+			"ParentName":"QRF Scenarios",
+			"ComponentName":"Forecast5",
+			"Weight":0
+		},
+		{
+			"ParentName":"QRF Scenarios",
+			"ComponentName":"Forecast6",
+			"Weight":0
+		},
+		{
+			"ParentName":"QRF Scenarios",
+			"ComponentName":"Forecast7",
+			"Weight":0
+		},
+		{
+			"ParentName":"QRF Scenarios",
+			"ComponentName":"Forecast8",
+			"Weight":0
+		},
+		{
+			"ParentName":"QRF Scenarios",
+			"ComponentName":"Forecast9",
+			"Weight":0
+		},
+		{
+			"ParentName":"QRF Scenarios",
+			"ComponentName":"Forecast Combined",
+			"Weight":0
+		},
+		{
+			"ParentName":"QRF Scenarios",
+			"ComponentName":"Rocke Backup",
+			"Weight":0
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"2016 Plan",
+			"Weight":0
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"2017 Plan",
+			"Weight":0
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"2018 Plan",
+			"Weight":0
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"2019 Plan",
+			"Weight":0
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"2020 H2 Forecast",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"2020 Plan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"2020 Re-Plan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"2021 Baseline",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"2021 Plan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"20220728 Actuals - FY22 Segmentation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"2022 Plan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"2022 Plan at FY21 Rates",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"2023 Plan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"6.4 Post Shantanu review CSMB Snapshot",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Actuals - FY23 Segmentation Reval for FY21-FY22",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Actuals at FY22 Plan Rates",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Actuals Q1 2021 - Post Mortem",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Actuals Q1 2022 - Post Mortem",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Actuals Q2 2020 - Post Mortem",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Actuals Q2 2021 - Post Mortem",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Actuals Q2 2022 - Post Mortem",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Actuals Q3 2020 - Post Mortem",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Actuals Q3 2021 - Post Mortem",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Actuals Q3 2022 - Post Mortem",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Actuals Q4 2020 - Post Mortem",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Actuals Q4 2021 - Post Mortem",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Actuals Q4 2022 - Post Mortem",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"C&B Q420 FY21 1st Pass_Mid Case July 28",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Corp FPA Forecast",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"CSMB 1st Pass Q3 QRF 2021",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"CSMB_Q4 QRF Pass 2_Snapshot_0810",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"CSMB Gross New Pass 1.5 Q4 QRF 2022 Snapshot 8.9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"CSMB Gross Pass 1 Q4 QRF 2022 Snapshot 7.28",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"CSMB Net New Pass 1 Q4 QRF 2022 Snapshot 8.3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"CSMB Net New Pass 2 Q4 QRF 2022 Snapshot 8.24",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"CSMB Q3 QRF 2020 1st Pass",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"CSMB Q3 QRF 2021 v1.5 5.10",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"CSMB Q3 QRF 2021 v1.5 5.7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"CSMB Q3 QRF 2022 1st Pass Net New",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"DME Ops plan pass 2.5 pre segmentation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"DMe Q2 2021 QRF - High Case (3/15)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"DMe Q2 2021 QRF - Mid Case (3/15)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"DME Q2 QRF 2022 Net New Pass 2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"DME Q3 QRF 2022 Net New Pass 2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"DX Prelim Q2 QRF 2021",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"FY20 Actuals at FY20 FX Rates",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"FY21 11.19 v3 Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"FY21 DX Bookings v2 Prelim",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"FY22-23 Strat Plan – 6/13",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"FY22-23 Strat Plan – 6/13 v2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"FY22/23 Strat Plan 6-28",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"FY22 09.23 v1 Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"FY22 11.03 v2 Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"FY22 11.23 Pass 3.0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"FY22 Rolling Plan June High",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"FY22 Strat Plan Pass 2.0 10.08",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"FY23 Gross Plan Pass 2.5 11.02.2022",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"FY23 High Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"FY23 Mid Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"FY23 Plan ARR – 1130 Rate – FY23 End-year",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"FY23 Plan ARR – 1130 Rate – FY23 Mid-year",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"FY23 Plan ARR – 1130 Rate – FY23 Start-year",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"FY23 Plan at FY22 Plan and FY23 Plan Rate",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"FY23 Plan for QBR Meeting",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"FY23 Plan Pass 2.0 10.20.2022",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"FY23 Plan v2 submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"FY23 to FY25 - 3 Year Aspiration",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q121 v4 High Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q121 v4 Mid Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q122 Actuals FY22 Segmentation Snapshot",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q122 High Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q122 Mid Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q221 Revenue Bridge High",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q221 Revenue Bridge Mid",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q222 High Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q222 Mid Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q223 High Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q223 Mid Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q2 QRF 2016",
+			"Weight":0
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q2 QRF 2017",
+			"Weight":0
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q2 QRF 2018",
+			"Weight":0
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q2 QRF 2019",
+			"Weight":0
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q2 QRF 2021",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q2 QRF 2022",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q2 QRF 2022 Pass 1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q2 QRF 2022 Pass 2.0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q2 QRF 2023",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q2 QRF 2023 Net New Pass 1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q2 QRF 2023 Net New Pass 2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q2 QRF 2023 Net New Pass 2.5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q2 QRF 2023 Net New Pass 3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q2 QRF 2023 Net New Pass 3.5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q3 2020 Layer Performance",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q320 High Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q320 Mid Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q320 Mid Submission_DX",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q321 High Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q321 Mid Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q322 High Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q322 Mid Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q3 QRF 2016",
+			"Weight":0
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q3 QRF 2017",
+			"Weight":0
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q3 QRF 2018",
+			"Weight":0
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q3 QRF 2019",
+			"Weight":0
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q3 QRF 2020",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q3 QRF 2021",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q3 QRF 2022",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q420 High Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q420 Mid Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q421 High Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q421 Mid Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q421 Mid Submission v2 9.21",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q421 Mid Submission v3 9.27",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q422 High Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q422 Mid Submission",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q4 QRF 2016",
+			"Weight":0
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q4 QRF 2017",
+			"Weight":0
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q4 QRF 2018",
+			"Weight":0
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q4 QRF 2019",
+			"Weight":0
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q4 QRF 2020",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q4 QRF 2021",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q4 QRF 2021 Pass 1.0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q4 QRF 2021 Pass 2.0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q4 QRF 2022",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Q4RF FY22 Plan Gross P1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Rocke Backup",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"Strat Plan – 1st Pass Baseline Net New ARR 5.18",
+			"Weight":1
+		},
+		{
+			"ParentName":"Plan Scenarios - Locked",
+			"ComponentName":"zTest Migration Entry 20210414",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2019 Q4 - Outlook Week 10",
+			"Weight":0
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2019 Q4 - Outlook Week 11",
+			"Weight":0
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2019 Q4 - Outlook Week 12",
+			"Weight":0
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2019 Q4 - Outlook Week 13",
+			"Weight":0
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2019 Q4 - Outlook Week 3",
+			"Weight":0
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2019 Q4 - Outlook Week 4",
+			"Weight":0
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2019 Q4 - Outlook Week 5",
+			"Weight":0
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2019 Q4 - Outlook Week 6",
+			"Weight":0
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2019 Q4 - Outlook Week 7",
+			"Weight":0
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2019 Q4 - Outlook Week 8",
+			"Weight":0
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2019 Q4 - Outlook Week 9",
+			"Weight":0
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2020 Q1 - Outlook Week 12",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2020 Q1 - Outlook Week 5",
+			"Weight":0
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2020 Q2 - Outlook Week 12",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2020 Q2 - Outlook Week 5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2020 Q3 - Outlook Week 12",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2020 Q3 - Outlook Week 5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2020 Q4 - Outlook Week 12",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2020 Q4 - Outlook Week 5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q1 - Outlook Week 2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q1 - Outlook Week 3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q1 - Outlook Week 4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q1 - Outlook Week 5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q1 - Outlook Week 6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q1 - Outlook Week 7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q1 - Outlook Week 8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q1 - Outlook Week 9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q2 - Outlook Week 10",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q2 - Outlook Week 11",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q2 - Outlook Week 12",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q2 - Outlook Week 13",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q2 - Outlook Week 2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q2 - Outlook Week 3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q2 - Outlook Week 4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q2 - Outlook Week 5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q2 - Outlook Week 6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q2 - Outlook Week 7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q2 - Outlook Week 8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q2 - Outlook Week 9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q3 - Outlook Week 10",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q3 - Outlook Week 11",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q3 - Outlook Week 12",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q3 - Outlook Week 13",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q3 - Outlook Week 2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q3 - Outlook Week 3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q3 - Outlook Week 4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q3 - Outlook Week 5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q3 - Outlook Week 6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q3 - Outlook Week 7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q3 - Outlook Week 8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q3 - Outlook Week 9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q4 - Outlook Week 10",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q4 - Outlook Week 11",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q4 - Outlook Week 12",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q4 - Outlook Week 13",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q4 - Outlook Week 2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q4 - Outlook Week 3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q4 - Outlook Week 4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q4 - Outlook Week 5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q4 - Outlook Week 6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q4 - Outlook Week 7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2021 Q4 - Outlook Week 8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q1 - Outlook Week 1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q1 - Outlook Week 10",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q1 - Outlook Week 11",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q1 - Outlook Week 12",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q1 - Outlook Week 13",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q1 - Outlook Week 2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q1 - Outlook Week 3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q1 - Outlook Week 4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q1 - Outlook Week 5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q1 - Outlook Week 6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q1 - Outlook Week 7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q1 - Outlook Week 8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q1 - Outlook Week 9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q2 - Outlook Week 1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q2 - Outlook Week 10",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q2 - Outlook Week 11",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q2 - Outlook Week 12",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q2 - Outlook Week 13",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q2 - Outlook Week 2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q2 - Outlook Week 3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q2 - Outlook Week 4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q2 - Outlook Week 5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q2 - Outlook Week 6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q2 - Outlook Week 7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q2 - Outlook Week 8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q2 - Outlook Week 9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q3 - Outlook Week 1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q3 - Outlook Week 10",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q3 - Outlook Week 11",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q3 - Outlook Week 12",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q3 - Outlook Week 13",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q3 - Outlook Week 2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q3 - Outlook Week 3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q3 - Outlook Week 4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q3 - Outlook Week 5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q3 - Outlook Week 6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q3 - Outlook Week 7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q3 - Outlook Week 8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q3 - Outlook Week 9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q4 - Outlook Week 1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q4 - Outlook Week 10",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q4 - Outlook Week 11",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q4 - Outlook Week 12",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q4 - Outlook Week 13",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q4 - Outlook Week 2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q4 - Outlook Week 3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q4 - Outlook Week 4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q4 - Outlook Week 5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q4 - Outlook Week 6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q4 - Outlook Week 7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q4 - Outlook Week 8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2022 Q4 - Outlook Week 9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2023 Q1 - Outlook Week 1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2023 Q1 - Outlook Week 10",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2023 Q1 - Outlook Week 11",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2023 Q1 - Outlook Week 12",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2023 Q1 - Outlook Week 13",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2023 Q1 - Outlook Week 2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2023 Q1 - Outlook Week 3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2023 Q1 - Outlook Week 4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2023 Q1 - Outlook Week 5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2023 Q1 - Outlook Week 6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2023 Q1 - Outlook Week 7",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2023 Q1 - Outlook Week 8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlooks - Historical",
+			"ComponentName":"2023 Q1 - Outlook Week 9",
+			"Weight":1
+		},
+		{
+			"ParentName":"Misc Admin Reports",
+			"ComponentName":"Actuals Q1 2022 - SFDC Prelim Bookings",
+			"Weight":1
+		},
+		{
+			"ParentName":"Misc Admin Reports",
+			"ComponentName":"Actuals Q1 2023 - SFDC Prelim Bookings",
+			"Weight":1
+		},
+		{
+			"ParentName":"Misc Admin Reports",
+			"ComponentName":"Actuals Q2 2022 - SFDC Prelim Bookings",
+			"Weight":1
+		},
+		{
+			"ParentName":"Misc Admin Reports",
+			"ComponentName":"Actuals Q2 2023 - SFDC Prelim Bookings",
+			"Weight":1
+		},
+		{
+			"ParentName":"Misc Admin Reports",
+			"ComponentName":"Actuals Q3 2022 - SFDC Prelim Bookings",
+			"Weight":1
+		},
+		{
+			"ParentName":"Misc Admin Reports",
+			"ComponentName":"Actuals Q3 2023 - SFDC Prelim Bookings",
+			"Weight":1
+		},
+		{
+			"ParentName":"Misc Admin Reports",
+			"ComponentName":"Actuals Q4 2022 - SFDC Prelim Bookings",
+			"Weight":1
+		},
+		{
+			"ParentName":"Misc Admin Reports",
+			"ComponentName":"Actuals Q4 2023 - SFDC Prelim Bookings",
+			"Weight":1
+		},
+		{
+			"ParentName":"Misc Admin Reports",
+			"ComponentName":"Actuals – Saturday Regional Submissions",
+			"Weight":1
+		},
+		{
+			"ParentName":"Misc Admin Reports",
+			"ComponentName":"Sales Finance QA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Misc Admin Reports",
+			"ComponentName":"tmp_SubscriptionTesting",
+			"Weight":1
+		},
+		{
+			"ParentName":"QRF Mid (DMe)",
+			"ComponentName":"Forecast2",
+			"Weight":1
+		},
+		{
+			"ParentName":"QRF Mid (DMe)",
+			"ComponentName":"Forecast4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"2017 Plan Fx",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"2019 Plan 605",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"2020 Plan - DME",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"2022-52 Actuals - FY22 Segmentation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Acrobat Snapshot 01",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Act Trials Breakout",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Actual Backup DDOM 20200308",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Actuals - Pre Stock Bundle Change - 2023-03-06",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Actuals - Segmentation",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Actuals2",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Actuals 2019 Backup",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Actuals 605",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Actuals at FY17 FX rates",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Actuals at FY18 FX rates",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Actuals at FY21 FX Rates",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Actuals from GTM App Store",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Actuals Product",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Actuals Q1 2020 - Post Mortem",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Actuals Q1 2023 - Post Mortem",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Actuals Reported",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Actuals RTB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Adobe Express Snapshot 01",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"AEM Profit Center Breakout – Bookings",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Allocations",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"AMER Test01",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"AMER Test02",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"AMER Test03",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"ASC606",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"ASIA Test01",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"ASIA Test02",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"ASIA Test03",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Attrition Reseller Entry",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"CAM_Snapshot",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"CC DME Layer Tracking",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"CC Snapshot 01",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"CC Snapshot 02",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"CC Strat Plan 2020 06-12-2019",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"DME Revenue01",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"DME Revenue02",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"DME Test01",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"DME Test02",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"DX Q2QRF 2021 Post Close",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"DX Test01",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"DX Test02",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"EMEA Test01",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"EMEA Test02",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"EMEA Test03",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Forecast Plan 01",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Forecast Plan 02",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"FY19-21 CC Strat Plan (12-10-2018)",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"FY19-21 CC Strat Plan (FX Adj)",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"FY19 Actuals at FY19 FX Rates",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"FY20 Plan (2019-12-04)",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"FY20 Rolling Plan July High",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"FY20 Rolling Plan July Mid",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"FY20 Rolling Plan October High",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"FY20 Rolling Plan October Mid",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"FY21 Forecast4 Backup 3-25-2020",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"JPN Test01",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"JPN Test02",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"JPN Test03",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Layers BU",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Layers Consolidated",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Layer Tracking BU",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Layer Tracking Consolidated",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Layer Tracking OL12",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Layer Tracking OL4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Layer Tracking OL6",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Layer Tracking OL8",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Load Attrition A.Com PUF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Load Attrition App Store",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Load Attrition Reseller",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Mid Case Backup",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Migrations Pass 1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Multivariate Actuals",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Multivariate Forecast",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Outlook-Current - Outlook-Previous",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Outlook - Current Q2 2020 Backup",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Outlook - Current Spread",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Outlook-Input - OL-Previous",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Outlook-Input - QRF-Previous",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Outlook Split",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Q12020 Rev Bridge High",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Q1’20 Revenue Bridge High",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Q1’20 Revenue Bridge Low",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Q1’20 Revenue Bridge Mid",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Q2 QRF 2020",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Q2 QRF Mid 03.23.20",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Q2’19 QRF_Geo Input",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Q3QRF_DME_Prelim_High",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Q3QRF_DME_Prelim_Mid",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Q4 QRF 2018",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Q4 QRF 2019",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Rev_Bridge_Q220_High",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"RevBridge Current",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Rolling Forecast",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Seg Snapshot 01",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Sign Snapshot 01",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Strat Plan Pass 1 7.21",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Temp Load",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Topline FY20-FY21 Topline (2019.10.10) High",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Topline FY20-FY21 Topline (2019.10.10) Mid",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"Training",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"WH Forecast",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"zAMER Backup 01",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"zAMER Backup 02",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"zAMER Backup 03",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"zASIA Backup 01",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"zASIA Backup 02",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"zASIA Backup 03",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"zEMEA Backup 01",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"zEMEA Backup 02",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"zEMEA Backup 03",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"zJPN Backup 01",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"zJPN Backup 02",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"zJPN Backup 03",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"zKline Backup 04",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"zKline Backup 05",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"zSCB Test01",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"zSCB Test02",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"zSCB Test03",
+			"Weight":0
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"zSCB Test Snapshot 01",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"zTest Actuals Layered",
+			"Weight":1
+		},
+		{
+			"ParentName":"Locked Reporting Plans",
+			"ComponentName":"zTest Migration Entry",
+			"Weight":1
+		},
+		{
+			"ParentName":"Actuals Reported",
+			"ComponentName":"Actuals Adjustment",
+			"Weight":1
+		},
+		{
+			"ParentName":"Actuals Reported",
+			"ComponentName":"Actuals Calculated",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlook-Current - Outlook-Previous",
+			"ComponentName":"Outlook - Current",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlook-Current - Outlook-Previous",
+			"ComponentName":"2023 Q2 - Outlook Week 5",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Outlook-Input - OL-Previous",
+			"ComponentName":"Outlook - Input",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlook-Input - OL-Previous",
+			"ComponentName":"2023 Q2 - Outlook Week 5",
+			"Weight":-1
+		},
+		{
+			"ParentName":"Outlook-Input - QRF-Previous",
+			"ComponentName":"Outlook - Input",
+			"Weight":1
+		},
+		{
+			"ParentName":"Outlook-Input - QRF-Previous",
+			"ComponentName":"Q3 QRF 2021",
+			"Weight":-1
+		},
+		{
+			"ParentName":"QE Prelim Estimate Scenarios",
+			"ComponentName":"QE Prelim Estimates - ACS",
+			"Weight":1
+		},
+		{
+			"ParentName":"QE Prelim Estimate Scenarios",
+			"ComponentName":"QE Prelim Estimates - Americas",
+			"Weight":1
+		},
+		{
+			"ParentName":"QE Prelim Estimate Scenarios",
+			"ComponentName":"QE Prelim Estimates - Asia",
+			"Weight":1
+		},
+		{
+			"ParentName":"QE Prelim Estimate Scenarios",
+			"ComponentName":"QE Prelim Estimates - Consolidated View",
+			"Weight":1
+		},
+		{
+			"ParentName":"QE Prelim Estimate Scenarios",
+			"ComponentName":"QE Prelim Estimates - DME Attr & Retention",
+			"Weight":1
+		},
+		{
+			"ParentName":"QE Prelim Estimate Scenarios",
+			"ComponentName":"QE Prelim Estimates - DX Attr & Retention",
+			"Weight":1
+		},
+		{
+			"ParentName":"QE Prelim Estimate Scenarios",
+			"ComponentName":"QE Prelim Estimates - EMEA C&B",
+			"Weight":1
+		},
+		{
+			"ParentName":"QE Prelim Estimate Scenarios",
+			"ComponentName":"QE Prelim Estimates - EMEA Central",
+			"Weight":1
+		},
+		{
+			"ParentName":"QE Prelim Estimate Scenarios",
+			"ComponentName":"QE Prelim Estimates - EMEA North",
+			"Weight":1
+		},
+		{
+			"ParentName":"QE Prelim Estimate Scenarios",
+			"ComponentName":"QE Prelim Estimates - EMEA Southwest",
+			"Weight":1
+		},
+		{
+			"ParentName":"QE Prelim Estimate Scenarios",
+			"ComponentName":"QE Prelim Estimates - Japan",
+			"Weight":1
+		},
+		{
+			"ParentName":"QE Prelim Estimate Scenarios",
+			"ComponentName":"QE Prelim Estimates - WW Commercial",
+			"Weight":1
+		},
+		{
+			"ParentName":"CSMB Scenarios",
+			"ComponentName":"CSMB 2021 Plan Gross New 2020-09-03",
+			"Weight":1
+		},
+		{
+			"ParentName":"CSMB Scenarios",
+			"ComponentName":"CSMB 3rd Pass Offering Targets",
+			"Weight":1
+		},
+		{
+			"ParentName":"CSMB Scenarios",
+			"ComponentName":"CSMB Finalized Q2’20 Gross",
+			"Weight":1
+		},
+		{
+			"ParentName":"CSMB Scenarios",
+			"ComponentName":"CSMB FY20 Plan Pre-FX",
+			"Weight":0
+		},
+		{
+			"ParentName":"CSMB Scenarios",
+			"ComponentName":"CSMB FY20 Strat Plan Alignment 1st Pass",
+			"Weight":0
+		},
+		{
+			"ParentName":"CSMB Scenarios",
+			"ComponentName":"CSMB Geo 1st Pass FY20 Plan",
+			"Weight":0
+		},
+		{
+			"ParentName":"CSMB Scenarios",
+			"ComponentName":"CSMB Q2 2020 Final Pass",
+			"Weight":1
+		},
+		{
+			"ParentName":"CSMB Scenarios",
+			"ComponentName":"CSMB Q2 2020 QRF 2nd Pass",
+			"Weight":1
+		},
+		{
+			"ParentName":"CSMB Scenarios",
+			"ComponentName":"CSMB Q3 QRF 2020 5.11.2020",
+			"Weight":1
+		},
+		{
+			"ParentName":"CSMB Scenarios",
+			"ComponentName":"CSMB Q3 QRF 2021 Pass 2 5.28 Pre Exec Review",
+			"Weight":1
+		},
+		{
+			"ParentName":"CSMB Scenarios",
+			"ComponentName":"CSMB Topline 5.13.2020 W11 Snapshot",
+			"Weight":1
+		},
+		{
+			"ParentName":"CSMB Scenarios",
+			"ComponentName":"CSMB WW Consol Target Q2 2020 QRF",
+			"Weight":0
+		},
+		{
+			"ParentName":"CSMB Scenarios",
+			"ComponentName":"FY20-22 CSMB Strat Plan (2019-10-07) FINAL",
+			"Weight":0
+		},
+		{
+			"ParentName":"CSMB Scenarios",
+			"ComponentName":"Q22020 Mid DME CSMB",
+			"Weight":1
+		},
+		{
+			"ParentName":"CSMB Scenarios",
+			"ComponentName":"Q22020 Mid DME Excluding CSMB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Calc ARPU",
+			"ComponentName":"2016 Plan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Calc ARPU",
+			"ComponentName":"2017 Plan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Calc ARPU",
+			"ComponentName":"2018 Plan",
+			"Weight":1
+		},
+		{
+			"ParentName":"Calc ARPU",
+			"ComponentName":"Q2 QRF 2016",
+			"Weight":1
+		},
+		{
+			"ParentName":"Calc ARPU",
+			"ComponentName":"Q2 QRF 2017",
+			"Weight":1
+		},
+		{
+			"ParentName":"Calc ARPU",
+			"ComponentName":"Q2 QRF 2018",
+			"Weight":1
+		},
+		{
+			"ParentName":"Calc ARPU",
+			"ComponentName":"Q3 QRF 2016",
+			"Weight":1
+		},
+		{
+			"ParentName":"Calc ARPU",
+			"ComponentName":"Q3 QRF 2017",
+			"Weight":1
+		},
+		{
+			"ParentName":"Calc ARPU",
+			"ComponentName":"Q3 QRF 2018",
+			"Weight":1
+		},
+		{
+			"ParentName":"Calc ARPU",
+			"ComponentName":"Q4 QRF 2016",
+			"Weight":1
+		},
+		{
+			"ParentName":"Calc ARPU",
+			"ComponentName":"Q4 QRF 2017",
+			"Weight":1
+		},
+		{
+			"ParentName":"Calc ARPU",
+			"ComponentName":"Q4 QRF 2018",
+			"Weight":1
+		},
+		{
+			"ParentName":"Tableau Export",
+			"ComponentName":"Actuals (Var)",
+			"Weight":0
+		},
+		{
+			"ParentName":"Tableau Export",
+			"ComponentName":"Forecast1 (Var)",
+			"Weight":0
+		},
+		{
+			"ParentName":"Tableau Export",
+			"ComponentName":"Forecast2 (Var)",
+			"Weight":0
+		},
+		{
+			"ParentName":"Tableau Export",
+			"ComponentName":"Forecast4 (Var)",
+			"Weight":0
+		},
+		{
+			"ParentName":"Tableau Export",
+			"ComponentName":"Forecast6 (Var)",
+			"Weight":0
+		},
+		{
+			"ParentName":"Tableau Export",
+			"ComponentName":"Outlook - Current (Var)",
+			"Weight":0
+		},
+		{
+			"ParentName":"Q22020 Rev Bridge Mid",
+			"ComponentName":"Q22020 Mid DME CSMB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Q22020 Rev Bridge Mid",
+			"ComponentName":"Q22020 Mid DME Excluding CSMB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rev Bridge Mid Q220",
+			"ComponentName":"Rev_Bridge_Q220_Mid_2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Rev Bridge Mid Q220",
+			"ComponentName":"Rev_Bridge_Q220_Mid_4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Actuals (Var)",
+			"ComponentName":"Actuals",
+			"Weight":1
+		},
+		{
+			"ParentName":"Forecast1 (Var)",
+			"ComponentName":"Forecast1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Forecast2 (Var)",
+			"ComponentName":"Forecast2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Forecast4 (Var)",
+			"ComponentName":"Forecast4",
+			"Weight":1
+		},
+		{
+			"ParentName":"Forecast6 (Var)",
+			"ComponentName":"Forecast6",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"Scenario.subsets/0 - RCE Beginning Week Processing.json",
+		"Scenario.subsets/1-RTMMigrationBU.json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-19(011700).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-19(131659).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-20(011703).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-20(131700).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-21(011659).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-21(131703).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-22(011700).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-22(131702).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-23(011700).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-23(131703).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-24(011700).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-24(131700).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-25(011700).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-25(131700).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-26(011703).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-26(131703).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-27(011703).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-27(131702).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-28(011659).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-28(131702).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-29(011704).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-29(131703).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-30(011702).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-30(131703).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-31(011700).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-08-31(131700).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-09-01(011659).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-10-17(202807).json",
+		"Scenario.subsets/Actuals Bookings Load New_2022-10-17(203730).json",
+		"Scenario.subsets/All Scenarios.json",
+		"Scenario.subsets/AMO Pricing Cube Extraxt.json",
+		"Scenario.subsets/Beg Bal Check Set.json",
+		"Scenario.subsets/Bookings Default.json",
+		"Scenario.subsets/Bookings Extract Scenarios.json",
+		"Scenario.subsets/Bookings Extract Scenarios - Karen.json",
+		"Scenario.subsets/Bookings Report Karen.json",
+		"Scenario.subsets/Common Scenarios - Expanded.json",
+		"Scenario.subsets/Common Working Scenarios.json",
+		"Scenario.subsets/Default.json",
+		"Scenario.subsets/E1 - Default.json",
+		"Scenario.subsets/E1 - Forecast Scenarios.json",
+		"Scenario.subsets/E1 - Outlooks - Sorted.json",
+		"Scenario.subsets/Export List.json",
+		"Scenario.subsets/Extract - Marking Ops.json",
+		"Scenario.subsets/Forecast Scenarios.json",
+		"Scenario.subsets/Hana Extract Scenarios - ALL Plans.json",
+		"Scenario.subsets/HANAScenarios - Expanded Members.json",
+		"Scenario.subsets/IPAD.json",
+		"Scenario.subsets/Load Cube - FX Rates - Alloc Percentages - Ent DME - Full TEST_Target_2022-08-17(083457).json",
+		"Scenario.subsets/Load Cube - FX Rates - Alloc Percentages - Ent DME - IS10_Target_2022-08-17(114301).json",
+		"Scenario.subsets/Load Cube - Planning Consolidated - from Planning Revenue DMe_Source_2023-05-22(192958).json",
+		"Scenario.subsets/Load Cube - Planning Consolidated - from Planning Revenue DMe_Target_2023-05-22(192958).json",
+		"Scenario.subsets/Load Cube - Planning Consolidated - from Planning Revenue DME Enterprise_Source_2022-12-08(184041).json",
+		"Scenario.subsets/Load Cube - Planning Consolidated - from Planning Revenue DME Enterprise_Source_2022-12-08(184823).json",
+		"Scenario.subsets/Load Cube - Planning Consolidated - from Planning Revenue DME Enterprise_Target_2022-12-08(184041).json",
+		"Scenario.subsets/Load Cube - Planning Consolidated - from Planning Revenue DME Enterprise_Target_2022-12-08(184823).json",
+		"Scenario.subsets/Load Cube - Planning DDOM-Retention- Actuals - from DataBricks_Target_2023-06-08(230416).json",
+		"Scenario.subsets/Load Cube - Planning DDOM-Retention- Actuals - from DataBricks_Target_2023-06-08(230427).json",
+		"Scenario.subsets/Load Cube - Planning Revenue CSMB - from Planning Subs_Source_2022-12-14(180320).json",
+		"Scenario.subsets/Load Cube - Planning Revenue CSMB - from Planning Subs_Source_2022-12-14(181950).json",
+		"Scenario.subsets/Load Cube - Planning Revenue CSMB - from Planning Subs_Target_2022-12-14(180320).json",
+		"Scenario.subsets/Load Cube - Planning Revenue CSMB - from Planning Subs_Target_2022-12-14(181950).json",
+		"Scenario.subsets/Load Cube - Planning Revenue CSMB - Step 1_2023-01-12(164003).json",
+		"Scenario.subsets/Load Cube - Planning Revenue CSMB - Step 1_2023-01-12(164149).json",
+		"Scenario.subsets/Load Cube - Planning Revenue CSMB - Step 1_2023-01-12(164704).json",
+		"Scenario.subsets/Load Cube - Planning Revenue CSMB - Step 1_2023-01-18(183454).json",
+		"Scenario.subsets/Load Cube - Planning Revenue DMe - Copy Revenue Leakage_Target_2023-04-18(174750).json",
+		"Scenario.subsets/Load Cube - Planning Revenue DMe - Copy Revenue Leakage_Target_2023-04-18(174857).json",
+		"Scenario.subsets/Load Cube - Planning Revenue DMe - from Planning Subs_Source_2023-04-17(171851).json",
+		"Scenario.subsets/Load Cube - Planning Revenue DMe - from Planning Subs_Target_2023-04-17(171851).json",
+		"Scenario.subsets/Load Cube - Web Outlook Entry - from Subscription CSMB Entry E2_Source_2022-10-24(162928).json",
+		"Scenario.subsets/MP Scenario.json",
+		"Scenario.subsets/MP Scenario Default.json",
+		"Scenario.subsets/MP Scenario Static.json",
+		"Scenario.subsets/MP Scenario v2.json",
+		"Scenario.subsets/MP Scenario v3.json",
+		"Scenario.subsets/MP Scenario v4.json",
+		"Scenario.subsets/MP Scenario v5.json",
+		"Scenario.subsets/Outlook - Current and Outlook - Previous.json",
+		"Scenario.subsets/Outlook Current & Previous.json",
+		"Scenario.subsets/Outlooks.json",
+		"Scenario.subsets/Outlooks Variance.json",
+		"Scenario.subsets/Planning ESS2022-06-24(133606).json",
+		"Scenario.subsets/Pred DDOM - Rpt Scenarios.json",
+		"Scenario.subsets/PRO Scenarios.json",
+		"Scenario.subsets/Rev CSMB - Copy Source Scenarios.json",
+		"Scenario.subsets/Rev CSMB - Copy Target Scenarios.json",
+		"Scenario.subsets/Rev CSMB - Fcst Scenarios.json",
+		"Scenario.subsets/Rev CSMB - Seed Source Scenarios.json",
+		"Scenario.subsets/Rev DME - Fcst Scenarios.json",
+		"Scenario.subsets/Sales Allocation Source.json",
+		"Scenario.subsets/Scenario - Leaves.json",
+		"Scenario.subsets/SYS-Geo Extract.json",
+		"Scenario.subsets/SYS-OL Input variance to QRF Prev.json",
+		"Scenario.subsets/SYS-Set as Entry Scenarios.json",
+		"Scenario.subsets/SysYoyScenarios.json",
+		"Scenario.subsets/Tableau Export.json",
+		"Scenario.subsets/TableauScenario_PlanningUnits.json",
+		"Scenario.subsets/TableauScenarios.json",
+		"Scenario.subsets/TableauScenarios - Expanded Members.json",
+		"Scenario.subsets/TableauScenarios_Yenvy.json",
+		"Scenario.subsets/TableauScenariosRohit.json",
+		"Scenario.subsets/TableauWeeklyScenarios.json",
+		"Scenario.subsets/TableauWeeklyScenariosDash.json",
+		"Scenario.subsets/Top Line Scenarios.json",
+		"Scenario.subsets/View Name via Execute Process 11.19.20.json",
+		"Scenario.subsets/zSH Planning Subs Extract 5-23-22_2022-05-23(111500) J.json",
+		"Scenario.subsets/zSYS - Predictive DDOM.json",
+		"Scenario.subsets/zSYS - Predictive DDOM Main.json",
+		"Scenario.subsets/zTest.json"
+	]
+}

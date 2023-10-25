@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"FX Conversion",
+	"Hierarchies@Code.links":
+	[
+		"FX Conversion.hierarchies/FX Conversion.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')"
+	}
+}

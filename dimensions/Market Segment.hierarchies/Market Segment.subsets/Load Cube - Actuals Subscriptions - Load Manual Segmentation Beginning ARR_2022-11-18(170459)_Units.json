@@ -1,0 +1,22 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-18(170459)_Units",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('#')"
+		},
+		{
+			"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('NON-PROFIT')"
+		},
+		{
+			"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('GOVERNMENT')"
+		},
+		{
+			"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('EDUCATION')"
+		},
+		{
+			"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('COMMERCIAL')"
+		}
+	]
+}

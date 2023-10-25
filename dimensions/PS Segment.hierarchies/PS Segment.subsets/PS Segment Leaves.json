@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"PS Segment Leaves",
+	"Expression":"{TM1FILTERBYLEVEL( { HIERARCHIZE( {TM1SUBSETALL( [PS Segment] )} ) }, 0)}"
+}

@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Planning Consolidated - from Planning Revenue DME Enterprise_Target_2022-12-08(184041)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Fiscal Quarter')/Hierarchies('Fiscal Quarter')/Elements('Q1 2023')"
+		}
+	]
+}

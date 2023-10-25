@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Offerings - Leaves",
+	"Expression":"{TM1FILTERBYLEVEL(HIERARCHIZE(TM1DRILLDOWNMEMBER({[Offerings].[All Offerings]} , ALL , RECURSIVE)) , 0)}"
+}

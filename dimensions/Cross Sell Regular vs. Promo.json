@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"Cross Sell Regular vs. Promo",
+	"Hierarchies@Code.links":
+	[
+		"Cross Sell Regular vs. Promo.hierarchies/Cross Sell Regular vs. Promo.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Cross Sell Regular vs. Promo')/Hierarchies('Cross Sell Regular vs. Promo')"
+	}
+}

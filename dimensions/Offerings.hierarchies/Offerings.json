@@ -1,0 +1,1674 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Offerings",
+	"Elements":
+	[
+		{
+			"Name":"All Offerings",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Acrobat CC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Acrobat DC",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Acrobat DC Subscription",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Acrobat DC Perpetual",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Commercial Individual",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CCM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CCM PP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Commercial Team",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CCE",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CCT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Institutions",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"HED",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K12",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EEA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Students",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Photography",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CCP Classic",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CCP New",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Lightroom CC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Lightroom CC Mobile",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Lightroom CC IAP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Lightroom CC Mid Tier",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Lightroom CC Low Tier",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB ETLA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Stock",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Stock Bundle CC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Stock Bundle CCT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Stock Bundle CCP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Stock Standalone",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Stock Bundle",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Stock Subs",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Stock Large",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Stock Medium",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Stock Mezzanine",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Stock Micro",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Stock Mini",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Stock Small",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Stock Perpetual",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PDF Services",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sign",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Enterprise",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Other Perpetual",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SUBD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"#",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Alternate Hierarchies",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Commercial Team + CSMB ETLA + Frame + Stock",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Core CC excl Edu Inst",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Core CC excl K12/EEA",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"K12 + EEA",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"All Offerings excl Acrobat Perpetual",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Total Doc Cloud",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Doc Cloud excl. PDF & Sign",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Core CC with CSMB ETLA no K12",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"DME excl. K12, PDF & Sign",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"All Offerings excl. CSMB ETLA",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Core CC with CSMB ETLA",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Core CC + Acrobat DC +  Acrobat CC",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"W-ARR&Units by Offer",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Lightroom Combined",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CCP Combined",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"All Offerings excl. Institutions",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Photography Desktop",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Photography Mobile",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Digital Imaging Desktop",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Digital Imaging Mobile",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"All Offerings excl. Frame IO + CSMB ETLA",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"All Offerings excl. Frame IO",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Core CC",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"B2B",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Consumer",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Sign + PDF Services",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Education",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Other",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Frame IO",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Commercial Team + CSMB ETLA",
+			"Type":"Consolidated"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"All Offerings",
+			"ComponentName":"Acrobat CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings",
+			"ComponentName":"Acrobat DC",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings",
+			"ComponentName":"Commercial Individual",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings",
+			"ComponentName":"Commercial Team",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings",
+			"ComponentName":"Frame IO",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings",
+			"ComponentName":"Institutions",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings",
+			"ComponentName":"Students",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings",
+			"ComponentName":"Photography",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings",
+			"ComponentName":"CSMB ETLA",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings",
+			"ComponentName":"Stock",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings",
+			"ComponentName":"PDF Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings",
+			"ComponentName":"Sign",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings",
+			"ComponentName":"Enterprise",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings",
+			"ComponentName":"Other Perpetual",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings",
+			"ComponentName":"SUBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings",
+			"ComponentName":"#",
+			"Weight":1
+		},
+		{
+			"ParentName":"Acrobat DC",
+			"ComponentName":"Acrobat DC Subscription",
+			"Weight":1
+		},
+		{
+			"ParentName":"Acrobat DC",
+			"ComponentName":"Acrobat DC Perpetual",
+			"Weight":1
+		},
+		{
+			"ParentName":"Commercial Individual",
+			"ComponentName":"CCM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Commercial Individual",
+			"ComponentName":"CCM PP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Commercial Team",
+			"ComponentName":"CCE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Commercial Team",
+			"ComponentName":"CCT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Institutions",
+			"ComponentName":"HED",
+			"Weight":1
+		},
+		{
+			"ParentName":"Institutions",
+			"ComponentName":"K12",
+			"Weight":1
+		},
+		{
+			"ParentName":"Institutions",
+			"ComponentName":"EEA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Photography",
+			"ComponentName":"CCP Classic",
+			"Weight":1
+		},
+		{
+			"ParentName":"Photography",
+			"ComponentName":"CCP New",
+			"Weight":1
+		},
+		{
+			"ParentName":"Photography",
+			"ComponentName":"Lightroom CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Photography",
+			"ComponentName":"Lightroom CC Mobile",
+			"Weight":1
+		},
+		{
+			"ParentName":"Photography",
+			"ComponentName":"Lightroom CC IAP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Photography",
+			"ComponentName":"Lightroom CC Mid Tier",
+			"Weight":1
+		},
+		{
+			"ParentName":"Photography",
+			"ComponentName":"Lightroom CC Low Tier",
+			"Weight":1
+		},
+		{
+			"ParentName":"Stock",
+			"ComponentName":"Stock Standalone",
+			"Weight":1
+		},
+		{
+			"ParentName":"Stock",
+			"ComponentName":"Stock Perpetual",
+			"Weight":1
+		},
+		{
+			"ParentName":"Stock",
+			"ComponentName":"Stock Bundle",
+			"Weight":1
+		},
+		{
+			"ParentName":"Stock Standalone",
+			"ComponentName":"Stock Large",
+			"Weight":1
+		},
+		{
+			"ParentName":"Stock Standalone",
+			"ComponentName":"Stock Medium",
+			"Weight":1
+		},
+		{
+			"ParentName":"Stock Standalone",
+			"ComponentName":"Stock Mezzanine",
+			"Weight":1
+		},
+		{
+			"ParentName":"Stock Standalone",
+			"ComponentName":"Stock Micro",
+			"Weight":1
+		},
+		{
+			"ParentName":"Stock Standalone",
+			"ComponentName":"Stock Mini",
+			"Weight":1
+		},
+		{
+			"ParentName":"Stock Standalone",
+			"ComponentName":"Stock Small",
+			"Weight":1
+		},
+		{
+			"ParentName":"Stock Bundle",
+			"ComponentName":"Stock Bundle CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Stock Bundle",
+			"ComponentName":"Stock Bundle CCT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Stock Bundle",
+			"ComponentName":"Stock Bundle CCP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Stock Subs",
+			"ComponentName":"Stock Standalone",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Hierarchies",
+			"ComponentName":"Core CC excl Edu Inst",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Hierarchies",
+			"ComponentName":"Core CC excl K12/EEA",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Hierarchies",
+			"ComponentName":"K12 + EEA",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Hierarchies",
+			"ComponentName":"All Offerings excl Acrobat Perpetual",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Hierarchies",
+			"ComponentName":"Total Doc Cloud",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Hierarchies",
+			"ComponentName":"Doc Cloud excl. PDF & Sign",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Hierarchies",
+			"ComponentName":"Core CC with CSMB ETLA no K12",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Hierarchies",
+			"ComponentName":"DME excl. K12, PDF & Sign",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Hierarchies",
+			"ComponentName":"All Offerings excl. CSMB ETLA",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Hierarchies",
+			"ComponentName":"Commercial Team + CSMB ETLA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Hierarchies",
+			"ComponentName":"Core CC with CSMB ETLA",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Hierarchies",
+			"ComponentName":"Core CC + Acrobat DC +  Acrobat CC",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Hierarchies",
+			"ComponentName":"W-ARR&Units by Offer",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Hierarchies",
+			"ComponentName":"Digital Imaging Desktop",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Hierarchies",
+			"ComponentName":"Digital Imaging Mobile",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Hierarchies",
+			"ComponentName":"All Offerings excl. Frame IO + CSMB ETLA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Hierarchies",
+			"ComponentName":"All Offerings excl. Frame IO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Hierarchies",
+			"ComponentName":"Lightroom Combined",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Hierarchies",
+			"ComponentName":"CCP Combined",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Hierarchies",
+			"ComponentName":"Commercial Team + CSMB ETLA + Frame + Stock",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Hierarchies",
+			"ComponentName":"All Offerings excl. Institutions",
+			"Weight":1
+		},
+		{
+			"ParentName":"Commercial Team + CSMB ETLA + Frame + Stock",
+			"ComponentName":"Commercial Team",
+			"Weight":1
+		},
+		{
+			"ParentName":"Commercial Team + CSMB ETLA + Frame + Stock",
+			"ComponentName":"Frame IO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Commercial Team + CSMB ETLA + Frame + Stock",
+			"ComponentName":"CSMB ETLA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Commercial Team + CSMB ETLA + Frame + Stock",
+			"ComponentName":"Stock",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC excl Edu Inst",
+			"ComponentName":"Commercial Team",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC excl Edu Inst",
+			"ComponentName":"Students",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC excl Edu Inst",
+			"ComponentName":"Commercial Individual",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC excl Edu Inst",
+			"ComponentName":"Photography",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC excl K12/EEA",
+			"ComponentName":"Commercial Team",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC excl K12/EEA",
+			"ComponentName":"HED",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC excl K12/EEA",
+			"ComponentName":"Students",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC excl K12/EEA",
+			"ComponentName":"Commercial Individual",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC excl K12/EEA",
+			"ComponentName":"Photography",
+			"Weight":1
+		},
+		{
+			"ParentName":"K12 + EEA",
+			"ComponentName":"K12",
+			"Weight":1
+		},
+		{
+			"ParentName":"K12 + EEA",
+			"ComponentName":"EEA",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl Acrobat Perpetual",
+			"ComponentName":"Acrobat CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl Acrobat Perpetual",
+			"ComponentName":"Acrobat DC Subscription",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl Acrobat Perpetual",
+			"ComponentName":"Commercial Individual",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl Acrobat Perpetual",
+			"ComponentName":"Commercial Team",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl Acrobat Perpetual",
+			"ComponentName":"Institutions",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl Acrobat Perpetual",
+			"ComponentName":"Students",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl Acrobat Perpetual",
+			"ComponentName":"Photography",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl Acrobat Perpetual",
+			"ComponentName":"CSMB ETLA",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl Acrobat Perpetual",
+			"ComponentName":"Stock",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl Acrobat Perpetual",
+			"ComponentName":"PDF Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl Acrobat Perpetual",
+			"ComponentName":"Sign",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl Acrobat Perpetual",
+			"ComponentName":"Enterprise",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl Acrobat Perpetual",
+			"ComponentName":"Other Perpetual",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Doc Cloud",
+			"ComponentName":"Acrobat CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Doc Cloud",
+			"ComponentName":"Acrobat DC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Doc Cloud",
+			"ComponentName":"PDF Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Doc Cloud",
+			"ComponentName":"Sign",
+			"Weight":1
+		},
+		{
+			"ParentName":"Doc Cloud excl. PDF & Sign",
+			"ComponentName":"Acrobat CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Doc Cloud excl. PDF & Sign",
+			"ComponentName":"Acrobat DC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC with CSMB ETLA no K12",
+			"ComponentName":"CSMB ETLA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC with CSMB ETLA no K12",
+			"ComponentName":"Commercial Team",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC with CSMB ETLA no K12",
+			"ComponentName":"Students",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC with CSMB ETLA no K12",
+			"ComponentName":"Commercial Individual",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC with CSMB ETLA no K12",
+			"ComponentName":"Photography",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC with CSMB ETLA no K12",
+			"ComponentName":"HED",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC with CSMB ETLA no K12",
+			"ComponentName":"EEA",
+			"Weight":1
+		},
+		{
+			"ParentName":"DME excl. K12, PDF & Sign",
+			"ComponentName":"Acrobat CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"DME excl. K12, PDF & Sign",
+			"ComponentName":"Acrobat DC",
+			"Weight":1
+		},
+		{
+			"ParentName":"DME excl. K12, PDF & Sign",
+			"ComponentName":"Commercial Individual",
+			"Weight":1
+		},
+		{
+			"ParentName":"DME excl. K12, PDF & Sign",
+			"ComponentName":"Commercial Team",
+			"Weight":1
+		},
+		{
+			"ParentName":"DME excl. K12, PDF & Sign",
+			"ComponentName":"HED",
+			"Weight":1
+		},
+		{
+			"ParentName":"DME excl. K12, PDF & Sign",
+			"ComponentName":"Students",
+			"Weight":1
+		},
+		{
+			"ParentName":"DME excl. K12, PDF & Sign",
+			"ComponentName":"Photography",
+			"Weight":1
+		},
+		{
+			"ParentName":"DME excl. K12, PDF & Sign",
+			"ComponentName":"CSMB ETLA",
+			"Weight":1
+		},
+		{
+			"ParentName":"DME excl. K12, PDF & Sign",
+			"ComponentName":"Stock",
+			"Weight":1
+		},
+		{
+			"ParentName":"DME excl. K12, PDF & Sign",
+			"ComponentName":"SUBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"DME excl. K12, PDF & Sign",
+			"ComponentName":"#",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. CSMB ETLA",
+			"ComponentName":"Acrobat CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. CSMB ETLA",
+			"ComponentName":"Acrobat DC",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. CSMB ETLA",
+			"ComponentName":"Stock",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. CSMB ETLA",
+			"ComponentName":"PDF Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. CSMB ETLA",
+			"ComponentName":"Sign",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. CSMB ETLA",
+			"ComponentName":"Core CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. CSMB ETLA",
+			"ComponentName":"Frame IO",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC with CSMB ETLA",
+			"ComponentName":"CSMB ETLA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC with CSMB ETLA",
+			"ComponentName":"Core CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC + Acrobat DC +  Acrobat CC",
+			"ComponentName":"Core CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC + Acrobat DC +  Acrobat CC",
+			"ComponentName":"Acrobat CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC + Acrobat DC +  Acrobat CC",
+			"ComponentName":"Acrobat DC",
+			"Weight":1
+		},
+		{
+			"ParentName":"W-ARR&Units by Offer",
+			"ComponentName":"B2B",
+			"Weight":1
+		},
+		{
+			"ParentName":"W-ARR&Units by Offer",
+			"ComponentName":"Consumer",
+			"Weight":1
+		},
+		{
+			"ParentName":"W-ARR&Units by Offer",
+			"ComponentName":"Education",
+			"Weight":1
+		},
+		{
+			"ParentName":"W-ARR&Units by Offer",
+			"ComponentName":"Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"Lightroom Combined",
+			"ComponentName":"Lightroom CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Lightroom Combined",
+			"ComponentName":"Lightroom CC Mobile",
+			"Weight":1
+		},
+		{
+			"ParentName":"Lightroom Combined",
+			"ComponentName":"Lightroom CC IAP",
+			"Weight":1
+		},
+		{
+			"ParentName":"CCP Combined",
+			"ComponentName":"CCP Classic",
+			"Weight":1
+		},
+		{
+			"ParentName":"CCP Combined",
+			"ComponentName":"CCP New",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Institutions",
+			"ComponentName":"Acrobat CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Institutions",
+			"ComponentName":"Acrobat DC",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Institutions",
+			"ComponentName":"Commercial Individual",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Institutions",
+			"ComponentName":"Commercial Team",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Institutions",
+			"ComponentName":"Frame IO",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Institutions",
+			"ComponentName":"Students",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Institutions",
+			"ComponentName":"Photography",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Institutions",
+			"ComponentName":"CSMB ETLA",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Institutions",
+			"ComponentName":"Stock",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Institutions",
+			"ComponentName":"PDF Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Institutions",
+			"ComponentName":"Sign",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Institutions",
+			"ComponentName":"Enterprise",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Institutions",
+			"ComponentName":"Other Perpetual",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Institutions",
+			"ComponentName":"SUBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Institutions",
+			"ComponentName":"#",
+			"Weight":1
+		},
+		{
+			"ParentName":"Photography Desktop",
+			"ComponentName":"CCP Classic",
+			"Weight":1
+		},
+		{
+			"ParentName":"Photography Desktop",
+			"ComponentName":"CCP New",
+			"Weight":1
+		},
+		{
+			"ParentName":"Photography Desktop",
+			"ComponentName":"Lightroom CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Photography Mobile",
+			"ComponentName":"Lightroom CC Mobile",
+			"Weight":1
+		},
+		{
+			"ParentName":"Photography Mobile",
+			"ComponentName":"Lightroom CC IAP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Desktop",
+			"ComponentName":"Acrobat CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Desktop",
+			"ComponentName":"Acrobat DC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Desktop",
+			"ComponentName":"Commercial Individual",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Desktop",
+			"ComponentName":"Commercial Team",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Desktop",
+			"ComponentName":"Institutions",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Desktop",
+			"ComponentName":"Students",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Desktop",
+			"ComponentName":"CSMB ETLA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Desktop",
+			"ComponentName":"Stock",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Desktop",
+			"ComponentName":"PDF Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Desktop",
+			"ComponentName":"Sign",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Desktop",
+			"ComponentName":"Enterprise",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Desktop",
+			"ComponentName":"Other Perpetual",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Desktop",
+			"ComponentName":"SUBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Desktop",
+			"ComponentName":"#",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Desktop",
+			"ComponentName":"Photography Desktop",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Mobile",
+			"ComponentName":"Acrobat CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Mobile",
+			"ComponentName":"Acrobat DC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Mobile",
+			"ComponentName":"Commercial Individual",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Mobile",
+			"ComponentName":"Commercial Team",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Mobile",
+			"ComponentName":"Institutions",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Mobile",
+			"ComponentName":"Students",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Mobile",
+			"ComponentName":"CSMB ETLA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Mobile",
+			"ComponentName":"Stock",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Mobile",
+			"ComponentName":"PDF Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Mobile",
+			"ComponentName":"Sign",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Mobile",
+			"ComponentName":"Enterprise",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Mobile",
+			"ComponentName":"Other Perpetual",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Mobile",
+			"ComponentName":"SUBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Mobile",
+			"ComponentName":"#",
+			"Weight":1
+		},
+		{
+			"ParentName":"Digital Imaging Mobile",
+			"ComponentName":"Photography Mobile",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO + CSMB ETLA",
+			"ComponentName":"Acrobat CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO + CSMB ETLA",
+			"ComponentName":"Acrobat DC",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO + CSMB ETLA",
+			"ComponentName":"Commercial Individual",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO + CSMB ETLA",
+			"ComponentName":"Commercial Team",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO + CSMB ETLA",
+			"ComponentName":"Institutions",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO + CSMB ETLA",
+			"ComponentName":"Students",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO + CSMB ETLA",
+			"ComponentName":"Photography",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO + CSMB ETLA",
+			"ComponentName":"Stock",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO + CSMB ETLA",
+			"ComponentName":"PDF Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO + CSMB ETLA",
+			"ComponentName":"Sign",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO + CSMB ETLA",
+			"ComponentName":"Enterprise",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO + CSMB ETLA",
+			"ComponentName":"Other Perpetual",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO + CSMB ETLA",
+			"ComponentName":"SUBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO + CSMB ETLA",
+			"ComponentName":"#",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO",
+			"ComponentName":"Acrobat CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO",
+			"ComponentName":"Acrobat DC",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO",
+			"ComponentName":"Commercial Individual",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO",
+			"ComponentName":"Commercial Team",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO",
+			"ComponentName":"Institutions",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO",
+			"ComponentName":"Students",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO",
+			"ComponentName":"Photography",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO",
+			"ComponentName":"CSMB ETLA",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO",
+			"ComponentName":"Stock",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO",
+			"ComponentName":"PDF Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO",
+			"ComponentName":"Sign",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO",
+			"ComponentName":"Enterprise",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO",
+			"ComponentName":"Other Perpetual",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO",
+			"ComponentName":"SUBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Offerings excl. Frame IO",
+			"ComponentName":"#",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC",
+			"ComponentName":"Commercial Team",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC",
+			"ComponentName":"Institutions",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC",
+			"ComponentName":"Students",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC",
+			"ComponentName":"Commercial Individual",
+			"Weight":1
+		},
+		{
+			"ParentName":"Core CC",
+			"ComponentName":"Photography",
+			"Weight":1
+		},
+		{
+			"ParentName":"B2B",
+			"ComponentName":"CCT",
+			"Weight":1
+		},
+		{
+			"ParentName":"B2B",
+			"ComponentName":"CCE",
+			"Weight":1
+		},
+		{
+			"ParentName":"B2B",
+			"ComponentName":"Acrobat DC Subscription",
+			"Weight":1
+		},
+		{
+			"ParentName":"Consumer",
+			"ComponentName":"CCM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Consumer",
+			"ComponentName":"CCM PP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Consumer",
+			"ComponentName":"Acrobat CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Consumer",
+			"ComponentName":"Photography",
+			"Weight":1
+		},
+		{
+			"ParentName":"Consumer",
+			"ComponentName":"Students",
+			"Weight":1
+		},
+		{
+			"ParentName":"Consumer",
+			"ComponentName":"Sign + PDF Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Consumer",
+			"ComponentName":"Stock Subs",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sign + PDF Services",
+			"ComponentName":"PDF Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sign + PDF Services",
+			"ComponentName":"Sign",
+			"Weight":1
+		},
+		{
+			"ParentName":"Education",
+			"ComponentName":"HED",
+			"Weight":1
+		},
+		{
+			"ParentName":"Education",
+			"ComponentName":"K12 + EEA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Education",
+			"ComponentName":"CSMB ETLA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other",
+			"ComponentName":"CSMB ETLA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Commercial Team + CSMB ETLA",
+			"ComponentName":"CSMB ETLA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Commercial Team + CSMB ETLA",
+			"ComponentName":"Commercial Team",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"Offerings.subsets/0 - RCE Beginning Week Processing.json",
+		"Offerings.subsets/2022.07.26 - FX Allocation Auto Calc Testing DME CSMB (RCE)_Source_2022-07-26(122821).json",
+		"Offerings.subsets/actuals.json",
+		"Offerings.subsets/All Level 0.json",
+		"Offerings.subsets/Beg Bal Check Set.json",
+		"Offerings.subsets/Default.json",
+		"Offerings.subsets/E1 - Offerings 1 Expand.json",
+		"Offerings.subsets/E1 - Sorted Leaves.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-13(184104).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-13(184104)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-13(190754).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-13(190754)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-14(192924).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-14(192924)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-14(225205).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-14(225205)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-17(174643).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-17(174643)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-17(181205).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-17(181205)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-24(193351).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-24(193351)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-28(203253).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-28(203253)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-31(191202).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-31(191202)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-01(160815).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-01(160815)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-03(220243).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-03(220243)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-03(221328).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-03(221328)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-04(170615).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-04(170615)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-06(171120).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-06(171120)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-07(171210).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-07(171210)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-08(171542).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-08(171542)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-09(170932).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-09(170932)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-10(170558).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-10(170558)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-11(171222).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-11(171222)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-13(170731).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-13(170731)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-14(170806).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-14(170806)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-15(170757).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-15(170757)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-16(170903).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-16(170903)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-17(170900).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-17(170900)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-18(170459).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-18(170459)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-20(170738).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-20(170738)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-21(170414).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-21(170414)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-22(170808).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-22(170808)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-23(170837).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-23(170837)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-24(170938).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-24(170938)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-25(170956).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-25(170956)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-27(172039).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-27(172039)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-28(171955).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-28(171955)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-29(172527).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-29(172527)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-30(172404).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-30(172404)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-01(172606).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-01(172606)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-02(173745).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-02(173745)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-04(182332).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-04(182332)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-05(182757).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-05(182757)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-06(172110).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-06(172110)_Units.json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2022-12-02(174155).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2022-12-05(183214).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2023-02-20(170407).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2023-03-27(182736).json",
+		"Offerings.subsets/Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2023-04-10(165426).json",
+		"Offerings.subsets/Load Cube - Planning Revenue CSMB - from Planning Subs_Source_2022-12-14(180320).json",
+		"Offerings.subsets/Load Cube - Planning Revenue CSMB - from Planning Subs_Source_2022-12-14(181950).json",
+		"Offerings.subsets/Load Cube - Planning Revenue DMe - from Planning Subs_Source_2023-04-17(171851).json",
+		"Offerings.subsets/offerings.json",
+		"Offerings.subsets/Offerings - Leaves.json",
+		"Offerings.subsets/Offerings - Leaves - No Other Perpetual.json",
+		"Offerings.subsets/Offerings-No Perpetual.json",
+		"Offerings.subsets/SYS-Web Outlook.json",
+		"Offerings.subsets/TEST_2022-08-20(193104)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-08-27(094506)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-08-27(105503)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-09-03(175641)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-09-06(164810)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-09-06(223644)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-10-13(191046)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-10-14(193214)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-10-17(181454)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-10-24(194100)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-03(220512)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-03(223349)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-04(165620)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-05(165651)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-06(165947)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-07(170011)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-08(170339)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-09(165900)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-10(165634)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-11(165753)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-12(165744)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-13(165834)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-14(165916)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-15(170031)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-16(170116)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-17(170125)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-18(170326)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-20(170027)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-21(170228)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-22(170058)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-23(170124)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-24(170151)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-25(170204)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-26(170220)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-27(171141)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-28(184602)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-29(171417)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-11-30(171350)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-12-01(171528)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-12-02(172126)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-12-03(180045)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-12-04(180035)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-12-05(180038)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-12-06(170643)planning_subs view.json",
+		"Offerings.subsets/TEST_2022-12-07(164902)planning_subs view.json",
+		"Offerings.subsets/UDC-Public.json",
+		"Offerings.subsets/W-ARR&Units by Offer.json",
+		"Offerings.subsets/W-ARR&Units by Segment.json",
+		"Offerings.subsets/zCDR-Off DDOM.json",
+		"Offerings.subsets/zSH Planning Subs Extract 5-23-22_2022-05-23(111500) J.json",
+		"Offerings.subsets/zTest.json"
+	]
+}

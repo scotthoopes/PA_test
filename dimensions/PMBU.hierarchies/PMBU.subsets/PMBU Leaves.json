@@ -1,0 +1,211 @@
+{
+	"@type":"Subset",
+	"Name":"PMBU Leaves",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('10200')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('13800')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('13900')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('IS11 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('10100')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('13500')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('10300')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('13400')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('13300')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('IS10 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('14200')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('14100')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('11000')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('IS13 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('10600')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('14000')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('IS12 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('EB10 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('10800')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('13700')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('14400')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('IS15 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('EB15 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('13200')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('IS14 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('EB55 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('XR10 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('12800')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('12900')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('IS22 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('14300')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('12600')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('13600')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('IS24 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('IS23 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('12400')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('IS26 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('12700')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('IS27 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('Scene 7')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('AEM')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('IS28 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('12500')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('IS29 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('EB20 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('10500')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('10900')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('IS25 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('EB25 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('XR20 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('11200')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('12200')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('11100')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('11300')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('11900')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('10700')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('IS30 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('EB30 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('XR30 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('11500')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('IS40 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('EB40 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('XR40 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('13100')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('IS50 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('EB50 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('XR50 - #')"
+		},
+		{
+			"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('All Profit Centers - #')"
+		}
+	]
+}

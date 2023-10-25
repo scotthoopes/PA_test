@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Level 1 - Revenue Mix",
+	"Expression":"{TM1SORT( {TM1FILTERBYLEVEL( {TM1SUBSETALL( [Major Product Config] )}, 1)}, ASC)}"
+}

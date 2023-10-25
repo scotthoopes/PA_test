@@ -1,0 +1,16 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-03(220243)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Cross Sell Regular vs. Promo')/Hierarchies('Cross Sell Regular vs. Promo')/Elements('None')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Regular vs. Promo')/Hierarchies('Cross Sell Regular vs. Promo')/Elements('Regular')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Regular vs. Promo')/Hierarchies('Cross Sell Regular vs. Promo')/Elements('Promo')"
+		}
+	]
+}

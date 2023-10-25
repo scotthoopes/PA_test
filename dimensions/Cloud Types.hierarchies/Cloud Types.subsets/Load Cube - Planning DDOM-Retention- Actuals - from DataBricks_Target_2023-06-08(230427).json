@@ -1,0 +1,25 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Planning DDOM-Retention- Actuals - from DataBricks_Target_2023-06-08(230427)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Cloud Types')/Hierarchies('Cloud Types')/Elements('Stock Bundle Units')"
+		},
+		{
+			"@id":"Dimensions('Cloud Types')/Hierarchies('Cloud Types')/Elements('Digital Media')"
+		},
+		{
+			"@id":"Dimensions('Cloud Types')/Hierarchies('Cloud Types')/Elements('Other Perpetual')"
+		},
+		{
+			"@id":"Dimensions('Cloud Types')/Hierarchies('Cloud Types')/Elements('Creative Cloud')"
+		},
+		{
+			"@id":"Dimensions('Cloud Types')/Hierarchies('Cloud Types')/Elements('Document Cloud')"
+		},
+		{
+			"@id":"Dimensions('Cloud Types')/Hierarchies('Cloud Types')/Elements('Stock')"
+		}
+	]
+}

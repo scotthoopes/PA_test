@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Beg Bal Check Set",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Regular vs. Promo')/Hierarchies('Regular vs. Promo')/Elements('All Regular and Promo')"
+		}
+	]
+}

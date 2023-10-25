@@ -1,0 +1,99 @@
+#region Prolog
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+
+## Name: Load Cube - Planning E4 - Quarterly Growth Entry E4 - Holt Winter Python
+#GENERALCOMMENT Run the python process to generate the Holt Winter forecast.  
+#GENERALCOMMENT This process calls a sub process to create the view used by the python script.
+
+#LASTCHANGE # NEW - v1.0 - 2020/01/30 - SCB/ProKarma #
+
+#------------------------------------------------------------------------------
+#PROLOGCOMMENT # Log the Process Run #
+#------------------------------------------------------------------------------
+sProcessName = GetProcessName ( ) ;
+sTimeStamp = Timst ( NOW, '\Y-\m-\d(\h\i\s)' ) ;
+## Done after timestamp is gathered, so it sets that value before going into a waiting state.
+#Synchronized( 'Holt Winter Phyon' );
+
+sTM1User = TM1User ( ) ;
+IF ( DIMIX ( '}Clients', sTM1User ) <> 0 ) ;
+	sTM1User = Attrs ( '}Clients', sTM1User, '}TM1_DefaultDisplayValue' ) 
+		| '=' | Attrs ( '}Clients', sTM1User, 'Name' ) ;
+ENDIF ;
+IF ( sTM1User @= '=' ) ;
+	sTM1User = TM1User ( ) ;
+ENDIF ;
+
+NumericGlobalVariable ( 'PrologMinorErrorCount' ) ;
+NumericGlobalVariable ( 'MetadataMinorErrorCount' ) ;
+NumericGlobalVariable ( 'DataMinorErrorCount' ) ;
+
+CellPutS ( sTimeStamp, 'Doc_TI Processes', sProcessName, 'Start Time' ) ;
+CellPutS ( sTM1User, 'Doc_TI Processes', sProcessName, 'Run By' ) ;
+
+sMsg = '' ;
+
+#------------------------------------------------------------------------------------------#
+#PROLOGCOMMENT # Establish process-level variables. #
+#------------------------------------------------------------------------------------------#
+
+### ALWAYS INCLUDE THE FOLLOWING VARIABLES. ###
+nSourceRecCnt = 0 ;
+nOutputRecCnt = 0 ;
+nSkipRecCnt = 0 ;
+MinorErrorLogMax = -1 ;
+
+#-----------------------------------------------------------------------#
+#PROLOGCOMMENT # Validate parameters. #
+#-----------------------------------------------------------------------#
+#If( DimIx( 'Geo', pGeo) = 0 );
+#	sMsg = sMsg | 'ERROR - Invalid Geo (' | pGeo | ')(' | sTM1User | ').  ' ;
+#	PrologMinorErrorCount = PrologMinorErrorCount + 1 ;
+#EndIf;
+
+IF ( sMsg @<> '' ) ;
+	ProcessBreak ;
+ENDIF ;
+
+#-----------------------------------------------------------------------#
+#PROLOGCOMMENT # Lookup values. #
+#-----------------------------------------------------------------------#
+sInstance =  CellGetS ( 'Global Parameters', 'TM1 Service Name', 'Value String' ) ;
+sLog =  CellGetS ( 'Global Parameters', 'File Path - Log', 'Value String' ) ;
+sPath = CellGetS ( 'Global Parameters', 'File Path - Data', 'Value String' ) ;
+## Remove trailing slash from Log.
+sLog = SubSt( sLog, 1, Long(sLog)-1);
+
+## Remove trailing slash from path.
+sPath = SubSt( sPath, 1, Long(sPath)-1);
+
+
+
+#endregion
+#region Epilog
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+
+## The python script uses the view for the source records, and then does a Holt Winter to forecast future quarters.
+vpyBatch = '\\sj1dra370\C:\Windows\SysWOW64\cmd.exe /c ""run_pytm1.bat" "'| sTM1User |'" "' | sInstance |'" "' | sLog | '" "'| sPath |'" "tm1HW_E5.py""';
+ExecuteCommand (vpyBatch ,1);
+nOutputRecCnt = nOutputRecCnt + 1;
+
+#----------------------------------------------------------------------------------------------------------------------
+#EPILOGCOMMENT # Log the Process Run Complete
+#----------------------------------------------------------------------------------------------------------------------
+nErrorCount = PrologMinorErrorCount + MetaDataMinorErrorCount + DataMinorErrorCount ;
+CellPutN ( nErrorCount, 'Doc_TI Processes', sProcessName, 'Error Count' ) ;
+CellPutN ( nSourceRecCnt, 'Doc_TI Processes', sProcessName, 'Source Record Count' ) ;
+CellPutN ( nOutputRecCnt, 'Doc_TI Processes', sProcessName, 'Output Record Count' ) ;
+CellPutN ( nSkipRecCnt, 'Doc_TI Processes', sProcessName, 'Skip Record Count' ) ;
+sTimeStamp = TimSt ( NOW, '\Y-\m-\d(\h\i\s)' ) ;
+CellPutS ( sTimeStamp, 'Doc_TI Processes', sProcessName, 'End Time' ) ;
+
+#EPILOGCOMMENT # Log error and Quit if parameter validation fails. #
+IF ( sMsg @<> '' ) ;
+	LogOutput ( 'ERROR', sMsg ) ;
+	ProcessQuit ;
+ENDIF ;
+#endregion

@@ -1,0 +1,223 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-11(171222)_Units",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('FRAM')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('CCEX')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('SBST')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('SBTX')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('CSDM')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('CSAS')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('APSF')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('ASIG')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('PDFF')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('# (Leaf)')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('PSX')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('CCDP')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('ASPK')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('ESHR')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('SPRK')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('PLES')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('CCES')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('LPES')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('STSM')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('APAS')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('APAP')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('ACRO')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('TYKT')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('STKS')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('STKM')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('STKL')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('PPSK')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('PHLT')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('CISK')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('CCSN')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('CTSK')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('CCSB')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('CCLE')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('RUSH')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('SPGD')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('SHDW')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('PRSK')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('PRLD')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('PHSK')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('MUSK')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('ILSK')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('IDSK')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('ICSK')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('FPSK')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('EXTB')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('EDGE')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('DWSK')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('DCSK')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('BHAN')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('AUSK')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('AESK')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('FRSC')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('PPRO')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('PHSP')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('MUSE')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('ILST')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('IDSN')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('FLPR')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('DRWV')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('AUDT')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('AICY')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('AEFT')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('APRO')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('APCC')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('ACRS')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('SPDF')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('SEND')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('EPDF')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('ECHP')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('CPDF')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('ACOM')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Name and Description')/Hierarchies('Cross Sell Name and Description')/Elements('CONV')"
+		}
+	]
+}

@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"TableauScenarios - Expanded Members",
+	"Alias":"Desc",
+	"Expression":"{\r    TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"Actuals\") ,\r    TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"2015 Plan\") ,\r    TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"OL - Previous\") ,\r    TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"OL - Current\") \r}"
+}

@@ -1,0 +1,367 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-10(170558)_Units",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('Acrobat DC (Ap)')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('Acrobat CC (Ap)')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('SUSK')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('STSM')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('STKS')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('STKM')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('STKL')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('STEL')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('Stock ETLA')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('STOS')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('STOK')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('SASK')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('PRSK')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('PPSK')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('PHSK')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('MUSK')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('ILSK')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('IDSK')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('ICSK')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('FPSK')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('DWSK')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('DCSK')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CTSK')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CSXD')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CSPP')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CSPM')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CSPH')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CSLR')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CSIL')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CSID')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CSIC')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CSDW')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CSDM')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CSAM')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CSAE')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CSAD')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CISK')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CAUS')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('AUSK')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('AESK')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('# - Stock')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('SRC')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('Sign ETLA')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('ECHP')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('ECHG')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('ECHE')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('SPDF')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('SEND')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('EPDF')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CPDF')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CONV')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('ACOM')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('Other Perpetual')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('ETLA')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('SPRK')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('ASPK')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('Rush')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('PPRO')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('PHSP_APPSTORE')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('PSX')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('PHXS')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('PHSP')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('TYKT')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('SPGD')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('SHDW')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('PRLD')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('Other Single App')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('LCCC')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('FRSC')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('FLPR')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('EXTB')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('EDGE')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('DRWV')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('DRCT')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CSAS')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CCDP')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('BHAN')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('AUDT')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('AICY')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('MUSE')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('IDSN')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('AIS')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('ILST_APPSTORE')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('ILST')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('FRAM')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('SUBD')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('SBTX')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('SBST')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('ESHR')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CONC')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CCEX')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('AEFT')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('PLES')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('PHLT')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('LPES')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CCSN_APPSTORE')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('Creative CSMB ETLA')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('WEBB')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('STVD')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('STAM')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('MDIA')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('EEA')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('DSGN')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CCSN')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CCSB')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CCLE')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('CCES')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('# - CC')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('APSF')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('APRO')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('APCC')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('APAP')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('ACRS')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('ACRO')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('Acrobat DC ETLA')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('# - DC')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('PDFF')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('ASIG')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('APAS')"
+		},
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('#')"
+		}
+	]
+}

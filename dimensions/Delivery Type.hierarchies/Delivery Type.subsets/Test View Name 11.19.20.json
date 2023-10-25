@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Test View Name 11.19.20",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Delivery Type')/Hierarchies('Delivery Type')/Elements('T&M')"
+		}
+	]
+}

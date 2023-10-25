@@ -1,0 +1,13 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-30(172404)_Units",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Winback Flag')/Hierarchies('Winback Flag')/Elements('N')"
+		},
+		{
+			"@id":"Dimensions('Winback Flag')/Hierarchies('Winback Flag')/Elements('Y')"
+		}
+	]
+}

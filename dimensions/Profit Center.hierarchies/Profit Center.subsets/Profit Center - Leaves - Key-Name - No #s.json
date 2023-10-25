@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"Profit Center - Leaves - Key-Name - No #s",
+	"Alias":"Key - Name",
+	"Expression":"TM1SORT ({EXCEPT(\r{TM1FILTERBYLEVEL( {TM1SUBSETALL( [Profit Center] )}, 0)},\r{TM1FILTERBYPATTERN( {TM1FILTERBYLEVEL( {TM1SUBSETALL( [Profit Center] )}, 0)}, \"*#*\")},\rALL )\r}, ASC)"
+}

@@ -1,0 +1,22 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Planning Revenue DMe - from Planning Subs_Source_2023-04-17(171851)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('#')"
+		},
+		{
+			"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('NON-PROFIT')"
+		},
+		{
+			"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('GOVERNMENT')"
+		},
+		{
+			"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('EDUCATION')"
+		},
+		{
+			"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('COMMERCIAL')"
+		}
+	]
+}

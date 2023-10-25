@@ -1,0 +1,16 @@
+{
+	"@type":"Subset",
+	"Name":"zSH Planning Subs Extract 5-23-22_2022-05-23(111500) J",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Regular vs. Promo')/Hierarchies('Regular vs. Promo')/Elements('PROMO')"
+		},
+		{
+			"@id":"Dimensions('Regular vs. Promo')/Hierarchies('Regular vs. Promo')/Elements('REGULAR')"
+		},
+		{
+			"@id":"Dimensions('Regular vs. Promo')/Hierarchies('Regular vs. Promo')/Elements('NOT ASSIGNED')"
+		}
+	]
+}

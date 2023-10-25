@@ -1,0 +1,13 @@
+{
+	"@type":"Subset",
+	"Name":"zTest",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Winback Flag')/Hierarchies('Winback Flag')/Elements('Y')"
+		},
+		{
+			"@id":"Dimensions('Winback Flag')/Hierarchies('Winback Flag')/Elements('N')"
+		}
+	]
+}

@@ -1,0 +1,19 @@
+{
+	"@type":"Subset",
+	"Name":"Bookings Extract FX",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD Adjusted')"
+		},
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD as Reported')"
+		},
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD Current Plan Rate')"
+		},
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD Current QRF Rate')"
+		}
+	]
+}

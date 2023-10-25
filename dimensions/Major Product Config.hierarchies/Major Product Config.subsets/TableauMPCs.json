@@ -1,0 +1,22 @@
+{
+	"@type":"Subset",
+	"Name":"TableauMPCs",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')/Elements('SAS (RM)')"
+		},
+		{
+			"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')/Elements('ESS (RT)')"
+		},
+		{
+			"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')/Elements('PRO (RT)')"
+		},
+		{
+			"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')/Elements('OEM (RT)')"
+		},
+		{
+			"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')/Elements('APPS ex SAS')"
+		}
+	]
+}

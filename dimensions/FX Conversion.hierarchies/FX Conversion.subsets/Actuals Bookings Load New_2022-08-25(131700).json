@@ -1,0 +1,55 @@
+{
+	"@type":"Subset",
+	"Name":"Actuals Bookings Load New_2022-08-25(131700)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD Current QRF Rate')"
+		},
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD Current Plan Rate')"
+		},
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD as Reported')"
+		},
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD Adjusted 606')"
+		},
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD 606')"
+		},
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('Actuals CSMB Test')"
+		},
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD LC Calc')"
+		},
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('Local Currency')"
+		},
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD Scenario Adjusted')"
+		},
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD Adjusted Simple')"
+		},
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD Adjusted - Next Year Plan Rates')"
+		},
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD Adjusted - QRF Current')"
+		},
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD Adjusted')"
+		},
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD')"
+		},
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('test adjusted')"
+		},
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('test')"
+		}
+	]
+}

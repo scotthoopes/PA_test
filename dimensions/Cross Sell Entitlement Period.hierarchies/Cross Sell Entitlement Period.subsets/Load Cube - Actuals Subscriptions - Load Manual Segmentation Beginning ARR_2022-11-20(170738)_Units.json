@@ -1,0 +1,19 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-20(170738)_Units",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Cross Sell Entitlement Period')/Hierarchies('Cross Sell Entitlement Period')/Elements('Unknown')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Entitlement Period')/Hierarchies('Cross Sell Entitlement Period')/Elements('3-Months')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Entitlement Period')/Hierarchies('Cross Sell Entitlement Period')/Elements('Monthly')"
+		},
+		{
+			"@id":"Dimensions('Cross Sell Entitlement Period')/Hierarchies('Cross Sell Entitlement Period')/Elements('Annual')"
+		}
+	]
+}

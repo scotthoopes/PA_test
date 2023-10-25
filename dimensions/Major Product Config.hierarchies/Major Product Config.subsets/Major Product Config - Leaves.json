@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Major Product Config - Leaves",
+	"Expression":"{TM1SORT( {TM1FILTERBYLEVEL( {TM1SUBSETALL( [Major Product Config] )}, 0)}, ASC)}"
+}

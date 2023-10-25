@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Planning - OEM",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('#')"
+		}
+	]
+}

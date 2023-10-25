@@ -1,0 +1,98 @@
+{
+	"@type":"Subset",
+	"Name":"TableauMarketAreas",
+	"Alias":"Name",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('CAN (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('US (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('BRZ (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('MEX (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('SLAM (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('ANZ (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('CHN (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('HK (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('IN (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('KOR (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('SEA (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('TW (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('XB (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('GER (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('SWI (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('XE (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('NORD (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('UK (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('SSAI (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('BEN (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('FRA (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('IBE (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('ITA (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('MED (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('EE (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('RCIS (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('MET (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('JPN (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('XA (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('#')"
+		}
+	]
+}

@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Offerings - Leaves - No Other Perpetual",
+	"Expression":"{ EXCEPT( {TM1SORT( {TM1FILTERBYLEVEL( {TM1SUBSETALL( [Offerings] )}, 0)}, ASC)}, { [Offerings].[Other Perpetual] }) }"
+}

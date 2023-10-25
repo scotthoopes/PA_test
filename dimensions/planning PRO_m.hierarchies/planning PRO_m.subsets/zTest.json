@@ -1,0 +1,79 @@
+{
+	"@type":"Subset",
+	"Name":"zTest",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('Billable Hours')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('Management Adjustment Hours')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('Sales Adjustment Hours')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('Analyst Adjustment Hours')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('Management Adjustment')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('Sales Adjustment')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('Analyst Adjustment')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('CORR')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('Other')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('HB00')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('PR00')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('Z020')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('ZCDM')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('ZCHB')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('ZCHP')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('ZCP1')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('ZCS0')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('ZKV5')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('ZNM1')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('ZRNR')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('ZSM1')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('ZSY1')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('ZTXP')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('ZPER')"
+		}
+	]
+}

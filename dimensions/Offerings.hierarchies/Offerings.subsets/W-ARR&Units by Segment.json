@@ -1,0 +1,41 @@
+{
+	"@type":"Subset",
+	"Name":"W-ARR&Units by Segment",
+	"Alias":"Offer Name",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Acrobat CC')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Acrobat DC Subscription')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('CSMB ETLA')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Commercial Individual')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Institutions')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Photography')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Sign + PDF Services')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Stock Subs')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Students')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Commercial Team')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('All Offerings')"
+		}
+	]
+}

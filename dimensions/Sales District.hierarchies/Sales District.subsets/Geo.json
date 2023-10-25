@@ -1,0 +1,29 @@
+{
+	"@type":"Subset",
+	"Name":"Geo",
+	"Alias":"Key - Name",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('AMER (G)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('ASIA (G)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('EMEA (G)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('JPN (G)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('#')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('1')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('FX')"
+		}
+	]
+}

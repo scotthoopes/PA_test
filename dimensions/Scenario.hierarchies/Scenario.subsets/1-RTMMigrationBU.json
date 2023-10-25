@@ -1,0 +1,22 @@
+{
+	"@type":"Subset",
+	"Name":"1-RTMMigrationBU",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Actuals')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Forecast2')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Forecast5')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Rocke Backup')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Locked Reporting Plans')"
+		}
+	]
+}

@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"RegvsPromo - Leaves",
+	"Expression":"{TM1FILTERBYLEVEL( { HIERARCHIZE( {TM1SUBSETALL( [Regular vs. Promo] )} ) }, 0)}"
+}

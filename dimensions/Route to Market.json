@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"Route to Market",
+	"Hierarchies@Code.links":
+	[
+		"Route to Market.hierarchies/Route to Market.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')"
+	}
+}

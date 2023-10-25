@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2023-08-29(182533)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Periodicity')/Hierarchies('Periodicity')/Elements('Value')"
+		}
+	]
+}

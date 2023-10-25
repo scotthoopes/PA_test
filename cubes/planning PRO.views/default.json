@@ -1,0 +1,58 @@
+{
+	"@type":"MDXView",
+	"Name":"default",
+	"MDX@Code.link":"default.mdx",
+	"Meta" : 
+	{
+		"Aliases" : {},
+		"ContextSets" : 
+		{
+			"[Delivery Personnel].[Delivery Personnel]" : 
+			{
+				"Expression" : "{[Delivery Personnel].[Delivery Personnel].MEMBERS}"
+			},
+			"[Delivery Type].[Delivery Type]" : 
+			{
+				"Expression" : "{[Delivery Type].[Delivery Type].MEMBERS}"
+			},
+			"[FX Conversion].[FX Conversion]" : 
+			{
+				"Expression" : "{[FX Conversion].[FX Conversion].MEMBERS}"
+			},
+			"[Major Product Config].[Major Product Config]" : 
+			{
+				"Expression" : "{[Major Product Config].[Major Product Config].MEMBERS}"
+			},
+			"[Market Segment].[Market Segment]" : 
+			{
+				"Expression" : "{[Market Segment].[Market Segment].MEMBERS}"
+			},
+			"[PMBU].[PMBU]" : 
+			{
+				"Expression" : "{[PMBU].[PMBU].MEMBERS}"
+			},
+			"[PS Segment].[PS Segment]" : 
+			{
+				"Expression" : "{[PS Segment].[PS Segment].MEMBERS}"
+			},
+			"[Scenario].[Scenario]" : 
+			{
+				"Expression" : "{[Scenario].[Scenario].MEMBERS}"
+			}
+		},
+		"ExpandAboves" : 
+		{
+			"[Delivery Personnel].[Delivery Personnel]" : false,
+			"[Delivery Type].[Delivery Type]" : false,
+			"[FX Conversion].[FX Conversion]" : false,
+			"[Fiscal Quarter].[Fiscal Quarter]" : false,
+			"[Major Product Config].[Major Product Config]" : false,
+			"[Market Area].[Market Area]" : false,
+			"[Market Segment].[Market Segment]" : false,
+			"[PMBU].[PMBU]" : false,
+			"[PS Segment].[PS Segment]" : false,
+			"[Scenario].[Scenario]" : false,
+			"[planning PRO_m].[planning PRO_m]" : false
+		}
+	}
+}

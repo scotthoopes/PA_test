@@ -1,0 +1,53 @@
+{
+	"@type":"Subset",
+	"Name":"MAs",
+	"Alias":"Key - Name",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('BEN (MA)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('CAN (MA)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('EE (MA)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('FRA (MA)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('GER (MA)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('IBE (MA)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('ITA (MA)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('JPN (MA)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('ME (MA)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('NORD (MA)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SEA (MA)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SSAI (MA)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SWI (MA)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('UK (MA)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('US (MA)')"
+		}
+	]
+}

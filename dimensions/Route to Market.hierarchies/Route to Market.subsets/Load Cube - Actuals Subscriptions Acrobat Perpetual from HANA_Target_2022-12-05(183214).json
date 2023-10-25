@@ -1,0 +1,16 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2022-12-05(183214)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('Perpetual')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('Adobe.com Product')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('Reseller')"
+		}
+	]
+}

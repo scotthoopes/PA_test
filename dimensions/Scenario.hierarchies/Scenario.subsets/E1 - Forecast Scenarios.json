@@ -1,0 +1,202 @@
+{
+	"@type":"Subset",
+	"Name":"E1 - Forecast Scenarios",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Outlook - Current')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2022 Q2 - Outlook Week 1')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2022 Q2 - Outlook Week 2')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2022 Q2 - Outlook Week 3')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Forecast11')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('CSMB 1st Pass Q3 QRF 2021')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('FY21 11.19 v3 Submission')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('FY22-23 Strat Plan – 6/13')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('FY22-23 Strat Plan – 6/13 v2')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('FY22/23 Strat Plan 6-28')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('FY22 Rolling Plan June High')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Q2 QRF 2022')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Q4 QRF 2021')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Q4 QRF 2021 Pass 1.0')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Q4 QRF 2021 Pass 2.0')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2021 Q4 - Outlook Week 10')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2021 Q4 - Outlook Week 11')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2021 Q4 - Outlook Week 12')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2021 Q4 - Outlook Week 13')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2021 Q4 - Outlook Week 2')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2021 Q4 - Outlook Week 3')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2021 Q4 - Outlook Week 4')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2021 Q4 - Outlook Week 5')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2021 Q4 - Outlook Week 6')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2021 Q4 - Outlook Week 7')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2021 Q4 - Outlook Week 8')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2022 Q1 - Outlook Week 10')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2022 Q1 - Outlook Week 11')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2022 Q1 - Outlook Week 12')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2022 Q1 - Outlook Week 13')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2022 Q1 - Outlook Week 2')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2022 Q1 - Outlook Week 3')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2022 Q1 - Outlook Week 4')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2022 Q1 - Outlook Week 5')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2022 Q1 - Outlook Week 6')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2022 Q1 - Outlook Week 7')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2022 Q1 - Outlook Week 8')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2022 Q1 - Outlook Week 9')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('AMER Test01')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('AMER Test02')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('AMER Test03')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('ASIA Test01')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('ASIA Test02')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('ASIA Test03')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('EMEA Test01')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('EMEA Test02')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('EMEA Test03')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Forecast Plan 01')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Forecast Plan 02')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('FY20 Rolling Plan October Mid')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('JPN Test01')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('JPN Test02')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('JPN Test03')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Outlook - Input')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Q3 QRF 2021')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Q1’20 Revenue Bridge Low')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Rolling Forecast')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('zSCB Test01')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('zSCB Test02')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('zSCB Test03')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('zTest Actuals Layered')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Forecast1')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Forecast2')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Forecast4')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Forecast6')"
+		}
+	]
+}

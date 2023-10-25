@@ -1,0 +1,25 @@
+{
+	"@type":"Subset",
+	"Name":"FX_Allocation_Load_Source",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Phone Vs. Web')/Hierarchies('Phone Vs. Web')/Elements('Phone + VIP-Phone')"
+		},
+		{
+			"@id":"Dimensions('Phone Vs. Web')/Hierarchies('Phone Vs. Web')/Elements('N/A')"
+		},
+		{
+			"@id":"Dimensions('Phone Vs. Web')/Hierarchies('Phone Vs. Web')/Elements('Web')"
+		},
+		{
+			"@id":"Dimensions('Phone Vs. Web')/Hierarchies('Phone Vs. Web')/Elements('Stock Web')"
+		},
+		{
+			"@id":"Dimensions('Phone Vs. Web')/Hierarchies('Phone Vs. Web')/Elements('Reseller - Named')"
+		},
+		{
+			"@id":"Dimensions('Phone Vs. Web')/Hierarchies('Phone Vs. Web')/Elements('Phone - Named')"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Planning Consolidated - from Planning Revenue DMe_Source_2023-05-22(192958)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Forecast1')"
+		}
+	]
+}

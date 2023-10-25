@@ -1,0 +1,16 @@
+{
+	"@type":"Subset",
+	"Name":"actuals",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Individual Vs. Team')/Hierarchies('Individual Vs. Team')/Elements('Individual')"
+		},
+		{
+			"@id":"Dimensions('Individual Vs. Team')/Hierarchies('Individual Vs. Team')/Elements('Not Assigned')"
+		},
+		{
+			"@id":"Dimensions('Individual Vs. Team')/Hierarchies('Individual Vs. Team')/Elements('Team')"
+		}
+	]
+}

@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"E1 - Offerings 1 Expand",
+	"Expression":"{DRILLDOWNMEMBER({[Offerings].[Offerings].[All Offerings]} , {[Offerings].[Offerings].[All Offerings]} , RECURSIVE)}"
+}

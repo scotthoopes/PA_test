@@ -1,0 +1,829 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-17(174643)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('PS')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('IR')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('AE')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('TN')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SA')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('QA')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('OM')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('MA')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('LY')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('LB')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('KW')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('JO')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('IQ')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('EG')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('BH')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('DZ')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('AF')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('YE')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('EEMD (R)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SSA (MA)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('MENA (MA)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('RUS (MA)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('EEM (R)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('NON-PROFIT')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('GOVERNMENT')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('EDUCATION')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('COMMERCIAL')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('Sub Saharan Africa (MA)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('NL')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('LU')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('BE')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('GI')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('JE')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('IM')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('GG')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('UK')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('IE')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('GB')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('BV')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SJ')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SE')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('NO')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('FI')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('IS')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('FO')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('DK')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('UZ')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('UA')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('TM')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('TJ')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('RU')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('MD')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('KZ')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('KG')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('GE')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('BY')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('AZ')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('AM')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('TR')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('YU')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('CS')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('RS')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('HR')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('BA')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SK')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SI')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('RO')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('PL')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('MT')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('LV')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('LT')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('HU')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('GR')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('EE')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('CZ')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('CY')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('BG')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('LI')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('CH')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('DE')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('401')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('CB')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('AT')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('VA')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SM')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('IT')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('PT')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('ES')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('AD')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('RE')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('MC')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('FR')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('ME')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('MK')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('KV')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('AL')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('GN')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SD')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SY')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('ZR')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('YD')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('CD')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SS')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('EH')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('ZW')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('ZM')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('UG')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('TG')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('TZ')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SZ')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('ZA')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SO')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SL')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SC')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SN')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('ST')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('RW')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('NG')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('NE')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('NA')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('MZ')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('YT')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('MU')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('MR')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('ML')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('MW')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('MG')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('LR')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('LS')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('KE')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('IL')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('GW')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('GH')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('GM')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('GA')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('ET')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('ER')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('GQ')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('DJ')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('CI')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('CG')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('KM')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('TD')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('CF')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('CV')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('CM')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('BI')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('BF')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('BW')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('BJ')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('AO')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('TW')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('MO')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('HK')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('RASI (R)')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('411')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('FX')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('1')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('#')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('XA')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('JP')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('XF')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('XE')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('MM')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('PK')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('VN')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('TL')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('TH')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SG')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('PH')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('MY')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('MP')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('LA')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('KH')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('IO')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('ID')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('FM')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('CX')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('BU')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('BN')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('KR')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('KP')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('MV')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('NP')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('BT')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('BD')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('LK')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('IN')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('MN')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('CN')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('XB')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('CC')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('PN')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('CK')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('WS')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('WF')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('VU')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('TV')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('TO')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('TK')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('TF')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SB')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('PW')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('PG')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('PF')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('NZ')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('NU')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('NR')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('NF')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('NC')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('MH')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('KI')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('FJ')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('AU')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('AS')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SX')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('BQ')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('CW')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('MQ')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('GP')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('GF')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('VG')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('VE')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('VC')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('UY')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('UM')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('TT')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('TC')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SV')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SR')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('SH')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('PY')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('PR')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('PE')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('PA')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('NI')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('MS')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('LC')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('KY')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('KN')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('JM')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('HT')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('HN')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('GY')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('GT')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('GS')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('GD')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('FK')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('EC')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('DO')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('DM')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('CU')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('CR')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('CO')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('CL')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('BZ')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('BS')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('BO')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('BM')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('BB')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('AW')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('AR')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('AQ')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('AN')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('AI')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('AG')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('MX')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('BR')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('GU')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('VI')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('US')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('PM')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('GL')"
+		},
+		{
+			"@id":"Dimensions('Sales District')/Hierarchies('Sales District')/Elements('CA')"
+		}
+	]
+}

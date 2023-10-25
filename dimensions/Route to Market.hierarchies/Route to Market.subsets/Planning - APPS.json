@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Planning - APPS",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('Channel')"
+		}
+	]
+}

@@ -1,0 +1,22 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2023-02-20(170407)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('#')"
+		},
+		{
+			"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('NON-PROFIT')"
+		},
+		{
+			"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('GOVERNMENT')"
+		},
+		{
+			"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('EDUCATION')"
+		},
+		{
+			"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('COMMERCIAL')"
+		}
+	]
+}

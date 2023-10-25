@@ -1,0 +1,47 @@
+{
+	"@type":"Subset",
+	"Name":"W-ARR&Units by Offer",
+	"Alias":"Offer Name",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('CCT')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('CCE')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Acrobat DC Subscription')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('CCM')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('CCM PP')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Acrobat CC')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Photography')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Students')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Sign + PDF Services')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Stock Subs')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('HED')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('K12 + EEA')"
+		},
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('CSMB ETLA')"
+		}
+	]
+}

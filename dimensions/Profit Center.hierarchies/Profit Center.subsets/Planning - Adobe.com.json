@@ -1,0 +1,31 @@
+{
+	"@type":"Subset",
+	"Name":"Planning - Adobe.com",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('IS10')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('10200')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('EB15')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('EB25')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('XR30')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('IS14')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('IS13')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('IS12')"
+		}
+	]
+}

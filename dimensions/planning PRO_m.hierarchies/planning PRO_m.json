@@ -1,0 +1,304 @@
+{
+	"@type":"Hierarchy",
+	"Name":"planning PRO_m",
+	"Elements":
+	[
+		{
+			"Name":"Billable Hours",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Adjusted Net New Revenue",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Adjusted Billable Hours",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Management Adjustment Hours",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sales Adjusted Billable Hours",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Sales Adjustment Hours",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Analyst Adjusted Billable Hours",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Analyst Adjustment Hours",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Management Adjustment",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sales Adjusted Net New Revenue",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Sales Adjustment",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Analyst Adjusted Net New Revenue",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Analyst Adjustment",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Net New Revenue",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"606 Allocations",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CORR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Operational Revenue",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Other",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HB00",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PR00",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Z020",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZCDM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZCHB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZCHP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZCP1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZCS0",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZKV5",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZNM1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZRNR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZSM1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZSY1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZTXP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZPER",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Adjusted Net New Revenue",
+			"ComponentName":"Management Adjustment",
+			"Weight":1
+		},
+		{
+			"ParentName":"Adjusted Net New Revenue",
+			"ComponentName":"Sales Adjusted Net New Revenue",
+			"Weight":1
+		},
+		{
+			"ParentName":"Adjusted Billable Hours",
+			"ComponentName":"Management Adjustment Hours",
+			"Weight":1
+		},
+		{
+			"ParentName":"Adjusted Billable Hours",
+			"ComponentName":"Sales Adjusted Billable Hours",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sales Adjusted Billable Hours",
+			"ComponentName":"Sales Adjustment Hours",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sales Adjusted Billable Hours",
+			"ComponentName":"Analyst Adjusted Billable Hours",
+			"Weight":1
+		},
+		{
+			"ParentName":"Analyst Adjusted Billable Hours",
+			"ComponentName":"Analyst Adjustment Hours",
+			"Weight":1
+		},
+		{
+			"ParentName":"Analyst Adjusted Billable Hours",
+			"ComponentName":"Billable Hours",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sales Adjusted Net New Revenue",
+			"ComponentName":"Sales Adjustment",
+			"Weight":1
+		},
+		{
+			"ParentName":"Sales Adjusted Net New Revenue",
+			"ComponentName":"Analyst Adjusted Net New Revenue",
+			"Weight":1
+		},
+		{
+			"ParentName":"Analyst Adjusted Net New Revenue",
+			"ComponentName":"Analyst Adjustment",
+			"Weight":1
+		},
+		{
+			"ParentName":"Analyst Adjusted Net New Revenue",
+			"ComponentName":"Net New Revenue",
+			"Weight":1
+		},
+		{
+			"ParentName":"Net New Revenue",
+			"ComponentName":"606 Allocations",
+			"Weight":1
+		},
+		{
+			"ParentName":"Net New Revenue",
+			"ComponentName":"Operational Revenue",
+			"Weight":1
+		},
+		{
+			"ParentName":"606 Allocations",
+			"ComponentName":"CORR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operational Revenue",
+			"ComponentName":"Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operational Revenue",
+			"ComponentName":"HB00",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operational Revenue",
+			"ComponentName":"PR00",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operational Revenue",
+			"ComponentName":"Z020",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operational Revenue",
+			"ComponentName":"ZCDM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operational Revenue",
+			"ComponentName":"ZCHB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operational Revenue",
+			"ComponentName":"ZCHP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operational Revenue",
+			"ComponentName":"ZCP1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operational Revenue",
+			"ComponentName":"ZCS0",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operational Revenue",
+			"ComponentName":"ZKV5",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operational Revenue",
+			"ComponentName":"ZNM1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operational Revenue",
+			"ComponentName":"ZRNR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operational Revenue",
+			"ComponentName":"ZSM1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operational Revenue",
+			"ComponentName":"ZSY1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operational Revenue",
+			"ComponentName":"ZTXP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Operational Revenue",
+			"ComponentName":"ZPER",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"planning PRO_m.subsets/Default.json",
+		"planning PRO_m.subsets/Test View Name 11.19.20.json",
+		"planning PRO_m.subsets/View Name via Execute Process 11.19.20.json",
+		"planning PRO_m.subsets/zTest.json"
+	]
+}

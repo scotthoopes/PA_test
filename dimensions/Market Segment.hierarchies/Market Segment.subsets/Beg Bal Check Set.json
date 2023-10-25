@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Beg Bal Check Set",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('All Market Segments')"
+		}
+	]
+}

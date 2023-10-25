@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-14(225205)_Units",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD')"
+		}
+	]
+}

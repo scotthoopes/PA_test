@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"ASIA",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('ASIA (G)')"
+		}
+	]
+}

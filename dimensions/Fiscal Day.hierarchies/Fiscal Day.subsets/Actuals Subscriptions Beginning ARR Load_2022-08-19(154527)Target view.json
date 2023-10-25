@@ -1,0 +1,46 @@
+{
+	"@type":"Subset",
+	"Name":"Actuals Subscriptions Beginning ARR Load_2022-08-19(154527)Target view",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Fiscal Day')/Hierarchies('Fiscal Day')/Elements('202227')"
+		},
+		{
+			"@id":"Dimensions('Fiscal Day')/Hierarchies('Fiscal Day')/Elements('202228')"
+		},
+		{
+			"@id":"Dimensions('Fiscal Day')/Hierarchies('Fiscal Day')/Elements('202229')"
+		},
+		{
+			"@id":"Dimensions('Fiscal Day')/Hierarchies('Fiscal Day')/Elements('202230')"
+		},
+		{
+			"@id":"Dimensions('Fiscal Day')/Hierarchies('Fiscal Day')/Elements('202231')"
+		},
+		{
+			"@id":"Dimensions('Fiscal Day')/Hierarchies('Fiscal Day')/Elements('202232')"
+		},
+		{
+			"@id":"Dimensions('Fiscal Day')/Hierarchies('Fiscal Day')/Elements('202233')"
+		},
+		{
+			"@id":"Dimensions('Fiscal Day')/Hierarchies('Fiscal Day')/Elements('202234')"
+		},
+		{
+			"@id":"Dimensions('Fiscal Day')/Hierarchies('Fiscal Day')/Elements('202235')"
+		},
+		{
+			"@id":"Dimensions('Fiscal Day')/Hierarchies('Fiscal Day')/Elements('202236')"
+		},
+		{
+			"@id":"Dimensions('Fiscal Day')/Hierarchies('Fiscal Day')/Elements('202237')"
+		},
+		{
+			"@id":"Dimensions('Fiscal Day')/Hierarchies('Fiscal Day')/Elements('202238')"
+		},
+		{
+			"@id":"Dimensions('Fiscal Day')/Hierarchies('Fiscal Day')/Elements('202239')"
+		}
+	]
+}

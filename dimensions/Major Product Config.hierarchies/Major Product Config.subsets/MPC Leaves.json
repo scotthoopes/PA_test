@@ -1,0 +1,46 @@
+{
+	"@type":"Subset",
+	"Name":"MPC Leaves",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')/Elements('#')"
+		},
+		{
+			"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')/Elements('BND')"
+		},
+		{
+			"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')/Elements('EDU')"
+		},
+		{
+			"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')/Elements('FUL')"
+		},
+		{
+			"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')/Elements('LIC')"
+		},
+		{
+			"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')/Elements('LMS')"
+		},
+		{
+			"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')/Elements('OEM')"
+		},
+		{
+			"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')/Elements('OTH')"
+		},
+		{
+			"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')/Elements('PRO')"
+		},
+		{
+			"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')/Elements('RMS')"
+		},
+		{
+			"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')/Elements('SAS')"
+		},
+		{
+			"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')/Elements('UPG')"
+		},
+		{
+			"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')/Elements('UPP')"
+		}
+	]
+}

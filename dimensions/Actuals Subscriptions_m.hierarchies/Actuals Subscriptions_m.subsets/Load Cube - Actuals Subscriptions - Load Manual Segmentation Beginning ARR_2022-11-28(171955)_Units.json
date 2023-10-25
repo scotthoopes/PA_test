@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-28(171955)_Units",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Actuals Subscriptions_m')/Hierarchies('Actuals Subscriptions_m')/Elements('Ending Active Units')"
+		}
+	]
+}

@@ -1,0 +1,11 @@
+{
+	"@type":"Subset",
+	"Name":"Adobe.com Product Segment",
+	"Alias":"Key - Name",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('Adobe.com Product Segment List')"
+		}
+	]
+}

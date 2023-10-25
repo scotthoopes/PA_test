@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"MP Scenario Default",
+	"Alias":"Desc",
+	"Expression":"{[Scenario].[Scenario].[Actuals],{{{{StrToMember(  \"[Scenario].[Scenario].[\"   + RIGHT( [Global Parameters].([Global Parameters].[Current QRF Quarter],[Global Parameters_m].[Value String]), 4)   + \" Plan]\"  ) }}},{FILTER(TM1FILTERBYLEVEL(TM1SUBSETALL([Scenario]) , 0) ,(([Scenario].CURRENTMEMBER.NAME = [Global Parameters].([Global Parameters].[Current QRF Quarter],[Global Parameters_m].[Value String])))),FILTER(TM1SUBSETALL([Scenario]) , [Scenario].[Desc] = \"OL - Current\"),FILTER(TM1SUBSETALL([Scenario]) ,[Scenario].[Desc] = \"OL - Previous\")}}}"
+}

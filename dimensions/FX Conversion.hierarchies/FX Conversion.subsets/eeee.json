@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"eeee",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD')"
+		}
+	]
+}

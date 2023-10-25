@@ -1,0 +1,56 @@
+{
+	"@type":"Cube",
+	"Name":"planning PRO",
+	"Dimensions":
+	[
+		{
+			"@id":"Dimensions('Delivery Type')"
+		},
+		{
+			"@id":"Dimensions('FX Conversion')"
+		},
+		{
+			"@id":"Dimensions('Scenario')"
+		},
+		{
+			"@id":"Dimensions('Delivery Personnel')"
+		},
+		{
+			"@id":"Dimensions('PMBU')"
+		},
+		{
+			"@id":"Dimensions('PS Segment')"
+		},
+		{
+			"@id":"Dimensions('Major Product Config')"
+		},
+		{
+			"@id":"Dimensions('Market Segment')"
+		},
+		{
+			"@id":"Dimensions('Market Area')"
+		},
+		{
+			"@id":"Dimensions('Fiscal Quarter')"
+		},
+		{
+			"@id":"Dimensions('planning PRO_m')"
+		}
+	],
+	"Rules@Code.link":"planning PRO.rules",
+	"Views@Code.links":
+	[
+		"planning PRO.views/Default.json",
+		"planning PRO.views/EMEA OL Input.json",
+		"planning PRO.views/LT - QRF Compare View1 (SSV).json",
+		"planning PRO.views/zCDR-Adj Var.json",
+		"planning PRO.views/zCDR-Net New Rev disappearing example.json",
+		"planning PRO.views/zCDR-VK OL Q2 Summary.json",
+		"planning PRO.views/zCDR-VK OL Q2 Summary Adj.json",
+		"planning PRO.views/zCDR-VK OL Q2 Summary Detail.json",
+		"planning PRO.views/zCDR-VK Plan FY20.json",
+		"planning PRO.views/zTemp.json",
+		"planning PRO.views/zTest.json",
+		"planning PRO.views/default.json"
+	]
+}

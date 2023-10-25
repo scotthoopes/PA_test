@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"currencies",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Currency')/Hierarchies('Currency')/Elements('All Currencies')"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"Manual Adjustment Flag",
+	"Hierarchies@Code.links":
+	[
+		"Manual Adjustment Flag.hierarchies/Manual Adjustment Flag.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Manual Adjustment Flag')/Hierarchies('Manual Adjustment Flag')"
+	}
+}

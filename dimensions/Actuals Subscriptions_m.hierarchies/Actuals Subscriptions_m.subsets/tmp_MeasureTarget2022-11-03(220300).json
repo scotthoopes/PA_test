@@ -1,0 +1,13 @@
+{
+	"@type":"Subset",
+	"Name":"tmp_MeasureTarget2022-11-03(220300)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Actuals Subscriptions_m')/Hierarchies('Actuals Subscriptions_m')/Elements('Units Walk Adjustment')"
+		},
+		{
+			"@id":"Dimensions('Actuals Subscriptions_m')/Hierarchies('Actuals Subscriptions_m')/Elements('ARR Walk Adjustment')"
+		}
+	]
+}

@@ -1,0 +1,134 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Cross Sell Regular vs. Promo",
+	"Elements":
+	[
+		{
+			"Name":"All Cross Sell Regular vs. Promo",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Promo",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Regular",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"None",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"All Cross Sell Regular vs. Promo",
+			"ComponentName":"Promo",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Cross Sell Regular vs. Promo",
+			"ComponentName":"Regular",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Cross Sell Regular vs. Promo",
+			"ComponentName":"None",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"Cross Sell Regular vs. Promo.subsets/2022.07.26 - FX Allocation Auto Calc Testing DME CSMB (RCE)_Source_2022-07-26(122821).json",
+		"Cross Sell Regular vs. Promo.subsets/actuals.json",
+		"Cross Sell Regular vs. Promo.subsets/crosssell.json",
+		"Cross Sell Regular vs. Promo.subsets/etest.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-13(184104).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-13(184104)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-13(190754).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-13(190754)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-14(192924).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-14(192924)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-14(225205).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-14(225205)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-17(174643).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-17(174643)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-17(181205).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-17(181205)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-24(193351).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-24(193351)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-28(203253).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-28(203253)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-31(191202).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-31(191202)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-01(160815).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-01(160815)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-03(220243).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-03(220243)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-03(221328).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-03(221328)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-04(170615).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-04(170615)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-06(171120).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-06(171120)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-07(171210).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-07(171210)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-08(171542).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-08(171542)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-09(170932).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-09(170932)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-10(170558).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-10(170558)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-11(171222).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-11(171222)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-13(170731).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-13(170731)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-14(170806).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-14(170806)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-15(170757).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-15(170757)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-16(170903).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-16(170903)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-17(170900).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-17(170900)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-18(170459).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-18(170459)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-20(170738).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-20(170738)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-21(170414).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-21(170414)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-22(170808).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-22(170808)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-23(170837).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-23(170837)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-24(170938).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-24(170938)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-25(170956).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-25(170956)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-27(172039).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-27(172039)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-28(171955).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-28(171955)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-29(172527).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-29(172527)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-30(172404).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-30(172404)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-01(172606).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-01(172606)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-02(173745).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-02(173745)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-04(182332).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-04(182332)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-05(182757).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-05(182757)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-06(172110).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-06(172110)_Units.json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2022-12-02(174155).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2022-12-05(183214).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2023-02-20(170407).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2023-03-27(182736).json",
+		"Cross Sell Regular vs. Promo.subsets/Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2023-04-10(165426).json",
+		"Cross Sell Regular vs. Promo.subsets/zTest.json"
+	]
+}

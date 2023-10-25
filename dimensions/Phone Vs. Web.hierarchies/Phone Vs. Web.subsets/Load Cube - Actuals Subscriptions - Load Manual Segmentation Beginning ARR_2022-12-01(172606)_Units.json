@@ -1,0 +1,28 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-01(172606)_Units",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Phone Vs. Web')/Hierarchies('Phone Vs. Web')/Elements('Phone - Named')"
+		},
+		{
+			"@id":"Dimensions('Phone Vs. Web')/Hierarchies('Phone Vs. Web')/Elements('Reseller - Named')"
+		},
+		{
+			"@id":"Dimensions('Phone Vs. Web')/Hierarchies('Phone Vs. Web')/Elements('Stock Web')"
+		},
+		{
+			"@id":"Dimensions('Phone Vs. Web')/Hierarchies('Phone Vs. Web')/Elements('Web')"
+		},
+		{
+			"@id":"Dimensions('Phone Vs. Web')/Hierarchies('Phone Vs. Web')/Elements('N/A')"
+		},
+		{
+			"@id":"Dimensions('Phone Vs. Web')/Hierarchies('Phone Vs. Web')/Elements('VIP-Phone')"
+		},
+		{
+			"@id":"Dimensions('Phone Vs. Web')/Hierarchies('Phone Vs. Web')/Elements('Phone')"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"sdfg",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD')"
+		}
+	]
+}

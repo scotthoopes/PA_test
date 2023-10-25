@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"LiveCycle-Day-Connect Members",
+	"Alias":"Key - Name",
+	"Expression":"{TM1DRILLDOWNMEMBER( {[Product Name].[10500], [Product Name].[10900], [Product Name].[13000]}, ALL, RECURSIVE )}"
+}

@@ -1,0 +1,331 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Planning Consolidated - from Planning Revenue DME Enterprise_Source_2022-12-08(184823)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('EB10 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1613')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1629')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1657')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1689')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('10200 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('IS11 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('105')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('117')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1129')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1217')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1637')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1656')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('10100 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1685')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1784')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('109')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1697')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1623')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1698')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1738')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('13500 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('13800 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('13900 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('113')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1113')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1615')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1630')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1631')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1652')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1686')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1699')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('10300 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1758')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1790')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1654')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1696')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('13400 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1739')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1742')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1782')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1675')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1676')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1677')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1679')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1684')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1707')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1722')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('13300 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('IS10 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1772')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1774')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('10120 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1775')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('15300 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1792')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1793')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1794')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('15400 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1680')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1687')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1692')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('14200 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1682')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1688')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('14100 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1683')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1694')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1695')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('11000 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('IS13 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('10600 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1726')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('14000 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('IS12 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1749')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('13450 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('IS18 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('GP10 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('EB15 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('157')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1137')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1609')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1634')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1642')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1681')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1721')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('10800 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('IS19 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1781')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1704')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('13700 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('IS15 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1754')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('IS16 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1731')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1748')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1755')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('14400 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1768')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('IS17 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('GP15 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('EB55 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('1735')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('13200 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('IS14 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('GP55 - #')"
+		},
+		{
+			"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')/Elements('XR10 - #')"
+		}
+	]
+}

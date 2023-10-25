@@ -1,0 +1,22 @@
+{
+	"@type":"Subset",
+	"Name":"TEST_2022-10-17(181454)planning_subs view",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Cloud Types')/Hierarchies('Cloud Types')/Elements('Creative Cloud')"
+		},
+		{
+			"@id":"Dimensions('Cloud Types')/Hierarchies('Cloud Types')/Elements('Digital Media')"
+		},
+		{
+			"@id":"Dimensions('Cloud Types')/Hierarchies('Cloud Types')/Elements('Document Cloud')"
+		},
+		{
+			"@id":"Dimensions('Cloud Types')/Hierarchies('Cloud Types')/Elements('Stock')"
+		},
+		{
+			"@id":"Dimensions('Cloud Types')/Hierarchies('Cloud Types')/Elements('Stock Bundle Units')"
+		}
+	]
+}

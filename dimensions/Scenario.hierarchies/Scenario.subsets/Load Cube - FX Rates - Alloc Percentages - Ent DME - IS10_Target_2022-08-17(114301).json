@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - FX Rates - Alloc Percentages - Ent DME - IS10_Target_2022-08-17(114301)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Rocke Backup')"
+		}
+	]
+}

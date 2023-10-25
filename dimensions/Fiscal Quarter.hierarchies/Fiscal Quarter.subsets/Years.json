@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Years",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Fiscal Quarter')/Hierarchies('Fiscal Quarter')/Elements('2016')"
+		}
+	]
+}

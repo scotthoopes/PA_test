@@ -1,0 +1,120 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Delivery Type",
+	"Elements":
+	[
+		{
+			"Name":"All Delivery Types",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Non-ACS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JE/Other",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Non Standard",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Fixed Fee",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LFS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Milestone",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NS-Other",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Ratable",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Subscription",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"T&E",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"T&M",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"All Delivery Types",
+			"ComponentName":"Non-ACS",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Delivery Types",
+			"ComponentName":"JE/Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Delivery Types",
+			"ComponentName":"Non Standard",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Delivery Types",
+			"ComponentName":"Subscription",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Delivery Types",
+			"ComponentName":"T&E",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Delivery Types",
+			"ComponentName":"T&M",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Delivery Types",
+			"ComponentName":"Ratable",
+			"Weight":1
+		},
+		{
+			"ParentName":"Non Standard",
+			"ComponentName":"Fixed Fee",
+			"Weight":1
+		},
+		{
+			"ParentName":"Non Standard",
+			"ComponentName":"LFS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Non Standard",
+			"ComponentName":"Milestone",
+			"Weight":1
+		},
+		{
+			"ParentName":"Non Standard",
+			"ComponentName":"NS-Other",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"Delivery Type.subsets/Default.json",
+		"Delivery Type.subsets/Test View Name 11.19.20.json",
+		"Delivery Type.subsets/View Name via Execute Process 11.19.20.json",
+		"Delivery Type.subsets/zTest.json"
+	]
+}

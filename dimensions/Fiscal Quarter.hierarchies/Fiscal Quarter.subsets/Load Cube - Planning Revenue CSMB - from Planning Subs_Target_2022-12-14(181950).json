@@ -1,0 +1,19 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Planning Revenue CSMB - from Planning Subs_Target_2022-12-14(181950)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Fiscal Quarter')/Hierarchies('Fiscal Quarter')/Elements('Q1 2023')"
+		},
+		{
+			"@id":"Dimensions('Fiscal Quarter')/Hierarchies('Fiscal Quarter')/Elements('Q2 2023')"
+		},
+		{
+			"@id":"Dimensions('Fiscal Quarter')/Hierarchies('Fiscal Quarter')/Elements('Q3 2023')"
+		},
+		{
+			"@id":"Dimensions('Fiscal Quarter')/Hierarchies('Fiscal Quarter')/Elements('Q4 2023')"
+		}
+	]
+}

@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"Delivery Personnel",
+	"Hierarchies@Code.links":
+	[
+		"Delivery Personnel.hierarchies/Delivery Personnel.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Delivery Personnel')/Hierarchies('Delivery Personnel')"
+	}
+}

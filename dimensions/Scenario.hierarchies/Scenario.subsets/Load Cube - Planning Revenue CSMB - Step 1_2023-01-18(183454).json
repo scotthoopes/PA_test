@@ -1,0 +1,13 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Planning Revenue CSMB - Step 1_2023-01-18(183454)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Actuals2')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Actuals')"
+		}
+	]
+}

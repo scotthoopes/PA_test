@@ -1,0 +1,25 @@
+{
+	"@type":"Subset",
+	"Name":"RTM Leaves",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('#')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('Adobe.com Product')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('Etail/Retail')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('Reseller')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('M&S')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('OEM')"
+		}
+	]
+}

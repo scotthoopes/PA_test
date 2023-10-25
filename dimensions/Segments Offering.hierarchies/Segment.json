@@ -1,0 +1,744 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Segment",
+	"Elements":
+	[
+		{
+			"Name":"Total Digital Media",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Total Creative Cloud",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Total INDIVIDUAL",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Com CCI Complete",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Com CCI Single App",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total Institutions",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Total HED",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"HED CCDA Complete",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HED CCDA Single App",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HED CCE Complete",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HED CCE Single App",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HED CCT Complete",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HED CCTR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HED CCT Single App",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total K12+EEA",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"EEA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K12 CCE Complete",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K12 CCT Complete",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"K12 Complete",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total PHOTOGRAPHY",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CCP Classic",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CCP New",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Com CCP Classic",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Com CCP New",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Com Lightroom CC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Com Lightroom CC Mobile",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Edu CCP Classic",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Edu CCP New",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Edu Lightroom CC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Lightroom CC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Lightroom CC IAP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Lightroom CC Mobile",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total STUDENT",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"STE CCI Complete",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"STE CCI Single App",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total TEAM",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"SMB CCE Complete",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SMB CCE Single App",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SMB CCT Complete",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SMB CCTR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SMB CCT Single App",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total Document Cloud",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Total Acrobat",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Total ACROBAT - #",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Acrobat DC Perpetual",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total ACROBAT CC",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Acrobat CC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total ACROBAT DC",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"ACROBAT DC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Acrobat DC SF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Com Acrobat DC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DCI SINGLE APP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Edu Acrobat DC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Gov Acrobat DC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total PDF SERVICES",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Com PDF Services",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PDF SERVICES",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PDF Services SF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total SIGN",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Com Sign",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Edu Sign",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Gov Sign",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SIGN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Sign Transaction",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total Other",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"#",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CSMB ETLA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DCE SINGLE APP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DCT SINGLE APP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NA",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NON-CCM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NON-CCT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Total STOCK",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CCI STOCK OTHER",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CCT Stock Large",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Stock Large",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Stock Medium",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Stock Mezzanine",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Stock Micro",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Stock Mini",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Stock Other",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Stock Small",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"Total Digital Media",
+			"ComponentName":"Total Creative Cloud",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Digital Media",
+			"ComponentName":"Total Document Cloud",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Digital Media",
+			"ComponentName":"Total Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Digital Media",
+			"ComponentName":"Total STOCK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Creative Cloud",
+			"ComponentName":"Total INDIVIDUAL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Creative Cloud",
+			"ComponentName":"Total Institutions",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Creative Cloud",
+			"ComponentName":"Total PHOTOGRAPHY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Creative Cloud",
+			"ComponentName":"Total STUDENT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Creative Cloud",
+			"ComponentName":"Total TEAM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total INDIVIDUAL",
+			"ComponentName":"Com CCI Complete",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total INDIVIDUAL",
+			"ComponentName":"Com CCI Single App",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Institutions",
+			"ComponentName":"Total HED",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Institutions",
+			"ComponentName":"Total K12+EEA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total HED",
+			"ComponentName":"HED CCDA Complete",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total HED",
+			"ComponentName":"HED CCDA Single App",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total HED",
+			"ComponentName":"HED CCE Complete",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total HED",
+			"ComponentName":"HED CCE Single App",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total HED",
+			"ComponentName":"HED CCT Complete",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total HED",
+			"ComponentName":"HED CCTR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total HED",
+			"ComponentName":"HED CCT Single App",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total K12+EEA",
+			"ComponentName":"EEA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total K12+EEA",
+			"ComponentName":"K12 CCE Complete",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total K12+EEA",
+			"ComponentName":"K12 CCT Complete",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total K12+EEA",
+			"ComponentName":"K12 Complete",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total PHOTOGRAPHY",
+			"ComponentName":"CCP Classic",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total PHOTOGRAPHY",
+			"ComponentName":"CCP New",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total PHOTOGRAPHY",
+			"ComponentName":"Com CCP Classic",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total PHOTOGRAPHY",
+			"ComponentName":"Com CCP New",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total PHOTOGRAPHY",
+			"ComponentName":"Com Lightroom CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total PHOTOGRAPHY",
+			"ComponentName":"Com Lightroom CC Mobile",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total PHOTOGRAPHY",
+			"ComponentName":"Edu CCP Classic",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total PHOTOGRAPHY",
+			"ComponentName":"Edu CCP New",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total PHOTOGRAPHY",
+			"ComponentName":"Edu Lightroom CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total PHOTOGRAPHY",
+			"ComponentName":"Lightroom CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total PHOTOGRAPHY",
+			"ComponentName":"Lightroom CC IAP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total PHOTOGRAPHY",
+			"ComponentName":"Lightroom CC Mobile",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total STUDENT",
+			"ComponentName":"STE CCI Complete",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total STUDENT",
+			"ComponentName":"STE CCI Single App",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total TEAM",
+			"ComponentName":"SMB CCE Complete",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total TEAM",
+			"ComponentName":"SMB CCE Single App",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total TEAM",
+			"ComponentName":"SMB CCT Complete",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total TEAM",
+			"ComponentName":"SMB CCTR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total TEAM",
+			"ComponentName":"SMB CCT Single App",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Document Cloud",
+			"ComponentName":"Total Acrobat",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Document Cloud",
+			"ComponentName":"Total PDF SERVICES",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Document Cloud",
+			"ComponentName":"Total SIGN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Acrobat",
+			"ComponentName":"Total ACROBAT - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Acrobat",
+			"ComponentName":"Total ACROBAT CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Acrobat",
+			"ComponentName":"Total ACROBAT DC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total ACROBAT - #",
+			"ComponentName":"Acrobat DC Perpetual",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total ACROBAT CC",
+			"ComponentName":"Acrobat CC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total ACROBAT DC",
+			"ComponentName":"ACROBAT DC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total ACROBAT DC",
+			"ComponentName":"Acrobat DC SF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total ACROBAT DC",
+			"ComponentName":"Com Acrobat DC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total ACROBAT DC",
+			"ComponentName":"DCI SINGLE APP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total ACROBAT DC",
+			"ComponentName":"Edu Acrobat DC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total ACROBAT DC",
+			"ComponentName":"Gov Acrobat DC",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total PDF SERVICES",
+			"ComponentName":"Com PDF Services",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total PDF SERVICES",
+			"ComponentName":"PDF SERVICES",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total PDF SERVICES",
+			"ComponentName":"PDF Services SF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total SIGN",
+			"ComponentName":"Com Sign",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total SIGN",
+			"ComponentName":"Edu Sign",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total SIGN",
+			"ComponentName":"Gov Sign",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total SIGN",
+			"ComponentName":"SIGN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total SIGN",
+			"ComponentName":"Sign Transaction",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Other",
+			"ComponentName":"#",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Other",
+			"ComponentName":"CSMB ETLA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Other",
+			"ComponentName":"DCE SINGLE APP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Other",
+			"ComponentName":"DCT SINGLE APP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Other",
+			"ComponentName":"NA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Other",
+			"ComponentName":"NON-CCM",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Other",
+			"ComponentName":"NON-CCT",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total STOCK",
+			"ComponentName":"CCI STOCK OTHER",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total STOCK",
+			"ComponentName":"CCT Stock Large",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total STOCK",
+			"ComponentName":"Stock Large",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total STOCK",
+			"ComponentName":"Stock Medium",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total STOCK",
+			"ComponentName":"Stock Mezzanine",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total STOCK",
+			"ComponentName":"Stock Micro",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total STOCK",
+			"ComponentName":"Stock Mini",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total STOCK",
+			"ComponentName":"Stock Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total STOCK",
+			"ComponentName":"Stock Small",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":[]
+}

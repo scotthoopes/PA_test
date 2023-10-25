@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Public UDCs",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Actuals Subscriptions_m')/Hierarchies('Actuals Subscriptions_m')/Elements('Acrobat Perpetual')"
+		}
+	]
+}

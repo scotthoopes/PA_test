@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Internal Segment - Dynamic",
+	"Expression":"{TM1FILTERBYLEVEL( {TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [Profit Center] )}, \"all profit centers\")}, ALL, RECURSIVE )}, 2)}"
+}

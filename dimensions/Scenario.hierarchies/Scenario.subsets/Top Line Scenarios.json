@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Top Line Scenarios",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Forecast1')"
+		}
+	]
+}

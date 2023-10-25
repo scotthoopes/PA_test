@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"planning PRO_m",
+	"Hierarchies@Code.links":
+	[
+		"planning PRO_m.hierarchies/planning PRO_m.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')"
+	}
+}

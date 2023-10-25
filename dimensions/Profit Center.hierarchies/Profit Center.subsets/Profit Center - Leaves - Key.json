@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Profit Center - Leaves - Key",
+	"Expression":"{TM1SORT( {TM1FILTERBYLEVEL( {TM1SUBSETALL( [Profit Center] )}, 0)}, ASC)}"
+}

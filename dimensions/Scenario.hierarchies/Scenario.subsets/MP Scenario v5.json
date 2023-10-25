@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"MP Scenario v5",
+	"Alias":"Desc",
+	"Expression":"{FILTER(TM1FILTERBYLEVEL(TM1SUBSETALL([Scenario]) , 0) , (([Scenario].CURRENTMEMBER.NAME = [Global Parameters].([Global Parameters].[Current QRF Name],[Global Parameters_m].[Value String])))),[Scenario].[Scenario].[Actuals],[Scenario].[Scenario].[2021 Plan],FILTER(TM1SUBSETALL([Scenario]) , [Scenario].[Desc] = \"OL - Current\"),FILTER(TM1SUBSETALL([Scenario]) , [Scenario].[Desc] = \"OL - Previous\")}"
+}

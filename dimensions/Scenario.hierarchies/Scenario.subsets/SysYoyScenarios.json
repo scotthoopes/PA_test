@@ -1,0 +1,20 @@
+{
+	"@type":"Subset",
+	"Name":"SysYoyScenarios",
+	"Alias":"Desc",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Actuals')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Outlook - Current')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Outlook - Input')"
+		},
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Forecast1')"
+		}
+	]
+}

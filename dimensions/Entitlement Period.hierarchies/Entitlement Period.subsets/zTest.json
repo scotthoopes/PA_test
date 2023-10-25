@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"zTest",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Entitlement Period')/Hierarchies('Entitlement Period')/Elements('All Entitlement Periods')"
+		}
+	]
+}

@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Planning DDOM-Retention- Actuals - from DataBricks_Target_2023-06-08(230416)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Actuals')"
+		}
+	]
+}

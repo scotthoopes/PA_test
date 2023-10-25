@@ -1,0 +1,13 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-17(174643)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Manual Adjustment Flag')/Hierarchies('Manual Adjustment Flag')/Elements('No')"
+		},
+		{
+			"@id":"Dimensions('Manual Adjustment Flag')/Hierarchies('Manual Adjustment Flag')/Elements('Yes')"
+		}
+	]
+}

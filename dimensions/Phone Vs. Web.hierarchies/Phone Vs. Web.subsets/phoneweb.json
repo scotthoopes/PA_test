@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"phoneweb",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Phone Vs. Web')/Hierarchies('Phone Vs. Web')/Elements('Phone and Web')"
+		}
+	]
+}

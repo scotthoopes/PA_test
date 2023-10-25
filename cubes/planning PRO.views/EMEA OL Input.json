@@ -1,0 +1,194 @@
+{
+	"@type":"NativeView",
+	"Name":"EMEA OL Input",
+	"Columns":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('Scenario')/Hierarchies('Scenario')"
+				},
+				"Alias":"Other Name",
+				"Elements":
+				[
+					{
+						"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Outlook - Current')"
+					},
+					{
+						"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2019 Q4 - Outlook Week 4')"
+					},
+					{
+						"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2019 Plan')"
+					},
+					{
+						"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Forecast1')"
+					}
+				]
+			}
+		},
+		{
+			"Subset":
+			{
+				"@id":"Dimensions('Fiscal Quarter')/Hierarchies('Fiscal Quarter')/Subsets('Current Planning Quarter')"
+			}
+		}
+	],
+	"Rows":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('Market Area')/Hierarchies('Market Area')"
+				},
+				"Alias":"Name",
+				"Elements":
+				[
+					{
+						"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('EMEA (G)')"
+					},
+					{
+						"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('GER (MA)')"
+					},
+					{
+						"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('SWI (MA)')"
+					},
+					{
+						"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('UK (MA)')"
+					},
+					{
+						"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('NORD (MA)')"
+					},
+					{
+						"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('SSAI (MA)')"
+					},
+					{
+						"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('ME (MA)')"
+					},
+					{
+						"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('FRA (MA)')"
+					},
+					{
+						"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('BEN (MA)')"
+					},
+					{
+						"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('IBE (MA)')"
+					},
+					{
+						"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('ITA (MA)')"
+					}
+				]
+			}
+		},
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('PMBU')/Hierarchies('PMBU')"
+				},
+				"Alias":"Key - Name",
+				"Elements":
+				[
+					{
+						"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('12900')"
+					},
+					{
+						"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('12400')"
+					},
+					{
+						"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('AEM')"
+					},
+					{
+						"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('12500')"
+					},
+					{
+						"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('14300')"
+					},
+					{
+						"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('12610')"
+					}
+				]
+			}
+		}
+	],
+	"Titles":
+	[
+		{
+			"Subset":
+			{
+				"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Subsets('Default')"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Subsets('Default')"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('Net New Revenue')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"@id":"Dimensions('Delivery Type')/Hierarchies('Delivery Type')/Subsets('Default')"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Delivery Type')/Hierarchies('Delivery Type')/Elements('JE/Other')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"@id":"Dimensions('Delivery Personnel')/Hierarchies('Delivery Personnel')/Subsets('Default')"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Delivery Personnel')/Hierarchies('Delivery Personnel')/Elements('Other')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')/Subsets('Major Product Config - Leaves')"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')/Elements('PRO')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Subsets('Default')"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('COMMERCIAL')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"@id":"Dimensions('PS Segment')/Hierarchies('PS Segment')/Subsets('Consulting or Training')"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('PS Segment')/Hierarchies('PS Segment')/Elements('Other')"
+			}
+		}
+	],
+	"SuppressEmptyColumns":true,
+	"SuppressEmptyRows":true,
+	"FormatString":"#,##0.00"
+}

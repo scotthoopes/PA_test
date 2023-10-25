@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"Profit Center",
+	"Hierarchies@Code.links":
+	[
+		"Profit Center.hierarchies/Profit Center.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Profit Center')/Hierarchies('Profit Center')"
+	}
+}

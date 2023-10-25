@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Sales Allocation Source",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Actuals')"
+		}
+	]
+}

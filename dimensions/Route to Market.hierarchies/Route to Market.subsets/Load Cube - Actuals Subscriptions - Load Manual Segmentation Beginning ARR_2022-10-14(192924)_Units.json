@@ -1,0 +1,64 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-14(192924)_Units",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('Phone - Named')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('Reseller - Named')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('Perpetual excluding E-Learning')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('PRO including E-Learning')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('> 250k')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('200k - 250k')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('100k - 200k')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('50k - 100k')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('#')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('App Store')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('Etail/Retail')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('Reseller')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('Adobe.com Product')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('OEM')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('PRO')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('SVO')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('M&S')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('Subscription')"
+		},
+		{
+			"@id":"Dimensions('Route to Market')/Hierarchies('Route to Market')/Elements('Perpetual')"
+		}
+	]
+}

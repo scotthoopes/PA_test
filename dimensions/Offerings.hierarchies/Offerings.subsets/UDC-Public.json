@@ -1,0 +1,11 @@
+{
+	"@type":"Subset",
+	"Name":"UDC-Public",
+	"Alias":"Offer Name",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Offerings')/Hierarchies('Offerings')/Elements('Offerings-No Perpetual')"
+		}
+	]
+}

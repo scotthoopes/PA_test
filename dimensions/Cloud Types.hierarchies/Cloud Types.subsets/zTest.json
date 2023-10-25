@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"zTest",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Cloud Types')/Hierarchies('Cloud Types')/Elements('All Cloud Types')"
+		}
+	]
+}

@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"Common Scenarios - Expanded",
+	"Expression":"{TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"common scenarios\")}, ALL, RECURSIVE )}"
+}

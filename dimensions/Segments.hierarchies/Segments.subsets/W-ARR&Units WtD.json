@@ -1,0 +1,41 @@
+{
+	"@type":"Subset",
+	"Name":"W-ARR&Units WtD",
+	"ExpandAbove":true,
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Segments')/Hierarchies('Segments')/Elements('ACROBAT CC')"
+		},
+		{
+			"@id":"Dimensions('Segments')/Hierarchies('Segments')/Elements('ACROBAT DC')"
+		},
+		{
+			"@id":"Dimensions('Segments')/Hierarchies('Segments')/Elements('CSMB ETLA')"
+		},
+		{
+			"@id":"Dimensions('Segments')/Hierarchies('Segments')/Elements('INDIVIDUAL')"
+		},
+		{
+			"@id":"Dimensions('Segments')/Hierarchies('Segments')/Elements('Institutions')"
+		},
+		{
+			"@id":"Dimensions('Segments')/Hierarchies('Segments')/Elements('PHOTOGRAPHY')"
+		},
+		{
+			"@id":"Dimensions('Segments')/Hierarchies('Segments')/Elements('Sign & PDF')"
+		},
+		{
+			"@id":"Dimensions('Segments')/Hierarchies('Segments')/Elements('STOCK')"
+		},
+		{
+			"@id":"Dimensions('Segments')/Hierarchies('Segments')/Elements('STUDENT')"
+		},
+		{
+			"@id":"Dimensions('Segments')/Hierarchies('Segments')/Elements('TEAM')"
+		},
+		{
+			"@id":"Dimensions('Segments')/Hierarchies('Segments')/Elements('All Segments')"
+		}
+	]
+}

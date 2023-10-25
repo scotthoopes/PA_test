@@ -1,0 +1,3040 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Market Area",
+	"Elements":
+	[
+		{
+			"Name":"All Market Areas",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"AMER (G)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"NAM (R)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CAN (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"US (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RLAN (R)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"BRZ (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MEX (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SLAM (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AMER (G) - #",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ASIA (G)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"AUNZ (R)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"ANZ (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"XB (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CHNA (R)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CHN (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HKT (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"INDI (R)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"IN (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KORE (R)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"KOR (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SEAS (R)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"SEA (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ASIA (G) - #",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EMEA (G)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CEEU (R)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"GER (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SWI (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EE (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RCIS (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MED (R)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"MED (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FEUR (R)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"XE (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"XF (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EMEA (G) - #",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UKI (R)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"UK (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SSAI (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ME (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Western Europe (R)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"NORD (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BEN (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FRA (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IBE (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ITA (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JPN (G)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"JPN (R)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"JPN (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"XA (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JPN (G) - #",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"#",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"1",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FX",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Alternate Custom Hierarchies",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"UKI",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Western Europe",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"All Market Areas (excluding #)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"All Market Areas (excluding IN)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"AMER (G) + #",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"AMER (excluding US)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"AGK",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"ASIA (excluding ANZ)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"ASIA (excluding ANZ, IN)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"ASIA (excluding ANZ, CHN)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Asia (excluding FX)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"East SMB",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"EEMD (R)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"EE + RCIS + ME + SSAI",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"EMEA (excluding UK, Germany, France)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"EMEA (excluding FX-Europe)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"EMEA (excluding GER, UK, RCIS)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"EMEA (excluding GER, UK)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"EMEA (excluding FX)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"IN + SEA",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"JAPAC",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Greater China",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"NAM (R) + #",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"North SMB",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"North Ent",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Other Ent",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"PSect APAC",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"SWEU (excluding BEN)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"South SMB",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"UK + NORD + BENELUX",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"FX Worldwide",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Worldwide (excluding FX)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"EMEA North",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Greater Switzerland",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"EMEA Central",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"EMEA Southwest",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Top 5 Less US (UK + Ger + JPN  + ANZ)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Top 5 (US + UK + GER + JPN + ANZ)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"International",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"JPN (excluding FX-Japan)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"CHATEE",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Worldwide (excluding China)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Total Big 8",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"ASIA (excluding ANZ and FX)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"AMER + ASIA",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"AMER + EMEA",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"NEUR (R)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"SWEU (R)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"AMER + EMEA + #",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"All Market Areas excluding Russia & CIS",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"EMEA excluding Russia & CIS",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"LATAM China India + Other",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"ASIA (Excluding CHN)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"AMER + EMEA (excluding Russia & CIS)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"All Market Areas (RCIS, CHN Highlighted)",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"WW - Corporate",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"WW - Strategic",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"WW - Territory",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"WW - Other",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Excluded Orphans",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"AMER - Corporate",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EMEA - Corporate",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ASIA - Corporate",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JPN - Corporate",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"# - Corporate",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AMER - Strategic",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EMEA - Strategic",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ASIA - Strategic",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JPN - Strategic",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"# - Strategic",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AMER - Territory",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EMEA - Territory",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ASIA - Territory",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JPN - Territory",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"# - Territory",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AMER - Other",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EMEA - Other",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ASIA - Other",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JPN - Other",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"# - Other",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RASI (R)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MET (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HK+TW",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"HK (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TW (MA)",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ASIA (excluding ANZ, IN) by MA",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"All Market Areas (excluding RCIS, CHN)",
+			"Type":"Consolidated"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"All Market Areas",
+			"ComponentName":"AMER (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas",
+			"ComponentName":"ASIA (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas",
+			"ComponentName":"EMEA (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas",
+			"ComponentName":"JPN (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas",
+			"ComponentName":"#",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas",
+			"ComponentName":"1",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas",
+			"ComponentName":"FX",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER (G)",
+			"ComponentName":"NAM (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER (G)",
+			"ComponentName":"RLAN (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER (G)",
+			"ComponentName":"AMER (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"NAM (R)",
+			"ComponentName":"CAN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"NAM (R)",
+			"ComponentName":"US (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"RLAN (R)",
+			"ComponentName":"BRZ (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"RLAN (R)",
+			"ComponentName":"MEX (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"RLAN (R)",
+			"ComponentName":"SLAM (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (G)",
+			"ComponentName":"AUNZ (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (G)",
+			"ComponentName":"CHNA (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (G)",
+			"ComponentName":"INDI (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (G)",
+			"ComponentName":"KORE (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (G)",
+			"ComponentName":"SEAS (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (G)",
+			"ComponentName":"ASIA (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"AUNZ (R)",
+			"ComponentName":"ANZ (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AUNZ (R)",
+			"ComponentName":"XB (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"CHNA (R)",
+			"ComponentName":"CHN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"CHNA (R)",
+			"ComponentName":"HKT (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"INDI (R)",
+			"ComponentName":"IN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"KORE (R)",
+			"ComponentName":"KOR (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"SEAS (R)",
+			"ComponentName":"SEA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (G)",
+			"ComponentName":"CEEU (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (G)",
+			"ComponentName":"MED (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (G)",
+			"ComponentName":"FEUR (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (G)",
+			"ComponentName":"EMEA (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (G)",
+			"ComponentName":"UKI (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (G)",
+			"ComponentName":"Western Europe (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"CEEU (R)",
+			"ComponentName":"GER (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"CEEU (R)",
+			"ComponentName":"SWI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"CEEU (R)",
+			"ComponentName":"EE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"CEEU (R)",
+			"ComponentName":"RCIS (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"MED (R)",
+			"ComponentName":"MED (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"FEUR (R)",
+			"ComponentName":"XE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"FEUR (R)",
+			"ComponentName":"XF (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"UKI (R)",
+			"ComponentName":"UK (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"UKI (R)",
+			"ComponentName":"SSAI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"UKI (R)",
+			"ComponentName":"ME (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Western Europe (R)",
+			"ComponentName":"NORD (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Western Europe (R)",
+			"ComponentName":"BEN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Western Europe (R)",
+			"ComponentName":"FRA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Western Europe (R)",
+			"ComponentName":"IBE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Western Europe (R)",
+			"ComponentName":"ITA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"JPN (G)",
+			"ComponentName":"JPN (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"JPN (G)",
+			"ComponentName":"JPN (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"JPN (R)",
+			"ComponentName":"JPN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"JPN (R)",
+			"ComponentName":"XA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"RLAN (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"UKI",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"Western Europe",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"All Market Areas (excluding #)",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"All Market Areas (excluding IN)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"AMER (G) + #",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"AMER (excluding US)",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"AGK",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"ASIA (excluding ANZ)",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"ASIA (excluding ANZ, IN)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"ASIA (excluding ANZ, IN) by MA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"ASIA (excluding ANZ, CHN)",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"Asia (excluding FX)",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"East SMB",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"EEMD (R)",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"EE + RCIS + ME + SSAI",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"EMEA (excluding UK, Germany, France)",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"EMEA (excluding FX-Europe)",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"EMEA (excluding GER, UK, RCIS)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"EMEA (excluding GER, UK)",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"EMEA (excluding FX)",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"IN + SEA",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"JAPAC",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"Greater China",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"NAM (R) + #",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"North SMB",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"North Ent",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"Other Ent",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"PSect APAC",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"SWEU (excluding BEN)",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"South SMB",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"UK + NORD + BENELUX",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"FX Worldwide",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"Worldwide (excluding FX)",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"EMEA North",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"Greater Switzerland",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"EMEA Central",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"EMEA Southwest",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"Top 5 Less US (UK + Ger + JPN  + ANZ)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"Top 5 (US + UK + GER + JPN + ANZ)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"International",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"JPN (excluding FX-Japan)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"CHATEE",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"Worldwide (excluding China)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"Total Big 8",
+			"Weight":0
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"ASIA (excluding ANZ and FX)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"AMER + ASIA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"AMER + EMEA",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"NEUR (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"SWEU (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"AMER + EMEA + #",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"All Market Areas excluding Russia & CIS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"EMEA excluding Russia & CIS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"AMER + EMEA (excluding Russia & CIS)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"All Market Areas (RCIS, CHN Highlighted)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"LATAM China India + Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"UKI",
+			"ComponentName":"UK (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"UKI",
+			"ComponentName":"SSAI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"UKI",
+			"ComponentName":"ME (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Western Europe",
+			"ComponentName":"NORD (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Western Europe",
+			"ComponentName":"BEN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Western Europe",
+			"ComponentName":"FRA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Western Europe",
+			"ComponentName":"IBE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Western Europe",
+			"ComponentName":"ITA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (excluding #)",
+			"ComponentName":"AMER (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (excluding #)",
+			"ComponentName":"ASIA (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (excluding #)",
+			"ComponentName":"EMEA (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (excluding #)",
+			"ComponentName":"JPN (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (excluding #)",
+			"ComponentName":"1",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (excluding #)",
+			"ComponentName":"FX",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (excluding IN)",
+			"ComponentName":"AMER (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (excluding IN)",
+			"ComponentName":"AUNZ (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (excluding IN)",
+			"ComponentName":"CHNA (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (excluding IN)",
+			"ComponentName":"KORE (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (excluding IN)",
+			"ComponentName":"SEAS (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (excluding IN)",
+			"ComponentName":"ASIA (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (excluding IN)",
+			"ComponentName":"EMEA (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (excluding IN)",
+			"ComponentName":"JPN (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (excluding IN)",
+			"ComponentName":"#",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (excluding IN)",
+			"ComponentName":"1",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (excluding IN)",
+			"ComponentName":"FX",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER (G) + #",
+			"ComponentName":"AMER (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER (G) + #",
+			"ComponentName":"#",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER (excluding US)",
+			"ComponentName":"CAN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER (excluding US)",
+			"ComponentName":"BRZ (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER (excluding US)",
+			"ComponentName":"MEX (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER (excluding US)",
+			"ComponentName":"SLAM (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER (excluding US)",
+			"ComponentName":"AMER (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"AGK",
+			"ComponentName":"ANZ (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AGK",
+			"ComponentName":"CHN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AGK",
+			"ComponentName":"HKT (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AGK",
+			"ComponentName":"KOR (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ)",
+			"ComponentName":"CHN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ)",
+			"ComponentName":"HKT (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ)",
+			"ComponentName":"IN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ)",
+			"ComponentName":"KOR (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ)",
+			"ComponentName":"SEA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ)",
+			"ComponentName":"XB (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ)",
+			"ComponentName":"ASIA (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ, IN)",
+			"ComponentName":"CHNA (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ, IN)",
+			"ComponentName":"KORE (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ, IN)",
+			"ComponentName":"SEAS (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ, IN)",
+			"ComponentName":"ASIA (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ, CHN)",
+			"ComponentName":"HKT (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ, CHN)",
+			"ComponentName":"IN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ, CHN)",
+			"ComponentName":"KOR (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ, CHN)",
+			"ComponentName":"SEA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ, CHN)",
+			"ComponentName":"XB (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ, CHN)",
+			"ComponentName":"ASIA (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"Asia (excluding FX)",
+			"ComponentName":"ANZ (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Asia (excluding FX)",
+			"ComponentName":"CHN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Asia (excluding FX)",
+			"ComponentName":"HKT (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Asia (excluding FX)",
+			"ComponentName":"IN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Asia (excluding FX)",
+			"ComponentName":"KOR (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Asia (excluding FX)",
+			"ComponentName":"SEA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Asia (excluding FX)",
+			"ComponentName":"ASIA (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"East SMB",
+			"ComponentName":"SSAI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"East SMB",
+			"ComponentName":"MED (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"East SMB",
+			"ComponentName":"EE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"East SMB",
+			"ComponentName":"RCIS (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"East SMB",
+			"ComponentName":"ME (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EEMD (R)",
+			"ComponentName":"EE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EEMD (R)",
+			"ComponentName":"MED (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EE + RCIS + ME + SSAI",
+			"ComponentName":"SSAI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EE + RCIS + ME + SSAI",
+			"ComponentName":"EE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EE + RCIS + ME + SSAI",
+			"ComponentName":"RCIS (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EE + RCIS + ME + SSAI",
+			"ComponentName":"ME (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding UK, Germany, France)",
+			"ComponentName":"SWI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding UK, Germany, France)",
+			"ComponentName":"NORD (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding UK, Germany, France)",
+			"ComponentName":"SSAI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding UK, Germany, France)",
+			"ComponentName":"BEN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding UK, Germany, France)",
+			"ComponentName":"IBE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding UK, Germany, France)",
+			"ComponentName":"ITA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding UK, Germany, France)",
+			"ComponentName":"MED (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding UK, Germany, France)",
+			"ComponentName":"EE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding UK, Germany, France)",
+			"ComponentName":"RCIS (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding UK, Germany, France)",
+			"ComponentName":"ME (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding FX-Europe)",
+			"ComponentName":"CEEU (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding FX-Europe)",
+			"ComponentName":"NEUR (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding FX-Europe)",
+			"ComponentName":"SWEU (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding FX-Europe)",
+			"ComponentName":"MED (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding GER, UK, RCIS)",
+			"ComponentName":"SWI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding GER, UK, RCIS)",
+			"ComponentName":"EE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding GER, UK, RCIS)",
+			"ComponentName":"MED (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding GER, UK, RCIS)",
+			"ComponentName":"FEUR (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding GER, UK, RCIS)",
+			"ComponentName":"SSAI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding GER, UK, RCIS)",
+			"ComponentName":"ME (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding GER, UK, RCIS)",
+			"ComponentName":"Western Europe (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding GER, UK)",
+			"ComponentName":"SWI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding GER, UK)",
+			"ComponentName":"NORD (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding GER, UK)",
+			"ComponentName":"SSAI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding GER, UK)",
+			"ComponentName":"BEN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding GER, UK)",
+			"ComponentName":"FRA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding GER, UK)",
+			"ComponentName":"IBE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding GER, UK)",
+			"ComponentName":"ITA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding GER, UK)",
+			"ComponentName":"MED (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding GER, UK)",
+			"ComponentName":"EE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding GER, UK)",
+			"ComponentName":"RCIS (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding GER, UK)",
+			"ComponentName":"ME (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding GER, UK)",
+			"ComponentName":"EMEA (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding GER, UK)",
+			"ComponentName":"FEUR (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding FX)",
+			"ComponentName":"CEEU (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding FX)",
+			"ComponentName":"NEUR (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding FX)",
+			"ComponentName":"SWEU (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding FX)",
+			"ComponentName":"MED (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA (excluding FX)",
+			"ComponentName":"EMEA (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"IN + SEA",
+			"ComponentName":"IN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"IN + SEA",
+			"ComponentName":"SEA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"JAPAC",
+			"ComponentName":"ASIA (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"JAPAC",
+			"ComponentName":"JPN (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Greater China",
+			"ComponentName":"CHN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Greater China",
+			"ComponentName":"HKT (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"NAM (R) + #",
+			"ComponentName":"NAM (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"NAM (R) + #",
+			"ComponentName":"#",
+			"Weight":1
+		},
+		{
+			"ParentName":"North SMB",
+			"ComponentName":"GER (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"North SMB",
+			"ComponentName":"NORD (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"North SMB",
+			"ComponentName":"UK (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"North Ent",
+			"ComponentName":"NORD (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"North Ent",
+			"ComponentName":"UK (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"North Ent",
+			"ComponentName":"EE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"North Ent",
+			"ComponentName":"SSAI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"North Ent",
+			"ComponentName":"ME (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Ent",
+			"ComponentName":"EE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Ent",
+			"ComponentName":"MED (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Ent",
+			"ComponentName":"RCIS (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Other Ent",
+			"ComponentName":"ME (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"PSect APAC",
+			"ComponentName":"ANZ (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"PSect APAC",
+			"ComponentName":"SEA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"SWEU (excluding BEN)",
+			"ComponentName":"FRA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"SWEU (excluding BEN)",
+			"ComponentName":"IBE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"SWEU (excluding BEN)",
+			"ComponentName":"ITA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"South SMB",
+			"ComponentName":"SWI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"South SMB",
+			"ComponentName":"BEN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"South SMB",
+			"ComponentName":"FRA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"South SMB",
+			"ComponentName":"IBE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"South SMB",
+			"ComponentName":"ITA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK + NORD + BENELUX",
+			"ComponentName":"NORD (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK + NORD + BENELUX",
+			"ComponentName":"UK (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"UK + NORD + BENELUX",
+			"ComponentName":"BEN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"FX Worldwide",
+			"ComponentName":"XB (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"FX Worldwide",
+			"ComponentName":"XE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"FX Worldwide",
+			"ComponentName":"XA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"FX Worldwide",
+			"ComponentName":"XF (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"CAN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"US (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"ANZ (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"EMEA (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"JPN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"BRZ (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"MEX (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"SLAM (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"AMER (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"CHN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"HKT (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"IN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"KOR (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"SEA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"ASIA (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"GER (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"SWI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"NORD (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"UK (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"BEN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"FRA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"IBE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"ITA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"EE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"MED (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"RCIS (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"JPN (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"#",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"SSAI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding FX)",
+			"ComponentName":"ME (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"CAN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"BRZ (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"MEX (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"SLAM (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"AMER (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"CHN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"HKT (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"IN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"KOR (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"SEA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"XB (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"ASIA (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"MED (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"XE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"XA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"JPN (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"#",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"FX",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"SWI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"NORD (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"SSAI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"BEN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"FRA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"IBE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"ITA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"EE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"RCIS (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding US, GER, UK, ANZ, JPN)",
+			"ComponentName":"ME (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA North",
+			"ComponentName":"NORD (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA North",
+			"ComponentName":"UK (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA North",
+			"ComponentName":"SSAI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA North",
+			"ComponentName":"ME (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Greater Switzerland",
+			"ComponentName":"SWI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Greater Switzerland",
+			"ComponentName":"EE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Greater Switzerland",
+			"ComponentName":"RCIS (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Greater Switzerland",
+			"ComponentName":"ME (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA Central",
+			"ComponentName":"GER (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA Central",
+			"ComponentName":"SWI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA Central",
+			"ComponentName":"EE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA Central",
+			"ComponentName":"RCIS (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA Southwest",
+			"ComponentName":"BEN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA Southwest",
+			"ComponentName":"FRA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA Southwest",
+			"ComponentName":"IBE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA Southwest",
+			"ComponentName":"ITA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Top 5 Less US (UK + Ger + JPN  + ANZ)",
+			"ComponentName":"GER (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Top 5 Less US (UK + Ger + JPN  + ANZ)",
+			"ComponentName":"UK (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Top 5 Less US (UK + Ger + JPN  + ANZ)",
+			"ComponentName":"ANZ (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Top 5 Less US (UK + Ger + JPN  + ANZ)",
+			"ComponentName":"JPN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Top 5 (US + UK + GER + JPN + ANZ)",
+			"ComponentName":"US (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Top 5 (US + UK + GER + JPN + ANZ)",
+			"ComponentName":"GER (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Top 5 (US + UK + GER + JPN + ANZ)",
+			"ComponentName":"UK (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Top 5 (US + UK + GER + JPN + ANZ)",
+			"ComponentName":"ANZ (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Top 5 (US + UK + GER + JPN + ANZ)",
+			"ComponentName":"JPN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"International",
+			"ComponentName":"ASIA (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"International",
+			"ComponentName":"EMEA (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"International",
+			"ComponentName":"JPN (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"JPN (excluding FX-Japan)",
+			"ComponentName":"JPN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"JPN (excluding FX-Japan)",
+			"ComponentName":"JPN (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"CHATEE",
+			"ComponentName":"SWI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"CHATEE",
+			"ComponentName":"EE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"CHATEE",
+			"ComponentName":"RCIS (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding China)",
+			"ComponentName":"AMER (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding China)",
+			"ComponentName":"EMEA (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding China)",
+			"ComponentName":"JPN (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding China)",
+			"ComponentName":"#",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding China)",
+			"ComponentName":"1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding China)",
+			"ComponentName":"FX",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding China)",
+			"ComponentName":"AUNZ (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding China)",
+			"ComponentName":"HKT (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding China)",
+			"ComponentName":"INDI (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding China)",
+			"ComponentName":"KORE (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding China)",
+			"ComponentName":"SEAS (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Worldwide (excluding China)",
+			"ComponentName":"ASIA (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Big 8",
+			"ComponentName":"US (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Big 8",
+			"ComponentName":"AMER (excluding US)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Big 8",
+			"ComponentName":"UK (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Big 8",
+			"ComponentName":"GER (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Big 8",
+			"ComponentName":"EMEA (excluding GER, UK)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Big 8",
+			"ComponentName":"ANZ (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Big 8",
+			"ComponentName":"ASIA (excluding ANZ)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Total Big 8",
+			"ComponentName":"JPN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ and FX)",
+			"ComponentName":"CHN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ and FX)",
+			"ComponentName":"HKT (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ and FX)",
+			"ComponentName":"IN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ and FX)",
+			"ComponentName":"KOR (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ and FX)",
+			"ComponentName":"SEA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ and FX)",
+			"ComponentName":"ASIA (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER + ASIA",
+			"ComponentName":"AMER (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER + ASIA",
+			"ComponentName":"ASIA (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER + EMEA",
+			"ComponentName":"AMER (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER + EMEA",
+			"ComponentName":"EMEA (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"NEUR (R)",
+			"ComponentName":"NORD (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"NEUR (R)",
+			"ComponentName":"UK (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"NEUR (R)",
+			"ComponentName":"SSAI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"NEUR (R)",
+			"ComponentName":"ME (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"SWEU (R)",
+			"ComponentName":"BEN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"SWEU (R)",
+			"ComponentName":"FRA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"SWEU (R)",
+			"ComponentName":"IBE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"SWEU (R)",
+			"ComponentName":"ITA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER + EMEA + #",
+			"ComponentName":"AMER (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER + EMEA + #",
+			"ComponentName":"EMEA (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER + EMEA + #",
+			"ComponentName":"#",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas excluding Russia & CIS",
+			"ComponentName":"AMER (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas excluding Russia & CIS",
+			"ComponentName":"ASIA (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas excluding Russia & CIS",
+			"ComponentName":"GER (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas excluding Russia & CIS",
+			"ComponentName":"SWI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas excluding Russia & CIS",
+			"ComponentName":"EE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas excluding Russia & CIS",
+			"ComponentName":"MED (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas excluding Russia & CIS",
+			"ComponentName":"FEUR (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas excluding Russia & CIS",
+			"ComponentName":"EMEA (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas excluding Russia & CIS",
+			"ComponentName":"UKI (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas excluding Russia & CIS",
+			"ComponentName":"Western Europe (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas excluding Russia & CIS",
+			"ComponentName":"JPN (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas excluding Russia & CIS",
+			"ComponentName":"#",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas excluding Russia & CIS",
+			"ComponentName":"1",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas excluding Russia & CIS",
+			"ComponentName":"FX",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA excluding Russia & CIS",
+			"ComponentName":"GER (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA excluding Russia & CIS",
+			"ComponentName":"SWI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA excluding Russia & CIS",
+			"ComponentName":"EE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA excluding Russia & CIS",
+			"ComponentName":"MED (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA excluding Russia & CIS",
+			"ComponentName":"FEUR (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA excluding Russia & CIS",
+			"ComponentName":"EMEA (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA excluding Russia & CIS",
+			"ComponentName":"UKI (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"EMEA excluding Russia & CIS",
+			"ComponentName":"Western Europe (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"LATAM China India + Other",
+			"ComponentName":"RLAN (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"LATAM China India + Other",
+			"ComponentName":"CHN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"LATAM China India + Other",
+			"ComponentName":"ME (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"LATAM China India + Other",
+			"ComponentName":"SEA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"LATAM China India + Other",
+			"ComponentName":"IN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (Excluding CHN)",
+			"ComponentName":"AUNZ (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (Excluding CHN)",
+			"ComponentName":"HKT (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (Excluding CHN)",
+			"ComponentName":"INDI (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (Excluding CHN)",
+			"ComponentName":"KORE (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (Excluding CHN)",
+			"ComponentName":"SEAS (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (Excluding CHN)",
+			"ComponentName":"ASIA (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER + EMEA (excluding Russia & CIS)",
+			"ComponentName":"AMER (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER + EMEA (excluding Russia & CIS)",
+			"ComponentName":"GER (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER + EMEA (excluding Russia & CIS)",
+			"ComponentName":"SWI (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER + EMEA (excluding Russia & CIS)",
+			"ComponentName":"EE (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER + EMEA (excluding Russia & CIS)",
+			"ComponentName":"MED (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER + EMEA (excluding Russia & CIS)",
+			"ComponentName":"FEUR (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER + EMEA (excluding Russia & CIS)",
+			"ComponentName":"EMEA (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER + EMEA (excluding Russia & CIS)",
+			"ComponentName":"UKI (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"AMER + EMEA (excluding Russia & CIS)",
+			"ComponentName":"Western Europe (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (RCIS, CHN Highlighted)",
+			"ComponentName":"All Market Areas (excluding RCIS, CHN)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (RCIS, CHN Highlighted)",
+			"ComponentName":"CHN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (RCIS, CHN Highlighted)",
+			"ComponentName":"RCIS (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (RCIS, CHN Highlighted)",
+			"ComponentName":"#",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (RCIS, CHN Highlighted)",
+			"ComponentName":"1",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (RCIS, CHN Highlighted)",
+			"ComponentName":"FX",
+			"Weight":1
+		},
+		{
+			"ParentName":"WW - Corporate",
+			"ComponentName":"AMER - Corporate",
+			"Weight":1
+		},
+		{
+			"ParentName":"WW - Corporate",
+			"ComponentName":"EMEA - Corporate",
+			"Weight":1
+		},
+		{
+			"ParentName":"WW - Corporate",
+			"ComponentName":"ASIA - Corporate",
+			"Weight":1
+		},
+		{
+			"ParentName":"WW - Corporate",
+			"ComponentName":"JPN - Corporate",
+			"Weight":1
+		},
+		{
+			"ParentName":"WW - Corporate",
+			"ComponentName":"# - Corporate",
+			"Weight":1
+		},
+		{
+			"ParentName":"WW - Strategic",
+			"ComponentName":"AMER - Strategic",
+			"Weight":1
+		},
+		{
+			"ParentName":"WW - Strategic",
+			"ComponentName":"EMEA - Strategic",
+			"Weight":1
+		},
+		{
+			"ParentName":"WW - Strategic",
+			"ComponentName":"ASIA - Strategic",
+			"Weight":1
+		},
+		{
+			"ParentName":"WW - Strategic",
+			"ComponentName":"JPN - Strategic",
+			"Weight":1
+		},
+		{
+			"ParentName":"WW - Strategic",
+			"ComponentName":"# - Strategic",
+			"Weight":1
+		},
+		{
+			"ParentName":"WW - Territory",
+			"ComponentName":"AMER - Territory",
+			"Weight":1
+		},
+		{
+			"ParentName":"WW - Territory",
+			"ComponentName":"EMEA - Territory",
+			"Weight":1
+		},
+		{
+			"ParentName":"WW - Territory",
+			"ComponentName":"ASIA - Territory",
+			"Weight":1
+		},
+		{
+			"ParentName":"WW - Territory",
+			"ComponentName":"JPN - Territory",
+			"Weight":1
+		},
+		{
+			"ParentName":"WW - Territory",
+			"ComponentName":"# - Territory",
+			"Weight":1
+		},
+		{
+			"ParentName":"WW - Other",
+			"ComponentName":"AMER - Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"WW - Other",
+			"ComponentName":"EMEA - Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"WW - Other",
+			"ComponentName":"ASIA - Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"WW - Other",
+			"ComponentName":"JPN - Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"WW - Other",
+			"ComponentName":"# - Other",
+			"Weight":1
+		},
+		{
+			"ParentName":"Excluded Orphans",
+			"ComponentName":"RASI (R)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Excluded Orphans",
+			"ComponentName":"MET (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"Excluded Orphans",
+			"ComponentName":"HK+TW",
+			"Weight":1
+		},
+		{
+			"ParentName":"HK+TW",
+			"ComponentName":"HK (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"HK+TW",
+			"ComponentName":"TW (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ, IN) by MA",
+			"ComponentName":"CHN (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ, IN) by MA",
+			"ComponentName":"HKT (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ, IN) by MA",
+			"ComponentName":"KOR (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ, IN) by MA",
+			"ComponentName":"SEA (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ, IN) by MA",
+			"ComponentName":"XB (MA)",
+			"Weight":1
+		},
+		{
+			"ParentName":"ASIA (excluding ANZ, IN) by MA",
+			"ComponentName":"ASIA (G) - #",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (excluding RCIS, CHN)",
+			"ComponentName":"EMEA excluding Russia & CIS",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (excluding RCIS, CHN)",
+			"ComponentName":"ASIA (Excluding CHN)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (excluding RCIS, CHN)",
+			"ComponentName":"JPN (G)",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Market Areas (excluding RCIS, CHN)",
+			"ComponentName":"AMER (G)",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"Market Area.subsets/0 - RCE Beginning Week Processing.json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-19(011700).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-19(131659).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-20(011703).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-20(131700).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-21(011659).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-21(131703).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-22(011700).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-22(131702).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-23(011700).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-23(131703).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-24(011700).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-24(131700).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-25(011700).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-25(131700).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-26(011703).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-26(131703).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-27(011703).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-27(131702).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-28(011659).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-28(131702).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-29(011704).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-29(131703).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-30(011702).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-30(131703).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-31(011700).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-08-31(131700).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-09-01(011659).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-10-17(202807).json",
+		"Market Area.subsets/Actuals Bookings Load New_2022-10-17(203730).json",
+		"Market Area.subsets/All Level 0.json",
+		"Market Area.subsets/AMER - Leaves.json",
+		"Market Area.subsets/ASIA.json",
+		"Market Area.subsets/ASIA - Leaves.json",
+		"Market Area.subsets/Beg Bal Check Set.json",
+		"Market Area.subsets/CCX-Entry.json",
+		"Market Area.subsets/CCX-focus.json",
+		"Market Area.subsets/Default.json",
+		"Market Area.subsets/eeee.json",
+		"Market Area.subsets/EMEA - Leaves - Key.json",
+		"Market Area.subsets/EMEA - Leaves - Key-Name.json",
+		"Market Area.subsets/EMEA - Leaves - Name.json",
+		"Market Area.subsets/EMEA Hierarchy.json",
+		"Market Area.subsets/EMEA Leaves.json",
+		"Market Area.subsets/etet.json",
+		"Market Area.subsets/Extract Data - Planning E2 - Subscription CSMB Entry E2 - for Planning Subscriptions_Source_2022-06-06(102812).json",
+		"Market Area.subsets/GEO - Static.json",
+		"Market Area.subsets/JPN.json",
+		"Market Area.subsets/JPN - Leaves.json",
+		"Market Area.subsets/Load Cube - FX Rates - Alloc Percentages - Ent DME - Full TEST_Target_2022-08-17(083457).json",
+		"Market Area.subsets/Load Cube - FX Rates - Alloc Percentages - Ent DME - IS10_Target_2022-08-17(114301).json",
+		"Market Area.subsets/Load Cube - Planning Consolidated - from Planning Revenue DMe_Source_2023-05-22(192958).json",
+		"Market Area.subsets/Load Cube - Planning Consolidated - from Planning Revenue DMe_Target_2023-05-22(192958).json",
+		"Market Area.subsets/Load Cube - Planning Consolidated - from Planning Revenue DME Enterprise_Source_2022-12-08(184041).json",
+		"Market Area.subsets/Load Cube - Planning Consolidated - from Planning Revenue DME Enterprise_Source_2022-12-08(184823).json",
+		"Market Area.subsets/Load Cube - Planning Consolidated - from Planning Revenue DME Enterprise_Target_2022-12-08(184041).json",
+		"Market Area.subsets/Load Cube - Planning Consolidated - from Planning Revenue DME Enterprise_Target_2022-12-08(184823).json",
+		"Market Area.subsets/Load Cube - Planning DDOM-Retention- Actuals - from DataBricks_Target_2023-06-08(230416).json",
+		"Market Area.subsets/Load Cube - Planning DDOM-Retention- Actuals - from DataBricks_Target_2023-06-08(230427).json",
+		"Market Area.subsets/Load Cube - Planning Revenue CSMB - from Planning Subs_Source_2022-12-14(180320).json",
+		"Market Area.subsets/Load Cube - Planning Revenue CSMB - from Planning Subs_Source_2022-12-14(181950).json",
+		"Market Area.subsets/Load Cube - Planning Revenue CSMB - from Planning Subs_Target_2022-12-14(180320).json",
+		"Market Area.subsets/Load Cube - Planning Revenue CSMB - from Planning Subs_Target_2022-12-14(181950).json",
+		"Market Area.subsets/Load Cube - Planning Revenue CSMB - Step 1_2023-01-12(164003).json",
+		"Market Area.subsets/Load Cube - Planning Revenue CSMB - Step 1_2023-01-12(164149).json",
+		"Market Area.subsets/Load Cube - Planning Revenue CSMB - Step 1_2023-01-12(164704).json",
+		"Market Area.subsets/Load Cube - Planning Revenue CSMB - Step 1_2023-01-18(183454).json",
+		"Market Area.subsets/Load Cube - Planning Revenue DMe - Copy Revenue Leakage_Target_2023-04-18(174750).json",
+		"Market Area.subsets/Load Cube - Planning Revenue DMe - Copy Revenue Leakage_Target_2023-04-18(174857).json",
+		"Market Area.subsets/Load Cube - Planning Revenue DMe - from Planning Subs_Source_2023-04-17(171851).json",
+		"Market Area.subsets/Load Cube - Planning Revenue DMe - from Planning Subs_Target_2023-04-17(171851).json",
+		"Market Area.subsets/Load Cube - Web Outlook Entry - from Subscription CSMB Entry E2_Source_2022-10-24(162928).json",
+		"Market Area.subsets/MA Leaves.json",
+		"Market Area.subsets/MA Leaves - Name.json",
+		"Market Area.subsets/SYS-Big 8.json",
+		"Market Area.subsets/TableauMarketAreas.json",
+		"Market Area.subsets/Test View Name 11.19.20.json",
+		"Market Area.subsets/tmp_sys_Dynamic MDX Subset Create 2022-05-17 (193716).json",
+		"Market Area.subsets/tmp_sys_Dynamic MDX Subset Create 2022-05-17 (202551).json",
+		"Market Area.subsets/View Name via Execute Process 11.19.20.json",
+		"Market Area.subsets/zCDR-MA DDOM.json",
+		"Market Area.subsets/zCDR-Turkey Alternates.json",
+		"Market Area.subsets/zSH Planning Subs Extract 5-23-22_2022-05-23(111500) J.json",
+		"Market Area.subsets/zTest.json",
+		"Market Area.subsets/zTest_Actuals Revenue V2.json"
+	]
+}

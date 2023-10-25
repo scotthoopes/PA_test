@@ -1,0 +1,1343 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Fiscal Quarter",
+	"Elements":
+	[
+		{
+			"Name":"All Periods",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2016",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Q1 2016",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 2016",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3 2016",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4 2016",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2017",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Q1 2017",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 2017",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3 2017",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4 2017",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2018",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Q1 2018",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 2018",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3 2018",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4 2018",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2019",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Q1 2019",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 2019",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3 2019",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4 2019",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2020",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Q1 2020",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 2020",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3 2020",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4 2020",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2021",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Q1 2021",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 2021",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3 2021",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4 2021",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2022",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Q1 2022",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 2022",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3 2022",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4 2022",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2023",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Q1 2023",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 2023",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3 2023",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4 2023",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2024",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Q1 2024",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 2024",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3 2024",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4 2024",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2025",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Q1 2025",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 2025",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3 2025",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4 2025",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2026",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Q1 2026",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 2026",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3 2026",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4 2026",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2027",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Q1 2027",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 2027",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3 2027",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4 2027",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"2028",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Q1 2028",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q2 2028",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q3 2028",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Q4 2028",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Alternate Custom Hierarchies",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2016 H1",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2016 H2",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2017 H1",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2017 H2",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2010 Q1 - Q3",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2011 Q1 - Q3",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2012 Q1 - Q3",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2013 Q1 - Q3",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2014 Q1 - Q3",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2015 Q1 - Q3",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2016 Q1 - Q3",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2017 Q1 - Q3",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2018 H1",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2018 H2",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2018 Q1 - Q3",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2019 H1",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2019 H2",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2019 Q1 - Q3",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2020 H1",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2020 H2",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2020 Q1 - Q3",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2021 H1",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2021 H2",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2021 Q1 - Q3",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2022 H1",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2022 H2",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2022 Q1 - Q3",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2023 H1",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2023 H2",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2023 Q1 - Q3",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2024 H1",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2024 H2",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2024 Q1 - Q3",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2025 H1",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2025 H2",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"2025 Q1 - Q3",
+			"Type":"Consolidated"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"All Periods",
+			"ComponentName":"2016",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Periods",
+			"ComponentName":"2017",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Periods",
+			"ComponentName":"2018",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Periods",
+			"ComponentName":"2019",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Periods",
+			"ComponentName":"2020",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Periods",
+			"ComponentName":"2021",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Periods",
+			"ComponentName":"2022",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Periods",
+			"ComponentName":"2023",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Periods",
+			"ComponentName":"2024",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Periods",
+			"ComponentName":"2025",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Periods",
+			"ComponentName":"2026",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Periods",
+			"ComponentName":"2027",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Periods",
+			"ComponentName":"2028",
+			"Weight":1
+		},
+		{
+			"ParentName":"2016",
+			"ComponentName":"Q1 2016",
+			"Weight":1
+		},
+		{
+			"ParentName":"2016",
+			"ComponentName":"Q2 2016",
+			"Weight":1
+		},
+		{
+			"ParentName":"2016",
+			"ComponentName":"Q3 2016",
+			"Weight":1
+		},
+		{
+			"ParentName":"2016",
+			"ComponentName":"Q4 2016",
+			"Weight":1
+		},
+		{
+			"ParentName":"2017",
+			"ComponentName":"Q1 2017",
+			"Weight":1
+		},
+		{
+			"ParentName":"2017",
+			"ComponentName":"Q2 2017",
+			"Weight":1
+		},
+		{
+			"ParentName":"2017",
+			"ComponentName":"Q3 2017",
+			"Weight":1
+		},
+		{
+			"ParentName":"2017",
+			"ComponentName":"Q4 2017",
+			"Weight":1
+		},
+		{
+			"ParentName":"2018",
+			"ComponentName":"Q1 2018",
+			"Weight":1
+		},
+		{
+			"ParentName":"2018",
+			"ComponentName":"Q2 2018",
+			"Weight":1
+		},
+		{
+			"ParentName":"2018",
+			"ComponentName":"Q3 2018",
+			"Weight":1
+		},
+		{
+			"ParentName":"2018",
+			"ComponentName":"Q4 2018",
+			"Weight":1
+		},
+		{
+			"ParentName":"2019",
+			"ComponentName":"Q1 2019",
+			"Weight":1
+		},
+		{
+			"ParentName":"2019",
+			"ComponentName":"Q2 2019",
+			"Weight":1
+		},
+		{
+			"ParentName":"2019",
+			"ComponentName":"Q3 2019",
+			"Weight":1
+		},
+		{
+			"ParentName":"2019",
+			"ComponentName":"Q4 2019",
+			"Weight":1
+		},
+		{
+			"ParentName":"2020",
+			"ComponentName":"Q1 2020",
+			"Weight":1
+		},
+		{
+			"ParentName":"2020",
+			"ComponentName":"Q2 2020",
+			"Weight":1
+		},
+		{
+			"ParentName":"2020",
+			"ComponentName":"Q3 2020",
+			"Weight":1
+		},
+		{
+			"ParentName":"2020",
+			"ComponentName":"Q4 2020",
+			"Weight":1
+		},
+		{
+			"ParentName":"2021",
+			"ComponentName":"Q1 2021",
+			"Weight":1
+		},
+		{
+			"ParentName":"2021",
+			"ComponentName":"Q2 2021",
+			"Weight":1
+		},
+		{
+			"ParentName":"2021",
+			"ComponentName":"Q3 2021",
+			"Weight":1
+		},
+		{
+			"ParentName":"2021",
+			"ComponentName":"Q4 2021",
+			"Weight":1
+		},
+		{
+			"ParentName":"2022",
+			"ComponentName":"Q1 2022",
+			"Weight":1
+		},
+		{
+			"ParentName":"2022",
+			"ComponentName":"Q2 2022",
+			"Weight":1
+		},
+		{
+			"ParentName":"2022",
+			"ComponentName":"Q3 2022",
+			"Weight":1
+		},
+		{
+			"ParentName":"2022",
+			"ComponentName":"Q4 2022",
+			"Weight":1
+		},
+		{
+			"ParentName":"2023",
+			"ComponentName":"Q1 2023",
+			"Weight":1
+		},
+		{
+			"ParentName":"2023",
+			"ComponentName":"Q2 2023",
+			"Weight":1
+		},
+		{
+			"ParentName":"2023",
+			"ComponentName":"Q3 2023",
+			"Weight":1
+		},
+		{
+			"ParentName":"2023",
+			"ComponentName":"Q4 2023",
+			"Weight":1
+		},
+		{
+			"ParentName":"2024",
+			"ComponentName":"Q1 2024",
+			"Weight":1
+		},
+		{
+			"ParentName":"2024",
+			"ComponentName":"Q2 2024",
+			"Weight":1
+		},
+		{
+			"ParentName":"2024",
+			"ComponentName":"Q3 2024",
+			"Weight":1
+		},
+		{
+			"ParentName":"2024",
+			"ComponentName":"Q4 2024",
+			"Weight":1
+		},
+		{
+			"ParentName":"2025",
+			"ComponentName":"Q1 2025",
+			"Weight":1
+		},
+		{
+			"ParentName":"2025",
+			"ComponentName":"Q2 2025",
+			"Weight":1
+		},
+		{
+			"ParentName":"2025",
+			"ComponentName":"Q3 2025",
+			"Weight":1
+		},
+		{
+			"ParentName":"2025",
+			"ComponentName":"Q4 2025",
+			"Weight":1
+		},
+		{
+			"ParentName":"2026",
+			"ComponentName":"Q1 2026",
+			"Weight":1
+		},
+		{
+			"ParentName":"2026",
+			"ComponentName":"Q2 2026",
+			"Weight":1
+		},
+		{
+			"ParentName":"2026",
+			"ComponentName":"Q3 2026",
+			"Weight":1
+		},
+		{
+			"ParentName":"2026",
+			"ComponentName":"Q4 2026",
+			"Weight":1
+		},
+		{
+			"ParentName":"2027",
+			"ComponentName":"Q1 2027",
+			"Weight":1
+		},
+		{
+			"ParentName":"2027",
+			"ComponentName":"Q2 2027",
+			"Weight":1
+		},
+		{
+			"ParentName":"2027",
+			"ComponentName":"Q3 2027",
+			"Weight":1
+		},
+		{
+			"ParentName":"2027",
+			"ComponentName":"Q4 2027",
+			"Weight":1
+		},
+		{
+			"ParentName":"2028",
+			"ComponentName":"Q1 2028",
+			"Weight":1
+		},
+		{
+			"ParentName":"2028",
+			"ComponentName":"Q2 2028",
+			"Weight":1
+		},
+		{
+			"ParentName":"2028",
+			"ComponentName":"Q3 2028",
+			"Weight":1
+		},
+		{
+			"ParentName":"2028",
+			"ComponentName":"Q4 2028",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2016 H1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2016 H2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2017 H1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2017 H2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2010 Q1 - Q3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2011 Q1 - Q3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2012 Q1 - Q3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2013 Q1 - Q3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2014 Q1 - Q3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2015 Q1 - Q3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2016 Q1 - Q3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2017 Q1 - Q3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2018 H1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2018 H2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2018 Q1 - Q3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2019 H1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2019 H2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2019 Q1 - Q3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2020 H1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2020 H2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2020 Q1 - Q3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2021 H1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2021 H2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2021 Q1 - Q3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2022 H1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2022 H2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2022 Q1 - Q3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2023 H1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2023 H2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2023 Q1 - Q3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2024 H1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2024 H2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2024 Q1 - Q3",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2025 H1",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2025 H2",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Custom Hierarchies",
+			"ComponentName":"2025 Q1 - Q3",
+			"Weight":1
+		},
+		{
+			"ParentName":"2016 H1",
+			"ComponentName":"Q1 2016",
+			"Weight":1
+		},
+		{
+			"ParentName":"2016 H1",
+			"ComponentName":"Q2 2016",
+			"Weight":1
+		},
+		{
+			"ParentName":"2016 H2",
+			"ComponentName":"Q3 2016",
+			"Weight":1
+		},
+		{
+			"ParentName":"2016 H2",
+			"ComponentName":"Q4 2016",
+			"Weight":1
+		},
+		{
+			"ParentName":"2017 H1",
+			"ComponentName":"Q1 2017",
+			"Weight":1
+		},
+		{
+			"ParentName":"2017 H1",
+			"ComponentName":"Q2 2017",
+			"Weight":1
+		},
+		{
+			"ParentName":"2017 H2",
+			"ComponentName":"Q3 2017",
+			"Weight":1
+		},
+		{
+			"ParentName":"2017 H2",
+			"ComponentName":"Q4 2017",
+			"Weight":1
+		},
+		{
+			"ParentName":"2016 Q1 - Q3",
+			"ComponentName":"Q1 2016",
+			"Weight":1
+		},
+		{
+			"ParentName":"2016 Q1 - Q3",
+			"ComponentName":"Q2 2016",
+			"Weight":1
+		},
+		{
+			"ParentName":"2016 Q1 - Q3",
+			"ComponentName":"Q3 2016",
+			"Weight":1
+		},
+		{
+			"ParentName":"2017 Q1 - Q3",
+			"ComponentName":"Q1 2017",
+			"Weight":1
+		},
+		{
+			"ParentName":"2017 Q1 - Q3",
+			"ComponentName":"Q2 2017",
+			"Weight":1
+		},
+		{
+			"ParentName":"2017 Q1 - Q3",
+			"ComponentName":"Q3 2017",
+			"Weight":1
+		},
+		{
+			"ParentName":"2018 H1",
+			"ComponentName":"Q1 2018",
+			"Weight":1
+		},
+		{
+			"ParentName":"2018 H1",
+			"ComponentName":"Q2 2018",
+			"Weight":1
+		},
+		{
+			"ParentName":"2018 H2",
+			"ComponentName":"Q3 2018",
+			"Weight":1
+		},
+		{
+			"ParentName":"2018 H2",
+			"ComponentName":"Q4 2018",
+			"Weight":1
+		},
+		{
+			"ParentName":"2018 Q1 - Q3",
+			"ComponentName":"Q1 2018",
+			"Weight":1
+		},
+		{
+			"ParentName":"2018 Q1 - Q3",
+			"ComponentName":"Q2 2018",
+			"Weight":1
+		},
+		{
+			"ParentName":"2018 Q1 - Q3",
+			"ComponentName":"Q3 2018",
+			"Weight":1
+		},
+		{
+			"ParentName":"2019 H1",
+			"ComponentName":"Q1 2019",
+			"Weight":1
+		},
+		{
+			"ParentName":"2019 H1",
+			"ComponentName":"Q2 2019",
+			"Weight":1
+		},
+		{
+			"ParentName":"2019 H2",
+			"ComponentName":"Q3 2019",
+			"Weight":1
+		},
+		{
+			"ParentName":"2019 H2",
+			"ComponentName":"Q4 2019",
+			"Weight":1
+		},
+		{
+			"ParentName":"2019 Q1 - Q3",
+			"ComponentName":"Q1 2019",
+			"Weight":1
+		},
+		{
+			"ParentName":"2019 Q1 - Q3",
+			"ComponentName":"Q2 2019",
+			"Weight":1
+		},
+		{
+			"ParentName":"2019 Q1 - Q3",
+			"ComponentName":"Q3 2019",
+			"Weight":1
+		},
+		{
+			"ParentName":"2020 H1",
+			"ComponentName":"Q1 2020",
+			"Weight":1
+		},
+		{
+			"ParentName":"2020 H1",
+			"ComponentName":"Q2 2020",
+			"Weight":1
+		},
+		{
+			"ParentName":"2020 H2",
+			"ComponentName":"Q3 2020",
+			"Weight":1
+		},
+		{
+			"ParentName":"2020 H2",
+			"ComponentName":"Q4 2020",
+			"Weight":1
+		},
+		{
+			"ParentName":"2020 Q1 - Q3",
+			"ComponentName":"Q1 2020",
+			"Weight":1
+		},
+		{
+			"ParentName":"2020 Q1 - Q3",
+			"ComponentName":"Q2 2020",
+			"Weight":1
+		},
+		{
+			"ParentName":"2020 Q1 - Q3",
+			"ComponentName":"Q3 2020",
+			"Weight":1
+		},
+		{
+			"ParentName":"2021 H1",
+			"ComponentName":"Q1 2021",
+			"Weight":1
+		},
+		{
+			"ParentName":"2021 H1",
+			"ComponentName":"Q2 2021",
+			"Weight":1
+		},
+		{
+			"ParentName":"2021 H2",
+			"ComponentName":"Q3 2021",
+			"Weight":1
+		},
+		{
+			"ParentName":"2021 H2",
+			"ComponentName":"Q4 2021",
+			"Weight":1
+		},
+		{
+			"ParentName":"2021 Q1 - Q3",
+			"ComponentName":"Q1 2021",
+			"Weight":1
+		},
+		{
+			"ParentName":"2021 Q1 - Q3",
+			"ComponentName":"Q2 2021",
+			"Weight":1
+		},
+		{
+			"ParentName":"2021 Q1 - Q3",
+			"ComponentName":"Q3 2021",
+			"Weight":1
+		},
+		{
+			"ParentName":"2022 H1",
+			"ComponentName":"Q1 2022",
+			"Weight":1
+		},
+		{
+			"ParentName":"2022 H1",
+			"ComponentName":"Q2 2022",
+			"Weight":1
+		},
+		{
+			"ParentName":"2022 H2",
+			"ComponentName":"Q3 2022",
+			"Weight":1
+		},
+		{
+			"ParentName":"2022 H2",
+			"ComponentName":"Q4 2022",
+			"Weight":1
+		},
+		{
+			"ParentName":"2022 Q1 - Q3",
+			"ComponentName":"Q1 2022",
+			"Weight":1
+		},
+		{
+			"ParentName":"2022 Q1 - Q3",
+			"ComponentName":"Q2 2022",
+			"Weight":1
+		},
+		{
+			"ParentName":"2022 Q1 - Q3",
+			"ComponentName":"Q3 2022",
+			"Weight":1
+		},
+		{
+			"ParentName":"2023 H1",
+			"ComponentName":"Q1 2023",
+			"Weight":1
+		},
+		{
+			"ParentName":"2023 H1",
+			"ComponentName":"Q2 2023",
+			"Weight":1
+		},
+		{
+			"ParentName":"2023 H2",
+			"ComponentName":"Q3 2023",
+			"Weight":1
+		},
+		{
+			"ParentName":"2023 H2",
+			"ComponentName":"Q4 2023",
+			"Weight":1
+		},
+		{
+			"ParentName":"2023 Q1 - Q3",
+			"ComponentName":"Q1 2023",
+			"Weight":1
+		},
+		{
+			"ParentName":"2023 Q1 - Q3",
+			"ComponentName":"Q2 2023",
+			"Weight":1
+		},
+		{
+			"ParentName":"2023 Q1 - Q3",
+			"ComponentName":"Q3 2023",
+			"Weight":1
+		},
+		{
+			"ParentName":"2024 H1",
+			"ComponentName":"Q1 2024",
+			"Weight":1
+		},
+		{
+			"ParentName":"2024 H1",
+			"ComponentName":"Q2 2024",
+			"Weight":1
+		},
+		{
+			"ParentName":"2024 H2",
+			"ComponentName":"Q3 2024",
+			"Weight":1
+		},
+		{
+			"ParentName":"2024 H2",
+			"ComponentName":"Q4 2024",
+			"Weight":1
+		},
+		{
+			"ParentName":"2024 Q1 - Q3",
+			"ComponentName":"Q1 2024",
+			"Weight":1
+		},
+		{
+			"ParentName":"2024 Q1 - Q3",
+			"ComponentName":"Q2 2024",
+			"Weight":1
+		},
+		{
+			"ParentName":"2024 Q1 - Q3",
+			"ComponentName":"Q3 2024",
+			"Weight":1
+		},
+		{
+			"ParentName":"2025 H1",
+			"ComponentName":"Q1 2025",
+			"Weight":1
+		},
+		{
+			"ParentName":"2025 H1",
+			"ComponentName":"Q2 2025",
+			"Weight":1
+		},
+		{
+			"ParentName":"2025 H2",
+			"ComponentName":"Q3 2025",
+			"Weight":1
+		},
+		{
+			"ParentName":"2025 H2",
+			"ComponentName":"Q4 2025",
+			"Weight":1
+		},
+		{
+			"ParentName":"2025 Q1 - Q3",
+			"ComponentName":"Q1 2025",
+			"Weight":1
+		},
+		{
+			"ParentName":"2025 Q1 - Q3",
+			"ComponentName":"Q2 2025",
+			"Weight":1
+		},
+		{
+			"ParentName":"2025 Q1 - Q3",
+			"ComponentName":"Q3 2025",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"Fiscal Quarter.subsets/1-RTMMigrationBU.json",
+		"Fiscal Quarter.subsets/2017 Quarters.json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-19(011700).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-19(131659).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-20(011703).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-20(131700).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-21(011659).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-21(131703).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-22(011700).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-22(131702).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-23(011700).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-23(131703).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-24(011700).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-24(131700).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-25(011700).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-25(131700).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-26(011703).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-26(131703).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-27(011703).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-27(131702).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-28(011659).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-28(131702).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-29(011704).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-29(131703).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-30(011702).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-30(131703).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-31(011700).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-08-31(131700).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-09-01(011659).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-10-17(202807).json",
+		"Fiscal Quarter.subsets/Actuals Bookings Load New_2022-10-17(203730).json",
+		"Fiscal Quarter.subsets/Bookings Extract Quarters.json",
+		"Fiscal Quarter.subsets/Current Planning Quarter.json",
+		"Fiscal Quarter.subsets/Default.json",
+		"Fiscal Quarter.subsets/E1-Current Quarters.json",
+		"Fiscal Quarter.subsets/E1-Current Quarters 2 Back.json",
+		"Fiscal Quarter.subsets/HANAExtractQuarters.json",
+		"Fiscal Quarter.subsets/Karen Extract Quarters.json",
+		"Fiscal Quarter.subsets/Load Cube - Planning Consolidated - from Planning Revenue DMe_Source_2023-05-22(192958).json",
+		"Fiscal Quarter.subsets/Load Cube - Planning Consolidated - from Planning Revenue DMe_Target_2023-05-22(192958).json",
+		"Fiscal Quarter.subsets/Load Cube - Planning Consolidated - from Planning Revenue DME Enterprise_Target_2022-12-08(184041).json",
+		"Fiscal Quarter.subsets/Load Cube - Planning Consolidated - from Planning Revenue DME Enterprise_Target_2022-12-08(184823).json",
+		"Fiscal Quarter.subsets/Load Cube - Planning Revenue CSMB - from Planning Subs_Target_2022-12-14(180320).json",
+		"Fiscal Quarter.subsets/Load Cube - Planning Revenue CSMB - from Planning Subs_Target_2022-12-14(181950).json",
+		"Fiscal Quarter.subsets/Load Cube - Planning Revenue CSMB - Step 1_2023-01-12(164003).json",
+		"Fiscal Quarter.subsets/Load Cube - Planning Revenue CSMB - Step 1_2023-01-12(164149).json",
+		"Fiscal Quarter.subsets/Load Cube - Planning Revenue CSMB - Step 1_2023-01-12(164704).json",
+		"Fiscal Quarter.subsets/Load Cube - Planning Revenue CSMB - Step 1_2023-01-18(183454).json",
+		"Fiscal Quarter.subsets/Load Cube - Planning Revenue DMe - Copy Revenue Leakage_Target_2023-04-18(174750).json",
+		"Fiscal Quarter.subsets/Load Cube - Planning Revenue DMe - Copy Revenue Leakage_Target_2023-04-18(174857).json",
+		"Fiscal Quarter.subsets/Load Cube - Planning Revenue DMe - from Planning Subs_Target_2023-04-17(171851).json",
+		"Fiscal Quarter.subsets/Quarters.json",
+		"Fiscal Quarter.subsets/Quarters - Leaves.json",
+		"Fiscal Quarter.subsets/Sales Allocation Quarters.json",
+		"Fiscal Quarter.subsets/Sales Allocation Source.json",
+		"Fiscal Quarter.subsets/TableauQuarters.json",
+		"Fiscal Quarter.subsets/TableauQuarters_Units.json",
+		"Fiscal Quarter.subsets/TableauQuartersRyan.json",
+		"Fiscal Quarter.subsets/Test View Name 11.19.20.json",
+		"Fiscal Quarter.subsets/transfer - actuals demand.json",
+		"Fiscal Quarter.subsets/View Name via Execute Process 11.19.20.json",
+		"Fiscal Quarter.subsets/Years.json",
+		"Fiscal Quarter.subsets/zTest.json"
+	]
+}

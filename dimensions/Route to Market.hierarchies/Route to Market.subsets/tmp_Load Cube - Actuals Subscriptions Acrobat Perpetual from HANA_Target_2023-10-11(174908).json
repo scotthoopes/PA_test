@@ -1,0 +1,5 @@
+{
+	"@type":"Subset",
+	"Name":"tmp_Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2023-10-11(174908)",
+	"Expression":"{FILTER( {TM1SUBSETALL( [Route to Market] )}, [Route to Market].[Phone Vs. Web] <> \"\")}"
+}

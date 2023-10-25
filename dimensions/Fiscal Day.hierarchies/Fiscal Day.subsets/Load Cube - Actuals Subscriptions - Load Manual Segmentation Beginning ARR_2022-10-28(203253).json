@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-28(203253)",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Fiscal Day')/Hierarchies('Fiscal Day')/Elements('2022-09-03')"
+		}
+	]
+}

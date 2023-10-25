@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"SYS-Big 8",
+	"Alias":"Name",
+	"Expression":"{EXCEPT(DRILLDOWNMEMBER({[Market Area].[Market Area].[Total Big 8]} , {[Market Area].[Market Area].[Total Big 8]} , RECURSIVE) , {[Market Area].[Market Area].[Total Big 8]})}"
+}

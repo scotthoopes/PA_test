@@ -1,0 +1,35 @@
+{
+	"@type":"Subset",
+	"Name":"CCX-focus",
+	"Alias":"Name",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('All Market Areas')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('US (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('UK (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('GER (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('FRA (MA)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('JPN (G)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('AMER (excluding US)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('EMEA (excluding UK, Germany, France)')"
+		},
+		{
+			"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('ASIA (G)')"
+		}
+	]
+}

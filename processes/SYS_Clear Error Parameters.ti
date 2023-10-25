@@ -1,0 +1,55 @@
+#region Prolog
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+
+#GENERALCOMMENT # Chores keep track of global parameters from one run to the next.  
+#GENERALCOMMENT # This process is designed to reset the error count for a chore.
+#LASTCHANGE # Initial Creation - v1.00 - SCB / Prokarma
+#LASTCHANGE # Add logging for Doc_TI Cube 11/13/2020 SH
+
+sProcessName = GetProcessName ( ) ;
+sTimeStamp = Timst ( NOW, '\Y-\m-\d(\h\i\s)' ) ;
+sTM1User = TM1User ( ) ;
+IF ( DIMIX ( '}Clients', sTM1User ) <> 0 ) ;
+	sTM1User = Attrs ( '}Clients', sTM1User, '}TM1_DefaultDisplayValue' ) 
+		| '=' | Attrs ( '}Clients', sTM1User, 'Name' ) ;
+ENDIF ;
+IF ( sTM1User @= '=' ) ;
+	sTM1User = TM1User ( ) ;
+ENDIF ;
+
+CellPutS ( sTimeStamp, 'Doc_TI Processes', sProcessName, 'Start Time' ) ;
+CellPutS ( sTM1User, 'Doc_TI Processes', sProcessName, 'Run By' ) ;
+
+sMsg = '' ;
+sLoadMethod = '' ;
+
+#------------------------------------------------------------------------------------------#
+#PROLOGCOMMENT # Establish process-level variables. #
+#------------------------------------------------------------------------------------------#
+### ALWAYS INCLUDE THE FOLLOWING VARIABLES. ###
+
+nSourceRecCnt = 0 ;
+nOutputRecCnt = 0 ;
+nSkipRecCnt = 0 ;
+
+NumericGlobalVariable ( 'PrologMinorErrorCount' ) ;
+NumericGlobalVariable ( 'MetadataMinorErrorCount' ) ;
+NumericGlobalVariable ( 'DataMinorErrorCount' ) ;
+
+
+PrologMinorErrorCount = 0;
+MetadataMinorErrorCount = 0;
+DataMinorErrorCount = 0;
+#endregion
+#region Epilog
+#****Begin: Generated Statements***
+#****End: Generated Statements****
+
+#----------------------------------------------------------------------------------------------------------------------
+#EPILOGCOMMENT # Log the Process Run Complete
+#----------------------------------------------------------------------------------------------------------------------
+
+sTimeStamp = TimSt ( NOW, '\Y-\m-\d(\h\i\s)' ) ;
+CellPutS ( sTimeStamp, 'Doc_TI Processes', sProcessName, 'End Time' ) ;
+#endregion

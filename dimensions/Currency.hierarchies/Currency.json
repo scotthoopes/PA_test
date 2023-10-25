@@ -1,0 +1,1134 @@
+{
+	"@type":"Hierarchy",
+	"Name":"Currency",
+	"Elements":
+	[
+		{
+			"Name":"All Currencies",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"AED",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AUD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BBD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BMD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BRL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CAD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CHF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CLP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CNY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"COP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CZK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DKK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EUR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GBP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HKD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ILS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"INR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JPY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KRW",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MDL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MXP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MXN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NOK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NZD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PHP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PLN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PLZ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RON",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RUB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SEK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SGD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TRY",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TWD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"UAH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"USD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ZAR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ARS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BHD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"EGP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IDR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"JOD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KWD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LBP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MYR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"OMR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PEN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"QAR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"SAR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"THB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BEF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DEM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ECU",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ESP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FIM",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"FRF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IEP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ITL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NLG",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NULL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CRC",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KZT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MAD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HRK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KYD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"NGN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GEL",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GHS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BOB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PYG",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LKR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"VND",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BDT",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"KES",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TZS",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PKR",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"HUF",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BGN",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"ISK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"DZD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"AMD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"RSD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MMK",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"PAB",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"IQD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"MOP",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"GTQ",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"LYD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"CNH",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"Alternate Hierarchies",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"Allocation Currencies",
+			"Type":"Consolidated"
+		},
+		{
+			"Name":"TTD",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"TND",
+			"Type":"Numeric"
+		},
+		{
+			"Name":"BYN",
+			"Type":"Numeric"
+		}
+	],
+	"Edges":
+	[
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"AED",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"AUD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"BBD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"BMD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"BRL",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"BYN",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"CAD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"CHF",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"CLP",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"CNY",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"COP",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"CZK",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"DKK",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"EUR",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"GBP",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"HKD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"ILS",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"INR",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"JPY",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"KRW",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"MDL",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"MXP",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"MXN",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"NOK",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"NZD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"PHP",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"PLN",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"PLZ",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"RON",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"RUB",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"SEK",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"SGD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"TRY",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"TWD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"UAH",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"USD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"ZAR",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"ARS",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"BHD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"EGP",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"IDR",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"JOD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"KWD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"LBP",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"MYR",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"OMR",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"PEN",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"QAR",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"SAR",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"THB",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"BEF",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"DEM",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"ECU",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"ESP",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"FIM",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"FRF",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"IEP",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"ITL",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"NLG",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"NULL",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"CRC",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"KZT",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"MAD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"HRK",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"KYD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"NGN",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"GEL",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"GHS",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"BOB",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"PYG",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"LKR",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"VND",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"BDT",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"KES",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"TZS",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"PKR",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"HUF",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"BGN",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"ISK",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"DZD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"AMD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"RSD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"MMK",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"PAB",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"IQD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"MOP",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"GTQ",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"LYD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"TTD",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"TND",
+			"Weight":1
+		},
+		{
+			"ParentName":"All Currencies",
+			"ComponentName":"CNH",
+			"Weight":1
+		},
+		{
+			"ParentName":"Alternate Hierarchies",
+			"ComponentName":"Allocation Currencies",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"AED",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"ARS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"AUD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"BHD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"BRL",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"CAD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"CHF",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"CLP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"COP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"DKK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"EGP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"EUR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"GBP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"HKD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"IDR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"ILS",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"INR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"JOD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"JPY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"KRW",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"KWD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"LBP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"MYR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"NOK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"OMR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"PEN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"PHP",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"QAR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"RUB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"SAR",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"SEK",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"SGD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"THB",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"TRY",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"TWD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"USD",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"MXN",
+			"Weight":1
+		},
+		{
+			"ParentName":"Allocation Currencies",
+			"ComponentName":"NZD",
+			"Weight":1
+		}
+	],
+	"Subsets@Code.links":
+	[
+		"Currency.subsets/2022.07.26 - FX Allocation Auto Calc Testing DME CSMB (RCE)_Source_2022-07-26(122821).json",
+		"Currency.subsets/actuals.json",
+		"Currency.subsets/currencies.json",
+		"Currency.subsets/Default.json",
+		"Currency.subsets/etest.json",
+		"Currency.subsets/Level_0.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-13(184104).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-13(184104)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-13(190754).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-13(190754)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-14(192924).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-14(192924)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-14(225205).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-14(225205)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-17(174643).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-17(174643)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-17(181205).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-17(181205)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-24(193351).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-24(193351)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-28(203253).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-28(203253)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-31(191202).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-10-31(191202)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-01(160815).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-01(160815)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-03(220243).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-03(220243)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-03(221328).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-03(221328)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-04(170615).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-04(170615)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-06(171120).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-06(171120)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-07(171210).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-07(171210)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-08(171542).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-08(171542)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-09(170932).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-09(170932)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-10(170558).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-10(170558)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-11(171222).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-11(171222)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-13(170731).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-13(170731)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-14(170806).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-14(170806)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-15(170757).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-15(170757)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-16(170903).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-16(170903)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-17(170900).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-17(170900)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-18(170459).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-18(170459)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-20(170738).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-20(170738)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-21(170414).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-21(170414)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-22(170808).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-22(170808)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-23(170837).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-23(170837)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-24(170938).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-24(170938)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-25(170956).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-25(170956)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-27(172039).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-27(172039)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-28(171955).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-28(171955)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-29(172527).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-29(172527)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-30(172404).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-11-30(172404)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-01(172606).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-01(172606)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-02(173745).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-02(173745)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-04(182332).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-04(182332)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-05(182757).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-05(182757)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-06(172110).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions - Load Manual Segmentation Beginning ARR_2022-12-06(172110)_Units.json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2022-12-02(174155).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2022-12-05(183214).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2023-02-20(170407).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2023-03-27(182736).json",
+		"Currency.subsets/Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2023-04-10(165426).json",
+		"Currency.subsets/Load Cube - FX Rates - Alloc Percentages - Ent DME - Full TEST_Target_2022-08-17(083457).json",
+		"Currency.subsets/Load Cube - FX Rates - Alloc Percentages - Ent DME - IS10_Target_2022-08-17(114301).json",
+		"Currency.subsets/zTest.json",
+		"Currency.subsets/zTest_Actuals Revenue V2.json"
+	]
+}

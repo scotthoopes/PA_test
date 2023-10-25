@@ -1,0 +1,10 @@
+{
+	"@type":"Subset",
+	"Name":"Beg Bal Check Set",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD')"
+		}
+	]
+}

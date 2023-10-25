@@ -1,0 +1,236 @@
+{
+	"@type":"NativeView",
+	"Name":"Default",
+	"Columns":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('Fiscal Quarter')/Hierarchies('Fiscal Quarter')"
+				},
+				"Elements":
+				[
+					{
+						"@id":"Dimensions('Fiscal Quarter')/Hierarchies('Fiscal Quarter')/Elements('2020')"
+					},
+					{
+						"@id":"Dimensions('Fiscal Quarter')/Hierarchies('Fiscal Quarter')/Elements('Q1 2020')"
+					},
+					{
+						"@id":"Dimensions('Fiscal Quarter')/Hierarchies('Fiscal Quarter')/Elements('Q2 2020')"
+					},
+					{
+						"@id":"Dimensions('Fiscal Quarter')/Hierarchies('Fiscal Quarter')/Elements('Q3 2020')"
+					},
+					{
+						"@id":"Dimensions('Fiscal Quarter')/Hierarchies('Fiscal Quarter')/Elements('Q4 2020')"
+					}
+				]
+			}
+		}
+	],
+	"Rows":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('Scenario')/Hierarchies('Scenario')"
+				},
+				"Alias":"Desc",
+				"Elements":
+				[
+					{
+						"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('2020 Plan')"
+					},
+					{
+						"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Forecast1')"
+					},
+					{
+						"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Actuals')"
+					},
+					{
+						"@id":"Dimensions('Scenario')/Hierarchies('Scenario')/Elements('Outlook - Current')"
+					}
+				]
+			}
+		}
+	],
+	"Titles":
+	[
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('Delivery Type')/Hierarchies('Delivery Type')"
+				},
+				"Elements":
+				[
+					{
+						"@id":"Dimensions('Delivery Type')/Hierarchies('Delivery Type')/Elements('All Delivery Types')"
+					},
+					{
+						"@id":"Dimensions('Delivery Type')/Hierarchies('Delivery Type')/Elements('Non-ACS')"
+					},
+					{
+						"@id":"Dimensions('Delivery Type')/Hierarchies('Delivery Type')/Elements('JE/Other')"
+					},
+					{
+						"@id":"Dimensions('Delivery Type')/Hierarchies('Delivery Type')/Elements('Non Standard')"
+					},
+					{
+						"@id":"Dimensions('Delivery Type')/Hierarchies('Delivery Type')/Elements('Subscription')"
+					},
+					{
+						"@id":"Dimensions('Delivery Type')/Hierarchies('Delivery Type')/Elements('T&E')"
+					},
+					{
+						"@id":"Dimensions('Delivery Type')/Hierarchies('Delivery Type')/Elements('T&M')"
+					},
+					{
+						"@id":"Dimensions('Delivery Type')/Hierarchies('Delivery Type')/Elements('Ratable')"
+					}
+				]
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Delivery Type')/Hierarchies('Delivery Type')/Elements('All Delivery Types')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Subsets('Default')"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('FX Conversion')/Hierarchies('FX Conversion')/Elements('USD')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')"
+				},
+				"Elements":
+				[
+					{
+						"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('Net New Revenue')"
+					}
+				]
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('planning PRO_m')/Hierarchies('planning PRO_m')/Elements('Net New Revenue')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('Delivery Personnel')/Hierarchies('Delivery Personnel')"
+				},
+				"Elements":
+				[
+					{
+						"@id":"Dimensions('Delivery Personnel')/Hierarchies('Delivery Personnel')/Elements('All Delivery Personnel')"
+					},
+					{
+						"@id":"Dimensions('Delivery Personnel')/Hierarchies('Delivery Personnel')/Elements('Offshore')"
+					},
+					{
+						"@id":"Dimensions('Delivery Personnel')/Hierarchies('Delivery Personnel')/Elements('Onshore')"
+					},
+					{
+						"@id":"Dimensions('Delivery Personnel')/Hierarchies('Delivery Personnel')/Elements('Other')"
+					},
+					{
+						"@id":"Dimensions('Delivery Personnel')/Hierarchies('Delivery Personnel')/Elements('Partner')"
+					}
+				]
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Delivery Personnel')/Hierarchies('Delivery Personnel')/Elements('All Delivery Personnel')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Subsets('Default')"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('PMBU')/Hierarchies('PMBU')/Elements('All Profit Centers')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"Hierarchy":
+				{
+					"@id":"Dimensions('PS Segment')/Hierarchies('PS Segment')"
+				},
+				"Elements":
+				[
+					{
+						"@id":"Dimensions('PS Segment')/Hierarchies('PS Segment')/Elements('All PS Segments')"
+					},
+					{
+						"@id":"Dimensions('PS Segment')/Hierarchies('PS Segment')/Elements('Non-ACS')"
+					},
+					{
+						"@id":"Dimensions('PS Segment')/Hierarchies('PS Segment')/Elements('ACS')"
+					},
+					{
+						"@id":"Dimensions('PS Segment')/Hierarchies('PS Segment')/Elements('Other')"
+					}
+				]
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('PS Segment')/Hierarchies('PS Segment')/Elements('All PS Segments')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')/Subsets('Default')"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')/Elements('All Major Product Configs')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Subsets('Default')"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Market Segment')/Hierarchies('Market Segment')/Elements('All Market Segments')"
+			}
+		},
+		{
+			"Subset":
+			{
+				"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Subsets('Default')"
+			},
+			"Selected":
+			{
+				"@id":"Dimensions('Market Area')/Hierarchies('Market Area')/Elements('All Market Areas')"
+			}
+		}
+	],
+	"SuppressEmptyColumns":true,
+	"SuppressEmptyRows":true,
+	"FormatString":"#,##0.00"
+}

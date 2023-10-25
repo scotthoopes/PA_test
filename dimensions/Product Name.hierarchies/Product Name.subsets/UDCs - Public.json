@@ -1,0 +1,11 @@
+{
+	"@type":"Subset",
+	"Name":"UDCs - Public",
+	"Alias":"Name",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Product Name')/Hierarchies('Product Name')/Elements('Product Name - Leaves - No Other Perpetual')"
+		}
+	]
+}

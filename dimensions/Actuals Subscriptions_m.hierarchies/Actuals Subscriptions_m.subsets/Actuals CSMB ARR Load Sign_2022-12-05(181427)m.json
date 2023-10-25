@@ -1,0 +1,13 @@
+{
+	"@type":"Subset",
+	"Name":"Actuals CSMB ARR Load Sign_2022-12-05(181427)m",
+	"Elements":
+	[
+		{
+			"@id":"Dimensions('Actuals Subscriptions_m')/Hierarchies('Actuals Subscriptions_m')/Elements('Beginning ARR')"
+		},
+		{
+			"@id":"Dimensions('Actuals Subscriptions_m')/Hierarchies('Actuals Subscriptions_m')/Elements('Ending ARR')"
+		}
+	]
+}

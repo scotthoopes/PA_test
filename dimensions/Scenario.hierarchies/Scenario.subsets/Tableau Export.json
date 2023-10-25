@@ -1,0 +1,6 @@
+{
+	"@type":"Subset",
+	"Name":"Tableau Export",
+	"Alias":"Other Name",
+	"Expression":"{ {TM1DRILLDOWNMEMBER( {[Tableau Export]}, ALL, RECURSIVE )}\r,{FILTER( {TM1SUBSETALL( [Scenario] )}, [Scenario].CurrentMember.Properties(\"Tableau Export\") = \"Weekly FULL\")} }"
+}

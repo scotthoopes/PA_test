@@ -1,0 +1,12 @@
+{
+	"@type":"Dimension",
+	"Name":"Major Product Config",
+	"Hierarchies@Code.links":
+	[
+		"Major Product Config.hierarchies/Major Product Config.json"
+	],
+	"DefaultHierarchy":
+	{
+		"@id":"Dimensions('Major Product Config')/Hierarchies('Major Product Config')"
+	}
+}
