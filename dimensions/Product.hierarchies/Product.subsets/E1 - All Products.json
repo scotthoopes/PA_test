@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"E1 - All Products",
-	"Expression":"{[Product].MEMBERS}"
-}

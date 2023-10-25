@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"SYS-OL Input variance to QRF Prev",
-	"ExpandAbove":true,
-	"Expression":"{DRILLDOWNMEMBER({[Scenario].[Scenario].[Outlook-Input - QRF-Previous]} , {[Scenario].[Scenario].[Outlook-Input - QRF-Previous]} , RECURSIVE)}"
-}

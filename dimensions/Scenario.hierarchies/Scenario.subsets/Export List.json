@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Export List",
-	"Expression":"{FILTER( {TM1SUBSETALL( [Scenario] )}, [Scenario].[Export Flag] = \"Y\")}"
-}

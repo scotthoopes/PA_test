@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"EMEA - Leaves - Name",
-	"Alias":"Name",
-	"Expression":"{TM1FILTERBYLEVEL( {TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1FILTERBYLEVEL( {TM1SUBSETALL( [Market Area] )}, 2)}, \"emea (g)*\")}, ALL, RECURSIVE )}, 0)}"
-}

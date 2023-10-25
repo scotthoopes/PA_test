@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"SYS-Geo Extract",
-	"Expression":"{FILTER(TM1SUBSETALL([Scenario]) , [Scenario Info].([Scenario Info_m].[Geo Extract]) <> \"\")}"
-}

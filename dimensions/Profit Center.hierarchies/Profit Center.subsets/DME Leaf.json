@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"DME Leaf",
-	"Expression":"{TM1FILTERBYLEVEL( {TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [Profit Center] )}, \"xr10\")}, ALL, RECURSIVE )}, 0)}"
-}

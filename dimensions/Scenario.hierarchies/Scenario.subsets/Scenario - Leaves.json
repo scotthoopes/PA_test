@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Scenario - Leaves",
-	"Alias":"Desc",
-	"Expression":"{TM1FILTERBYLEVEL( {TM1SUBSETALL( [Scenario] )}, 0)}"
-}

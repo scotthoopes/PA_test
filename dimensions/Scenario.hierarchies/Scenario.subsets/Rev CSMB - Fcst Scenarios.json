@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Rev CSMB - Fcst Scenarios",
-	"Expression":"{ORDER(FILTER(FILTER(TM1FILTERBYLEVEL(TM1SUBSETALL([Scenario].[Scenario]) , 0) , [Scenario].[Plan Type] <> \"Actuals\") , [Scenario].[Lock Status] = \"Open\") , [Scenario].[Scenario].CURRENTMEMBER.PROPERTIES(\"MEMBER_NAME\") , BASC)}"
-}

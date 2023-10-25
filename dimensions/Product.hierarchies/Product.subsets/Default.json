@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Default",
-	"Expression":"{\r{TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [Product] )}, \"All Products\")}, { [Product].[All Products] }, RECURSIVE ) }  ,\r TM1FILTERBYPATTERN( {TM1SUBSETALL( [Product] )}, \"Alternate Hierarchies\") \r}"
-}

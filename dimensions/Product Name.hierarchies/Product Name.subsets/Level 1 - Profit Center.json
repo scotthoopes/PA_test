@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Level 1 - Profit Center",
-	"Expression":"{TM1SORT( {TM1FILTERBYLEVEL( {TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [Product Name] )}, \"All Product Names\")}, ALL, RECURSIVE )}, 1)}, ASC)}"
-}

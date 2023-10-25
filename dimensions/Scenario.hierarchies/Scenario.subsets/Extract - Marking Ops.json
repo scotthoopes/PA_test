@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Extract - Marking Ops",
-	"Alias":"Desc",
-	"Expression":"{\r    TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"Actuals\") ,\r    TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"OL - Current\") ,\r    TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"OL - Previous\") ,\r    TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"2019 Plan\") ,\r    TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"Q4 QRF 2019\") \r}"
-}

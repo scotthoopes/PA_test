@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"TableauWeeklyScenarios",
-	"Alias":"Desc",
-	"Expression":"{\r    TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"OL - Previous\") ,\r    TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"OL - Current\"), \r    TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"Q3 QRF 2016\") \r}"
-}

@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Default",
-	"Expression":"{{TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"Common Scenarios\")}, ALL, RECURSIVE )}\r,\r{TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"Outlooks - Recent\")}, ALL, RECURSIVE )}\r,\r{TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"QRF Scenarios\")}, ALL, RECURSIVE )}\r,\r{TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"Plan Scenarios - Locked\")}, ALL, RECURSIVE )}\r,\r{TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"Locked Reporting Plans\")}, ALL, RECURSIVE )}\r}"
-}

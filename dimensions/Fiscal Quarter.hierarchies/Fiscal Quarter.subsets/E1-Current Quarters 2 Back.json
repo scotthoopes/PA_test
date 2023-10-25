@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"E1-Current Quarters 2 Back",
-	"Expression":"{DRILLDOWNMEMBER({[Fiscal Quarter].[Fiscal Quarter].[2019]} , {[Fiscal Quarter].[Fiscal Quarter].[2019]} , RECURSIVE),DRILLDOWNMEMBER({[Fiscal Quarter].[Fiscal Quarter].[2020]} , {[Fiscal Quarter].[Fiscal Quarter].[2020]} , RECURSIVE),DRILLDOWNMEMBER({[Fiscal Quarter].[Fiscal Quarter].[2021]} , {[Fiscal Quarter].[Fiscal Quarter].[2021]} , RECURSIVE),DRILLDOWNMEMBER({[Fiscal Quarter].[Fiscal Quarter].[2022]} , {[Fiscal Quarter].[Fiscal Quarter].[2022]} , RECURSIVE),DRILLDOWNMEMBER({[Fiscal Quarter].[Fiscal Quarter].[2023]} , {[Fiscal Quarter].[Fiscal Quarter].[2023]} , RECURSIVE)}"
-}

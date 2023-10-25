@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Internal Segment - Acrobat Expanded to PMBU",
-	"Expression":"{\r    TM1FILTERBYLEVEL( {TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [Profit Center] )}, \"all profit centers\")}, ALL, RECURSIVE )}, 2) ,\r    TM1FILTERBYPATTERN( {TM1SUBSETALL( [Profit Center] )}, \"10800\") ,\r    TM1FILTERBYPATTERN( {TM1SUBSETALL( [Profit Center] )}, \"13700\")\r }"
-}

@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Adobe Marketing Cloud - Leaf Level Elements",
-	"Alias":"Key - Name",
-	"Expression":"{TM1FILTERBYLEVEL( {TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [Profit Center] )}, \"eb20 - adobe marketing cloud\")}, { [Profit Center].[EB20] }, RECURSIVE ) }, 0)}"
-}

@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"zSYS - Predictive DDOM",
-	"Alias":"Desc",
-	"Expression":"{[Scenario].[Scenario].[Common Scenarios^Forecast1],[Scenario].[Scenario].[Common Scenarios^Actuals],DRILLDOWNMEMBER(HIERARCHIZE(INTERSECT(TM1DRILLDOWNMEMBER(TM1SubsetToSet([Scenario].[Scenario] , \"Default\" , \"public\") , ALL , RECURSIVE) , {[Scenario].[Scenario].[Multivariate Forecast]})) , {[Scenario].[Scenario].[Multivariate Forecast]}),[Scenario].[Scenario].[Rolling Forecast]}"
-}

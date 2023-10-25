@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Sales District - Leaves",
-	"Alias":"Key - Name",
-	"Expression":"{TM1SORT( {TM1FILTERBYLEVEL( {TM1SUBSETALL( [Sales District] )}, 0)}, ASC)}"
-}

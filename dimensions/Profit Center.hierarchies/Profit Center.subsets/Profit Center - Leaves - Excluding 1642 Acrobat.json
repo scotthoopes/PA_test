@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Profit Center - Leaves - Excluding 1642 Acrobat",
-	"Expression":"EXCEPT ( TM1FILTERBYLEVEL( {TM1SUBSETALL( [Profit Center] )}, 0)\r, TM1FILTERBYPATTERN( {TM1SUBSETALL( [Profit Center] )}, \"1642\") \r )"
-}

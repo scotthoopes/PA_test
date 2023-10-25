@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"SYS-Set as Entry Scenarios",
-	"Expression":"{ORDER(FILTER(TM1SUBSETALL([Scenario].[Scenario]) , ([Scenario].[Scenario].CURRENTMEMBER.PROPERTIES(\"Plan Type\") = \"Forecast\")) , [Scenario].[Scenario].CURRENTMEMBER.PROPERTIES(\"MEMBER_NAME\") , BASC)}"
-}

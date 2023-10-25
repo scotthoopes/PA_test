@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"planning - ESS",
-	"Expression":"{TM1SORT( {TM1FILTERBYLEVEL( {TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [Profit Center] )}, \"all profit centers\")}, ALL, RECURSIVE )}, 1)}, ASC)}"
-}

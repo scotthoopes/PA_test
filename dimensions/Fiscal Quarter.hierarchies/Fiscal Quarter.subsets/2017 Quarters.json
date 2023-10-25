@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"2017 Quarters",
-	"Expression":"{TM1FILTERBYPATTERN( {TM1FILTERBYLEVEL( {TM1SUBSETALL( [Fiscal Quarter] )}, 0)}, \"*2017*\")}"
-}

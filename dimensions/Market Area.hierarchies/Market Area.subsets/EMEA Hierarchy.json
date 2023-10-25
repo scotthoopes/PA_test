@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"EMEA Hierarchy",
-	"Expression":"{TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [Market Area] )}, \"emea (g)\")}, ALL, RECURSIVE )}"
-}

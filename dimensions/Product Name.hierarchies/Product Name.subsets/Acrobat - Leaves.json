@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Acrobat - Leaves",
-	"Alias":"Key - Name",
-	"Expression":"{TM1FILTERBYLEVEL( { HIERARCHIZE( {TM1DRILLDOWNMEMBER( {[Product Name].[10800]}, ALL, RECURSIVE )})  }, 0)}"
-}

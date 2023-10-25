@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Default",
-	"Expression":"{EXCEPT(DRILLDOWNMEMBER({[Fiscal Quarter].[Fiscal Quarter].[All Periods]} , {[Fiscal Quarter].[Fiscal Quarter].[All Periods]} , RECURSIVE) , {[Fiscal Quarter].[Fiscal Quarter].[2009],[Fiscal Quarter].[Fiscal Quarter].[2010],[Fiscal Quarter].[Fiscal Quarter].[2011],[Fiscal Quarter].[Fiscal Quarter].[2012],[Fiscal Quarter].[Fiscal Quarter].[2013],[Fiscal Quarter].[Fiscal Quarter].[2014],[Fiscal Quarter].[Fiscal Quarter].[2015]})}"
-}

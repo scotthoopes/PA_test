@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"MP Scenario v3",
-	"Alias":"Desc",
-	"Expression":"{FILTER(TM1FILTERBYLEVEL(TM1SUBSETALL([Scenario]) , 0) , (([Scenario].CURRENTMEMBER.NAME = [Global Parameters].([Global Parameters].[Current QRF Name],[Global Parameters_m].[Value String]))))}"
-}

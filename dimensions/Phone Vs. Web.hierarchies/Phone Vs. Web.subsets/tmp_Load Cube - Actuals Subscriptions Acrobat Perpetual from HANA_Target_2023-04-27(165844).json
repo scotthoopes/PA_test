@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"tmp_Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2023-04-27(165844)",
-	"Expression":"{[Phone Vs. Web].[N/A],[Phone Vs. Web].[Web]}"
-}

@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Non-Acrobat - Leaves",
-	"Alias":"Key - Name",
-	"Expression":"{TM1FILTERBYLEVEL( { HIERARCHIZE( EXCEPT({TM1SUBSETALL( [Product Name] )}, {TM1DRILLDOWNMEMBER( {[Product Name].[10800]}, ALL, RECURSIVE )}) ) }, 0)}"
-}

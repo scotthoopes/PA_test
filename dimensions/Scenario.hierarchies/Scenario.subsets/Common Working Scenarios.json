@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Common Working Scenarios",
-	"Expression":"{{TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"Common Scenarios\")}, ALL, RECURSIVE )}\r,\r{TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"Outlooks - Recent\")}, ALL, RECURSIVE )}\r,\r{TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"QRF Scenarios\")}, ALL, RECURSIVE )}\r}"
-}

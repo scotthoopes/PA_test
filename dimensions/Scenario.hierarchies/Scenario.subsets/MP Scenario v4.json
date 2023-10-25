@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"MP Scenario v4",
-	"Alias":"Desc",
-	"Expression":"{{{{StrToMember(  \"[Scenario].[Scenario].[\"   + RIGHT( [Global Parameters].([Global Parameters].[Current QRF Name],[Global Parameters_m].[Value String]), 4)   + \" Plan]\"  ) }}}}"
-}

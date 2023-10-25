@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Current Planning Quarter",
-	"Expression":"{\r    TM1FILTERBYPATTERN( TM1SUBSETALL( [Fiscal Quarter] ), \r    ([Global Parameters].\r        ([Global Parameters].[Current Planning Quarter], \r         [Global Parameters_m].[Value String]))\r    )\r}\r"
-}

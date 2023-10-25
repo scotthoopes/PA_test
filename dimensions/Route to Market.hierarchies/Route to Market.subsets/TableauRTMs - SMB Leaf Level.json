@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"TableauRTMs - SMB Leaf Level",
-	"Expression":"{TM1FILTERBYLEVEL( {TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [Route to Market] )}, \"SMB & Consumer\")}, ALL, RECURSIVE )}, 0)}"
-}

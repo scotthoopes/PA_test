@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"tmp_Load Cube - Actuals Subscriptions Acrobat Perpetual from HANA_Target_2023-07-05(165442)",
-	"Expression":"{TM1FILTERBYLEVEL( {TM1DRILLDOWNMEMBER( {[Fiscal Day].[Q4 2022]}, ALL, RECURSIVE )}, 0)}"
-}

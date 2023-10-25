@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"E1 - Outlooks - Sorted",
-	"Alias":"Other Name",
-	"Expression":"{TM1SORT( {TM1FILTERBYLEVEL( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"*Outlook*\")}, 0)}, DESC)}"
-}

@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Level 3 - Geo",
-	"Alias":"Key - Name",
-	"Expression":"{TM1FILTERBYLEVEL( {TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [Sales District] )}, \"all sales districts\")}, ALL, RECURSIVE )}, 3)}"
-}

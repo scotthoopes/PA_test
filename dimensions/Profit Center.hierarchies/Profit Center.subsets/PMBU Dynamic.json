@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"PMBU Dynamic",
-	"Expression":"{TM1FILTERBYLEVEL( {TM1DRILLDOWNMEMBER( {TM1SubsetBasis()}, { [Profit Center].[All Profit Centers] }, RECURSIVE ) }, 1)}"
-}

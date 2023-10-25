@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"SYS-Web Outlook",
-	"Expression":"{{[Offerings].[Offerings].[All Offerings^Acrobat CC],[Offerings].[Offerings].[All Offerings^Commercial Individual^CCM],[Offerings].[Offerings].[All Offerings^Commercial Individual^CCM PP],[Offerings].[Offerings].[All Offerings^Students],[Offerings].[Offerings].[All Offerings^Photography]}}"
-}

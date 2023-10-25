@@ -1,6 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"Bookings Default",
-	"Alias":"Desc",
-	"Expression":"{\r    TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"Actuals\") ,\r    TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"OL - Current\") ,\r    TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"OL - Previous\") ,\r    TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"OL - Previous 2 Weeks\") ,\r    TM1FILTERBYPATTERN( {TM1SUBSETALL( [Scenario] )}, \"2020 Plan\") \r}"
-}

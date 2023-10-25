@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"1-RTMElementsToExtract",
-	"Expression":"{TM1FILTERBYLEVEL( {TM1DRILLDOWNMEMBER( {TM1FILTERBYPATTERN( {TM1SUBSETALL( [Route to Market] )}, \"All Routes to Market\")}, ALL, RECURSIVE )}, 0)}"
-}

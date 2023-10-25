@@ -1,5 +1,0 @@
-{
-	"@type":"Subset",
-	"Name":"E1 - Sorted Leaves",
-	"Expression":"{TM1SORTBYINDEX(TM1FILTERBYLEVEL(TM1SUBSETALL([Offerings].[Offerings]) , 0) , DESC)}"
-}
